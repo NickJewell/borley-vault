@@ -7,3 +7,7 @@ raw/
 # macOS
 .DS_Store
 **/.DS_Store
+
+# Enrichment tooling
+.nlm-enricher.py
+wiki/.nlm-enrichment-progress.json
