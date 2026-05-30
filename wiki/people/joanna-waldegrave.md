@@ -43,3 +43,30 @@ Banks was also investigating whether "Lairre" might be a corruption of "Lier" (o
 - [[arabella-waldegrave]] — granddaughter of James II; the third major candidate
 - [[marie-lairre]] — the named entity from the séances
 - [[waldegrave-family]] — family context
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Joanna Waldegrave (Sister Theodosia)** is an important figure in the historical research surrounding the Borley Rectory hauntings. Because the Rectory's famous "phantom nun" was linked by séance participants to the Catholic Waldegrave family, investigators heavily scrutinized the Waldegrave daughters who took holy orders to see if any matched the ghost's profile. 
+
+A thorough reference profile drawn from the Borley sources reveals the following biographical details, séance connections, and a major historical contradiction that ultimately ruled her out as the Borley ghost:
+
+**Early Life and Vocation**
+Joanna Waldegrave was a great-granddaughter of the heavily persecuted Tudor Catholic, Sir Edward Waldegrave [1]. Like several other women in her family, she pursued a religious life in exile on the Continent. She entered the Brussels Benedictines in 1663 at the age of fifteen, and was professed as a nun three years later in 1666 [2]. Upon taking her vows, she assumed the religious name **Sister Theodosia** [3]. She was highly successful in her vocation, eventually rising to the prominent position of Abbess of the Brussels Benedictines [3, 4].
+
+**Connection to the Borley Séances and "Marie Lairre"**
+During the late 1930s, Harry Price's investigators conducted table-tipping and planchette séances that purportedly contacted the spirit of a murdered 19-year-old French novice named "Marie Lairre," who claimed she was killed at Borley on May 17, 1667, by a Waldegrave [2, 5]. 
+
+Researchers, including Ivan Banks, noted several striking coincidences that made Joanna Waldegrave a prime suspect for the true identity of this ghost:
+*   **The Age Coincidence:** Joanna Waldegrave would have been exactly 19 years old in 1667, perfectly matching the age and timeline given by the séance "entity" for her murder [5].
+*   **Name Confusion:** During the séances, the planchette produced the names "Janen" and "Jeane Waldegrave" [5]. Researchers theorized that the entity was actually trying to communicate the name "Joanna" or "Joanne" [5]. 
+*   **The "Lairre" Misinterpretation:** Looking closely at the original planchette script that Harry Price deciphered as "Lairre," some researchers argued that the first letter was actually a badly formed "J", followed by an "O" and "ANNE", spelling "JOANNE" [5]. 
+*   **The "Lier" Theory:** Some investigators hypothesized that "Lairre" was a phonetic misinterpretation of "Lier," a town in Belgium (the Spanish Netherlands) [3, 6]. They suggested that the séance entity was providing a confused mix of her baptismal and religious names, perhaps trying to identify herself as "Joanna Waldegrave cum Sister Marie du Lier" [6].
+
+**The Historical Contradiction and Debunking**
+Despite the tantalizing coincidences of her name, her age in 1667, and her family's connection to Borley, the theory that Joanna Waldegrave was the tragic, murdered Borley nun "comes unstuck" entirely when compared against the surviving historical records [3]. 
+
+The official chronicles of the Brussels Benedictine order confirm that Sister Theodosia (Joanna Waldegrave) was not murdered in 1667 [3]. Instead, she lived a long, successful life within the church, served as Abbess, and died more than fifty years later in 1719 [1, 3]. Her documented survival well into the 18th century definitively stops her from being a viable candidate for the ghost of a young woman murdered in the 17th century [1].
+
+**Sources:** enbr

@@ -30,3 +30,21 @@ Ramberge is not mentioned further in the Borley literature, but his presence at 
 - [[sir-edward-waldegrave]] — their host
 - [[lady-frances-waldegrave]] — also present
 - [[borley-place]] — the site of these events
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Dr. Ramberge** (recorded in the texts as the "late Dean of Lichfield") has a very brief presence in the Borley Rectory sources. He appears exclusively in the historical documents relating to the Tudor-era Lord of the Manor, **Sir Edward Waldegrave**, who was persecuted and ultimately imprisoned in the Tower of London for his adherence to the Catholic faith during the reign of Queen Elizabeth I [1, 2].
+
+A thorough reference profile drawn from the available texts reveals only one specific event and quote regarding his connection to Borley:
+
+**Residence at Borley Hall (circa 1561)**
+Dr. Ramberge is mentioned in a translated Elizabethan document concerning the interrogation of a Catholic priest named John Devon Clarke [2]. This document was part of the evidence gathered by Protestant authorities who suspected Waldegrave of a Catholic reformation plot against the Queen [2, 3]. 
+
+According to the testimony, Dr. Ramberge spent an extended period residing at Waldegrave's home in Essex alongside the priest. The document records the following specific quote:
+> **"The said within John Devon Clarke (sic) sayeth that on Tuesday next following the Friday within written, he came to Sir Edward Waldegrave, Knight, to his house at Borley in Essex and there made his abode one month in the company of Doctor Ramberge, late Dean of Lichfield, and daily did eat and drink at the only table of the said Sir Edward Waldegrave."** [2].
+
+The provided sources do not record any further biographical details, contradictions, or subsequent events regarding Dr. Ramberge's life or his fate following Sir Edward Waldegrave's arrest.
+
+**Sources:** enbr

@@ -26,3 +26,33 @@ Henry's marriage to a natural daughter of James II established a royal blood con
 The Henry Waldegrave who allegedly "strangled" [[marie-lairre|Marie Lairre]] in the [[communicating-entities|Planchette scripts]] (c.1667) cannot be this Henry, who was born in 1660 — only seven years old in 1667 — nor his son of the same name (not yet born). Price explicitly notes this problem.
 
 See also [[waldegrave-family]] and [[arabella-waldegrave]].
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Henry Waldegrave, first Baron Waldegrave (1660–1689)** is an established historical figure whose name became inadvertently entangled in the sensational séance legends surrounding Borley Rectory. 
+
+A thorough reference profile drawn from the Borley sources reveals the following biographical facts, dates, and a major historical contradiction regarding his posthumous role in the haunting:
+
+**Biographical Details and Royal Connections**
+Born in **1660**, Henry Waldegrave was a staunch Roman Catholic [1]. He possessed close ties to the royal court, and was created a peer by King James II, officially becoming the **first Baron Waldegrave of Chewton in 1686** [1]. 
+
+He was intimately connected to the royal family through his marriage to **Henrietta FitzJames (1670–1730)**, who was the natural (illegitimate) daughter of King James II and his mistress, Arabella Churchill [1]. *(Note: As the sources point out, this lineage makes Winston Churchill a collateral descendant of the family [1]).*
+
+Together, Henry and Henrietta had three children:
+*   **James (1684–1741)**, who later became the first Earl Waldegrave [1].
+*   **Henry**, who eventually died a bachelor in 1792 [1].
+*   **Arabella Waldegrave**, born in 1687, whose later disappearance into a French convent made her a primary candidate for the identity of the Borley phantom nun [1, 2]. 
+
+**Exile and Death (1688–1689)**
+Because the Waldegraves were fiercely loyal Catholics, they followed the deposed King James II into exile when he fled to France in **1688** [2, 3]. Henry Waldegrave did not survive long abroad; he **died in exile in 1689** while serving as a member of King James’s suite [1].
+
+**The Borley Séance Contradiction**
+Henry Waldegrave's name was dragged into the Borley Rectory legends nearly 250 years after his death during the Glanville planchette séances in late 1937. The communicating entities wove a dramatic tale claiming that the famous Borley ghost nun, "Marie Lairre," had been strangled to death by a **"Henry Waldegrave"** on **May 17, 1667** [4, 5].
+
+However, investigators like Harry Price highlighted a massive historical contradiction in this séance testimony: **because the first Lord Waldegrave was born in 1660, he would have been only seven years old when the murder supposedly took place** [6]. Furthermore, his son (the only other known Henry Waldegrave in the immediate lineage) had not even been born yet [6]. 
+
+Consequently, researchers used these specific dates to prove that the first Baron Waldegrave could not possibly have been the "Henry Waldegrave" accused by the spirits of murdering the Borley nun [1, 6].
+
+**Sources:** brc · ebr · enbr

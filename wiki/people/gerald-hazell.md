@@ -27,3 +27,9 @@ Gerald Hazell is representative of the network of local informants consulted by 
 - [[ew-jephcott]] — another witness of the phantom organ (1947)
 - [[norah-walrond]] — another organ-music witness (1947)
 - [[thomas-musk]] — later witness of music from the locked church (1987)
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+A review of the provided Borley sources and our conversation history reveals no mention of anyone named Gerald Hazell. Therefore, there are no specific facts, events, dates, quotes, contradictions, or biographical details recorded about this individual in the available material.

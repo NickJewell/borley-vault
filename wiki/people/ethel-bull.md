@@ -73,3 +73,49 @@ The 1935 electoral roll confirms Ethel was still living in the Borley district a
 - [[mysterious-footsteps]] — the nightly 10:30 phenomenon
 - [[borley-church]] — the displaced coffins
 - [[andrew-clarke]] — analysis of Ethel's testimony evolution
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Ethel May Bull** (1868–1961), known within the family as "Kitty," was one of the fourteen children of the Rev. Henry Dawson Ellis Bull and Caroline Sarah Foyster [1, 2]. Baptized "Ethel Mary" on January 20, 1868 [3], she lived much of her life at Borley Rectory before relocating to Chilton Lodge in Great Cornard in 1920 [1, 4]. 
+
+Described by acquaintances as a small, bird-like woman who wore enormous hats and gloves [5], Ethel was the acknowledged centre and spokesperson for the Bull family regarding the hauntings [1, 6]. A thorough reference profile drawn from the Borley sources reveals the following facts, events, quotes, and historical contradictions regarding her life and testimony:
+
+**The 1900 Nun Sighting and Specific Contradictions**
+Ethel is most famous for collectively witnessing the phantom nun on the evening of **July 28, 1900**. While returning from a garden party with her sisters, they spotted a dark, gliding figure on the "Nun's Walk" [7, 8]. Ethel later recalled her reaction vividly, stating: **"Certainly, I was scared stiff!"** [9]. In November 1900, she and the Rectory cook saw the figure again, leaning over a gate [10, 11].
+
+The historical record of this sighting is plagued by major contradictions:
+*   **The Nun's Face:** In Harry Price's books, the nun was said to have "an expression of intense grief on her face" [12, 13]. However, Ethel explicitly contradicted this in a 1950 interview with the Society for Psychical Research (SPR), stating she saw a woman bent over in a flowing black robe and **"could not see the face"** [12, 13].
+*   **The Prior Knowledge Contradiction:** Ethel repeatedly insisted that the July 1900 incident was the first time she had ever heard of or seen the nun [14, 15]. However, a local resident named Mrs. Poore claimed to have seen an old pencil diary kept by Ethel containing entries such as **"we saw the nun in the garden today,"** which would contradict her timeline [16, 17]. 
+
+**Other Paranormal Experiences**
+Ethel claimed to have experienced numerous other phenomena during her youth at the Rectory, though she insisted she was never afraid of them [18, 19]:
+*   **The Old Man in the Tall Hat:** She awoke one night to find an old man in dark, old-fashioned clothes and a tall hat standing by her bed [20, 21]. Price published that she saw this figure "many times." Ethel later corrected this, telling investigator Trevor Hall in 1953 that Price had exaggerated; she had only seen the man **once**, though she felt someone sit on her bed "once or twice" [12, 22-24].
+*   **The Rapping Door:** After the tall hat incident, Ethel shared a room with her sister Mabel. She stated that every night between 9:00 p.m. and 10:00 p.m., they would hear three raps on their bedroom door. They never called out because they knew no one was there [25, 26].
+*   **The Tall, Dark Man:** While in an upper passage, she saw a tall, dark man standing beside her who vanished before she could recover from her surprise [27, 28].
+
+**Interactions with Harry Price and the SPR**
+Ethel actively encouraged Harry Price's investigations. On **September 29, 1931**, she and her sister visited Price in London to ask him to return to Borley to investigate the intense phenomena surrounding Marianne Foyster [29-31]. When the SPR's W.H. Salter visited Ethel to pressure her into severing ties with Price, she told Peter Underwood that she **"thought he had a cheek to ask"** [32-34]. 
+
+Despite her loyalty, Ethel grew frustrated with Price's journalistic embellishments. In 1953, she complained to the SPR that Price frequently "gingered up" her testimony and was annoyed that he **"never gave her the opportunity of approving the section of MHH [*The Most Haunted House in England*] dealing with her testimony"** [15, 35]. 
+
+**The Blue Room Séance and the "Jumping Soap"**
+During Harry Price's first visit on **June 13, 1929**, Ethel participated in an impromptu late-night séance in the Blue Room. According to Price and the *Daily Mirror*, the sitting climaxed when a cake of soap leapt from a washstand and smashed into a jug [36, 37]. Ethel totally contradicted this account, telling Peter Underwood: **"We were none of us in the room when the piece of soap jumped out of its washstand"** [38, 39].
+
+**The Campaign Against Ivy Brackenbury**
+Ethel and her sisters harbored a bitter, lifelong hatred for their brother Harry Bull's widow, Ivy Brackenbury [40]. During a June 25, 1938 interview with Sidney Glanville, Ethel regaled the investigator with malicious slander about Ivy. She claimed Ivy had been left at the altar by a previous husband, that her marriage to Harry was miserable, and she openly accused Ivy of murdering Harry, claiming the sisters had found a half-filled bottle of "sugar of lead" (poison) in the cellar [41-43].
+
+**Opinions of Marianne Foyster and Mabel Smith**
+Ethel possessed a sharp tongue when assessing the other Rectory residents:
+*   She despised her cousin's wife, Marianne Foyster, describing her to investigators as **"mad as a hatter"** and **"a little beast"** who did "some very disreputable things" [44, 45].
+*   When Mabel Smith (the subsequent rector's wife) wrote to the press in 1945 claiming she had never believed the house was haunted, Ethel furiously retorted: **"All nonsense, she used to shriek with fright"** [46, 47].
+
+**Lesser-Known Biographical Details**
+*   **Media Appearances:** Ethel's voice was immortalized when she recounted her 1900 sighting of the nun for the 1947 BBC Radio broadcast, *The Haunted Rectory* [25].
+*   **Godmother:** She became close friends with Canon Lawton during his 1933 stay at Borley, subsequently becoming the godmother to his daughter, Esme [48].
+*   **The Crypt Contradiction:** Price claimed Ethel told him that lead coffins in the Borley Church crypt had moved mysteriously of their own accord. Ethel later denied this to the SPR, insisting she knew nothing of a crypt [49]. Yet, investigator Geoffrey Croom-Hollingsworth later claimed he possessed evidence that Ethel not only knew about the crypt but had actually been down inside it [50, 51]. 
+
+Ethel Bull remained steadfast in her belief that her childhood home was haunted until her death at the age of 93 on **April 29, 1961** [5, 52]. Defending her lifelong testimony to the end, she famously remarked: **"What would be the use of an old lady like me, waiting to meet her Maker, telling a lot of fairy stories?"** [53].
+
+**Sources:** bps · brc · brfa · enbr · gotb · hast · hbrs · mhh · slbr · spr · wob

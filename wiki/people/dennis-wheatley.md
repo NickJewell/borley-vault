@@ -29,3 +29,28 @@ In the mid-1970s, Sphere Books produced the *Dennis Wheatley Library of the Occu
 ## Significance
 
 Wheatley's involvement with Borley is primarily as cultural context — his black magic novels were directly influenced by the same late-Victorian/interwar occult milieu in which Borley's haunting developed. The suppressed Allsop photograph story, if accurate, represents another instance of journalistic self-censorship around the Borley case, similar to the editorial decisions that shaped the original [[newspaper-articles|Daily Mirror coverage]] in 1929.
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Dennis Wheatley** (born January 8, 1897; died November 10, 1977) was a best-selling British author famously dubbed the "Prince of Thriller Writers" by _The Times Literary Supplement_ [1]. He is featured alongside other notable twentieth-century ghost hunters and psychical researchers in Peter Underwood's book _The Ghost Hunters_ [2]. 
+
+A thorough reference profile drawn from the Borley sources reveals the following details regarding his life, his occult research, and his connection to the Borley Rectory case:
+
+**Writing Career and Occult Research**
+Wheatley enjoyed a highly successful writing career spanning from the early 1930s through the mid-1970s [3]. He published fifty-four books, though only nine of these were the black magic stories for which he became famous [3]. His most acclaimed occult thriller, _The Devil Rides Out_, was published by Hutchinson in December 1934 and was considered the twentieth century's natural successor to classic gothic novels like _Dracula_ and _Frankenstein_ [3]. 
+
+While researching _The Devil Rides Out_, **Wheatley deliberately sought out and made the acquaintance of several notable experts in the occult** [3]. These figures included the infamous **Aleister Crowley**, the Rev. Montague Summers, the Egyptian occultist Rollo Ahmed, and the psychical researcher **Harry Price** [3]. Price personally showed Wheatley around his National Laboratory of Psychical Research, which was then located in a basement flat in South Kensington [3]. 
+
+**Annotated Library and the Tabori Biography**
+A lesser-known biographical detail is that Wheatley habitually annotated the books in his personal library that he utilized for research [4]. Following his death, his library was auctioned in 1979 [4]. Included in the sale was his copy of Paul Tabori's 1950 biography, _Harry Price – The Biography of a Ghost-Hunter_, which bore Wheatley's handwritten inscription on the half-title page: **"Used by me when writing my stories with occult background/Dennis Wheatley"** [4]. 
+
+**The Kenneth Allsop "Cover-Up" Anecdote**
+Wheatley’s most direct connection to the Borley Rectory story involves an anecdote he recorded in his personal copy of the Rev. Alfred Henning's booklet _Haunted Borley_ (which the rector had personally sent to him) [5]. On the inside cover of the booklet, Wheatley wrote down a story confided to him by the broadcaster and _Daily Mail_ book reviewer Kenneth Allsop [5]. 
+
+According to Wheatley's inscription, Allsop had been sent by his editor to investigate the ruins of the haunted Rectory alongside a staff photographer, likely in the early 1940s [5, 6]. Because the Borley haunting was actively being "debunked" in the press at the time, **Allsop's editor specifically mandated that the resulting article must take a skeptical tone** [5]. After camping out in the grounds for several nights without encountering anything unusual, Allsop wrote a skeptical piece based on his uneventful stay [6]. 
+
+However, Wheatley’s note reveals a startling postscript: **when the photographer subsequently developed his film, the figure of a nun could be "quite clearly seen" on one of the prints** [5]. When Allsop presented the anomalous photograph to his editor, the editor refused to publish it, flatly telling the journalist, **"No, I just don't print it"** [5].
+
+**Sources:** brc

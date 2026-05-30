@@ -48,3 +48,38 @@ The presence of an independent professional nurse for eight months in the rector
 Her suspicion that Lionel rather than Marianne was behind the activity is a minority view but worth noting as the professional opinion of someone who lived in the household for eight months.
 
 See also: [[marianne-controversy]], [[francois-darles]], [[foyster-phenomena]], [[the-borley-report]]
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Edith May Dytor** (later known by her married name, Mrs. Edith M. Wildgoose) was a State Registered Nurse (SRN) who resided at Borley Rectory as a nursemaid-companion to Marianne Foyster during the Foyster incumbency [1, 2]. At 21 years old, she answered an advertisement in the *Nursing Mirror* and arrived at the Rectory in 1932, just two weeks after the Foysters acquired their "adopted" baby, John Emery [3, 4]. 
+
+A thorough reference profile drawn from the Borley sources reveals the following facts, contradictions, and lesser-known biographical details regarding her time at the Rectory:
+
+**Lesser-Known Biographical Details and Marianne's Recollections**
+Marianne Foyster (who often misremembered her as "Mary Dytor") described Edith as **"blond and very beautiful" with "blue eyes and a very clear complexion"** [5]. According to Marianne, Edith was a "lovely girl" who was "very unhappy" because she was engaged to a clergyman whom she could not marry due to his financial obligations to put two boys through school [5]. Later in life, Edith worked as a nurse at the Derbyshire Royal Infirmary [4]. 
+
+**Chronological Contradictions**
+The sources contain a contradiction regarding the exact dates of her employment. While several texts record that she lived at the Rectory from April or May 1932 until November 1932 [2, 6], another account states that after baby John died in September 1932, Marianne asked her to stay on to care for Adelaide and François Jr., and she remained at Borley until January 1933 before returning to Derby [7]. 
+
+**Medical Observations and the Paternity of Baby John**
+One of Edith’s most significant contributions to the Borley narrative was her professional assessment of Marianne Foyster's physical condition. Based on her nursing experience, **Edith was convinced that Marianne had recently given birth** [8, 9]. This observation heavily fueled speculation that the infant John Emery was not actually adopted, but was the illegitimate child of Marianne and her lover, François d'Arles (Frank Pearless) [8]. Edith recounted that when the baby tragically died of malnutrition and convulsions at four-and-a-half months old, both Marianne and d'Arles were deeply grieved and spent much time weaving floral garlands for his grave [10]. 
+
+**Observations on the Foyster Household Dynamics**
+Edith provided psychical researchers with a dark, psychological portrait of the Foyster household, which she found to have an overpowering and strained atmosphere [7, 11]. She noted:
+*   **The Influence of d'Arles:** She felt that François d'Arles completely dominated the household [3, 12]. Edith believed that **Marianne was actually frightened of d'Arles, and that the Rev. Lionel Foyster was intensely jealous of him** [11, 12]. 
+*   **Distrust of d'Arles:** Edith neither liked nor trusted d'Arles, describing him as a short, stoutish, manipulative, and cruel man who belittled Marianne [11, 13]. D'Arles slyly accused Marianne of trying to poison him, and he manipulated Edith into confiscating Marianne's anxiety medication (a barbiturate called Luminal) from her bedroom [11]. 
+*   **Financial Austerity:** She noted Lionel Foyster's extreme tightness with money due to his diminished investments, recalling austere meals consisting of rice and macaroni cooked in water [14].
+*   **Santiago Monk:** Edith claimed that Marianne received expensive gifts from a London diplomat named Santiago Monk—a claim Marianne later denied [15].
+
+**Paranormal Experiences and Contradictions**
+Edith was entirely unaware of the Rectory's sinister reputation before taking the job [16]. Overall, she maintained that the Rectory was not haunted, as her stay coincided with a period when the intense phenomena had virtually ceased [16, 17]. 
+*   **Natural Explanations:** She heard about the haunting on her first day but quickly attributed the "ghostly limping footsteps" outside her room to the arthritic gait of Lionel Foyster [18]. Furthermore, after reading Lionel's manuscript for *Fifteen Months in a Haunted House*, **she concluded that Lionel himself must be behind the odd things happening in the house** [11]. She also noticed the famous wall writings upon her arrival, but **presumed Marianne had written them**, since the child Adelaide was too young to write [18].
+*   **The Nun Sighting:** Her only truly strange experience involved the young Adelaide coming upstairs to announce that a lady she did not recognize was at the front door. When Edith and Marianne went to check, the doorstep was empty. Adelaide described the figure as a woman in black with white around her face, like a nun [7].
+*   **A Contradicted Stone-Throwing Incident:** Marianne Foyster later claimed that she saw rocks tumbling down the stairs and witnessed Miss Dytor "hi-tailing it away" from the scene in terror [17, 19]. However, investigator Robert Swanson pointed out that Edith did not arrive at Borley until *after* this violent phase of the haunting had ended, and Edith herself flatly denied the event ever occurred [17, 20]. Marianne dismissed Edith's denial, stating, "She denied it, but I thought it was funny and didn't say much" [20].
+
+**Interactions with Investigators**
+Edith was present during a mysterious, uninvited visit by Harry Price and Lord Charles Hope following a minor fire in the schoolhouse wing [21]. During this visit, she was sent out for a walk with the children so the investigators could inspect the house and the wall writings [21]. Decades later, she served as a crucial, highly credible witness for investigator Trevor Hall during his 1953 and 1956 research for *The Borley Report*, providing a grounded counter-narrative to the supernatural legends [2, 9, 22].
+
+**Sources:** brc · gtwnd · hbrs · slbr · wob

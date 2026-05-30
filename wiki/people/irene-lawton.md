@@ -35,3 +35,28 @@ Irene Lawton's uneventful, completely undisturbed stay at the Rectory during wha
 - [[borley-rectory]] — the house they occupied
 - [[blue-room]] — where she slept undisturbed
 - [[ethel-bull]] — who became Esme's godmother
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Mrs. Lawton** (whose first name Irene is not explicitly recorded in the provided sources, which refer to her only as Mrs. Lawton) resided at Borley Rectory with her husband, Canon H. Lawton, and their family. She was present for a month during August and September 1933, while her husband served as a *locum tenens* for the Rev. Lionel Foyster [1, 2]. 
+
+A thorough reference profile drawn from the sources reveals the following facts and specific details regarding her time at "the most haunted house in England":
+
+**Pregnancy and Constant Presence**
+A crucial biographical detail of Mrs. Lawton's stay is that she was heavily pregnant at the time, eventually giving birth to her younger daughter in September 1933 [3, 4]. The authors of the skeptical *Borley Report* (*HBR*) noted that this fact was **"of considerable importance"** because her condition meant she **"spent comparatively little time away from the rectory"** [3, 4]. Consequently, she was constantly present in the house during the day and night, making her an ideal, albeit unwitting, ghost-watcher.
+
+**The Blue Room**
+Despite the terrifying reputation of the Rectory's notoriously haunted Blue Room, Mrs. Lawton and her husband slept in that specific bedroom for the entirety of their stay. Throughout the entire month, investigators noted that **"not a solitary rap was heard"** [5]. 
+
+**Twilight Vigils by the Nun's Walk**
+Because it was a hot and dry August, Mrs. Lawton was especially fond of the view from the sitting-room, which looked across the lawn and was bordered by the famous "Nun's Walk" [6]. On most evenings, she would **"draw her chair close to the open window to rest and sometimes sew while the light remained"** [6]. 
+
+Her husband frequently returned from his evening tennis matches to find her sitting in her favorite seat in the twilight. Investigators highlighted that she was resting under **"precisely the appropriate conditions to see the phantasm reputed to haunt the garden,"** but she never witnessed anything abnormal [6]. 
+
+**Definitive Quote**
+The complete lack of phenomena experienced by Mrs. Lawton and her children was definitively summarized by her husband in a public letter to *The Spectator* published on November 8, 1940:
+> **"During the whole of the time we lived in the house neither I nor my family saw or heard anything out of the ordinary"** [2, 7].
+
+**Sources:** brc · spr

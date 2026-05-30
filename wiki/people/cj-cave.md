@@ -23,3 +23,15 @@ Price acknowledged Cave's explanation as "perhaps the correct one" but noted a c
 ## Significance
 
 Cave's contribution represents the category of expert natural-explanation responses that Price received from readers of *The Most Haunted House in England*. Unlike many such explanations, Cave's is specific, drawn from personal observation, and belongs to a field of expertise. Price's balanced response — acknowledging it without dismissing the anomaly — is characteristic of his approach to potentially explainable phenomena.
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**C. J. Cave, M.A., J.P., F.S.A.** is recorded only very briefly in the provided Borley sources, meaning there is not enough information to construct a thorough reference article about him from these texts. 
+
+The sources do not record any specific events, biographical background, quotes, or contradictions regarding his life or his direct involvement with Borley Rectory. His sole appearance in the texts is in the acknowledgements section of Harry Price's second book on the haunting, *The End of Borley Rectory* [1]. 
+
+In this section, Price lists him among the "legion" of correspondents who wrote to him about the case, and **specifically expresses gratitude to Cave for providing "suggestions and help"** regarding his investigations [1]. Beyond his academic and civic titles (Master of Arts, Justice of the Peace, and Fellow of the Society of Antiquaries), the sources contain no further information.
+
+**Sources:** ebr

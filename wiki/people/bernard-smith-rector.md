@@ -23,3 +23,21 @@ Though the house was quiet immediately after the rite was completed, the phenome
 - [[arthur-sellwood]] — his companion in the exorcism
 - [[lionel-foyster]] — his distant cousin and the rector they came to help
 - [[borley-rectory]] — the building they attempted to exorcise
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Rev. Bernard Smith** was the Rector of Newton Green, a parish located about six miles away from Borley, and a distant cousin of the Rev. Lionel Foyster [1]. He became involved in the Borley Rectory saga as a supportive colleague during the severe paranormal disturbances that plagued the Foyster incumbency. 
+
+A thorough reference profile drawn from the Borley sources reveals the following key events and details regarding his involvement:
+
+**The March 1931 Exorcism**
+When the Rev. Arthur H. Sellwood (Rector of Great Cornard) agreed to perform an exorcism to help the desperately troubled Foysters, he called upon Bernard Smith for assistance. On the morning of **March 11, 1931**, Smith and his wife accompanied Sellwood to Borley Rectory [1]. Because there was no official Anglican rite of exorcism at the time, Sellwood utilized a Roman Catholic ritual dating back to 1614 [1]. **Bernard Smith and his wife played a crucial role in this ritual by supplying the censer and incense** [1]. Together, the party moved from the attic down to the cellar, meticulously fumigating every room and passage with the burning incense and blessing the house with holy water brought from the shrine at Walsingham [1].
+
+**The Warm Stone Phenomenon**
+Despite his role as a clergyman assisting in a spiritual cleansing, Bernard Smith was present for at least one striking display of physical poltergeist activity. While he was standing in the hall of Borley Rectory alongside the Rev. Lionel Foyster and the Rev. Arthur Sellwood, **a stone inexplicably fell from nowhere** [2]. When Sellwood picked the stone up, he discovered that it felt **physically warm to the touch** [2]. 
+
+*(Lesser-Known Biographical Detail: The incident involving the warm stone was not widely known until years later, when Arthur Sellwood's son attended a lecture given by the psychical researcher Peter Underwood to the London Appreciation Society and came forward to share his father's experience [2]).*
+
+**Sources:** brc · hbrs

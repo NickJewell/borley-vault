@@ -32,3 +32,24 @@ After [[lionel-foyster|Lionel]] died in April 1945, [[marianne-foyster|Marianne]
 - [[marianne-foyster]] — her sister-in-law
 - [[foyster-manuscripts]] — the documents she custodied after Lionel's death
 - [[borley-rectory]] — the site of the phenomena she advised Lionel about
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Hilda Foyster** (later **Mrs. Hilda Hanbury**) was the sister of the Reverend Lionel Algernon Foyster, the controversial rector of Borley from 1930 to 1935, and the daughter of the Rev. George Alfred Foyster [1]. She had another sister named Adelaide, alongside several brothers [1]. 
+
+A thorough reference profile drawn from the Borley sources reveals the following specific biographical details and events regarding her life and indirect involvement in the Borley case:
+
+**Visits to Canada (Pre-1921)**
+Before Lionel’s marriage to Marianne, he spent over a decade working as a missionary in New Brunswick, Canada [2]. The sources record the lesser-known biographical detail that his life there was hard and lonely, but it was alleviated by the occasional visit from Hilda, who was still unmarried at the time [2]. 
+
+**Marianne Foyster's Alibi**
+Hilda later married and became Mrs. Hanbury [3]. Her name was used as an alibi by Marianne Foyster when defending herself against accusations that she was frequently away from Borley Rectory conducting an illicit affair in London. During a 1958 interview, Marianne insisted she was rarely away from the Rectory, stating: **"I was away on only two occasions: once when I visited my people in Ireland - just before my grandmother died, and once when I stayed with Hilda... Mrs. Hanbury, Lionel's sister"** [3]. 
+
+**The Foyster Manuscript (1945–1946)**
+Hilda played a crucial role in the preservation of the Borley Rectory literature. After the Rev. Lionel Foyster died in 1945, Marianne claimed she "wanted no part" of his books and papers, and subsequently gave them all to Hilda [4]. Included in these papers was the manuscript for Lionel's fictionalized account of the haunting, *Fifteen Months in a Haunted House*, which he had written to keep himself amused while bedridden [4]. 
+
+Marianne assumed that the psychical investigator **Harry Price later acquired the *Fifteen Months* manuscript directly from Hilda**, doing so sometime after Marianne had left England for the United States in 1946 [4].
+
+**Sources:** gtwnd · hbrs · slbr · wob

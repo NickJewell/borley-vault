@@ -43,3 +43,41 @@ As of 2008, Adelaide was the last living member of the Foyster household at Borl
 ## Cross-References
 
 [[lionel-foyster]] · [[marianne-foyster]] · [[poltergeist-activity]] · [[blue-room]] · [[borley-rectory]] · [[vincent-oneil]] · [[henry-fisher]] · [[ian-greenwood]]
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Adelaide Foyster** (later Adelaide Cartwright) is a central but often tragic figure in the Borley Rectory story, drawn into the hauntings as a toddler and later becoming both a suspected victim and a suspected catalyst of the phenomena.
+
+**Origins and Adoption**
+Adelaide was born **Barbara Alice Tower** on March 20, 1928, in West Sackville, New Brunswick, Canada [1]. She was the youngest of seven children born to Seward and Alice Tower [1, 2]. Her early life was struck by tragedy when her mother died of a brain tumour in January 1929, followed only a month later by her father, who fractured his skull falling from a load of marsh hay [2]. 
+
+The orphaned infant was subsequently adopted by the Reverend Lionel Algernon Foyster and his young wife, Marianne [2]. Lionel baptised the child at Sackville on March 3, 1929, and changed her name to **Adelaide**, after his own mother [1-3]. In a bizarre display of control, Marianne raised Adelaide to believe she was an only child, deliberately concealing the existence of her six biological siblings in North America [4]. Furthermore, Marianne later told the growing girl that Lionel was her adoptive father, but that Marianne herself was actually Lionel's daughter—making them "half-sisters" [5]. Consequently, Adelaide was instructed to call her adoptive mother "Marianne" instead of "Mum" [5].
+
+**Life at Borley Rectory (1930–1935)**
+Adelaide arrived at Borley Rectory with the Foysters on October 16, 1930, at the age of two years and seven months [6-8]. Her upbringing at the Rectory was remarkably strict, though the villagers found the Foysters' parenting style eccentric; Marianne insisted on dressing Adelaide in overalls, which was common in Canada but considered highly improper by the rural English locals [5, 9]. Because the Rectory was isolated, Adelaide was a lonely child whose only initial companions were a puppy and a kitten named Romp [5]. Eventually, the Foysters brought in a young boy, François d'Arles Jr. (the son of Marianne's lover, Frank Pearless), to act as her playmate [10, 11]. 
+
+**Paranormal Victim and Participant**
+Adelaide was present for many of the most famous poltergeist events of the Foyster incumbency, experiencing the phenomena from her very first day in the house when she, alongside her parents, allegedly heard footsteps and a voice calling "Marianne" [7, 12]. Over the next five years, her involvement in the hauntings featured several key events and contradictions:
+
+*   **Physical Assaults:** Adelaide was reportedly attacked by the entities. When Marianne found her with a black eye and bruise, Adelaide shamefacedly explained, **"A nasty thing gave it to me Mummie, by the curtain in my room"** [13-16]. On another occasion, she and young François were found cowering near the dining-room door during a violent poltergeist outbreak, telling adults, **"We don't like so many 'fings falling about"** [15, 17, 18]. 
+*   **The Miraculous Healing:** Around 1934, Adelaide developed a severe and life-threatening case of mastoiditis [19, 20]. After two unsuccessful operations at the Hospital for Sick Children at Great Ormond Street, doctors offered little hope for her recovery [19, 20]. Marianne secretly slipped a religious relic of St. John Vianney (the Curé d'Ars) into the child's bandages; within days, her ear miraculously healed, astonishing her doctors and reinforcing Lionel Foyster's belief in divine and supernatural intervention [20, 21].
+*   **The Bell-Ringing Accusation:** During Harry Price's visit in October 1931, a bell rang furiously from Adelaide's bedroom [22, 23]. Though she was only three and a half years old, and the bell-wire had been broken off close to the ceiling, Price directly accused the toddler of faking the phenomenon, stating, **"It couldn't have been Mrs. Foyster so it must have been Adelaide. She is suspect now"** [24-26].
+*   **The "Terror for Scribbling" Contradiction:** Adelaide was accused of producing the famous Borley "wall-writings." An investigator interviewing a former housekeeper was told that Adelaide was **"a terror for scribbling—she used to write on every wall"** and drew little lines of doll's houses [27-29]. However, this directly contradicts Lionel Foyster and investigator Mollie Goldney, who both noted that at the time the writings appeared, Adelaide was only three years old, "very backward," and entirely incapable of writing complex words or sentences [29, 30].
+*   **The Arson Accusations:** Miss Evelyn Gordon, who ran a nearby children's playgroup, reported that the strict and unconventional Rectory environment caused Adelaide severe emotional distress [31]. Miss Gordon claimed the five-year-old girl would build small fires out of pillows in the bedrooms and talked constantly of **"having to burn down the Rectory"** [31, 32]. Sceptics point out the improbability of a toddler orchestrating such acts without adults keeping matches away from her [33]. 
+*   **A Poltergeist Focus?** Researchers Iris Owen and Pauline Mitchell later theorized that Adelaide's profound emotional confusion—having lost her biological parents, been separated from her siblings, moved to a strange country, and immersed in ghost stories—made her a classic subconscious trigger for genuine poltergeist phenomena [34]. 
+
+**Abandonment and Later Life**
+After Lionel Foyster's health failed and the family left Borley in 1935, Adelaide briefly lived with Marianne, Lionel, and Marianne's bigamous husband, Henry Fisher, in Ipswich [35, 36]. However, Marianne soon placed Adelaide in a convent in Braintree run by the Sisters of the Immaculate Conception [37, 38]. By 1940, Marianne had largely abandoned her, placing her in an orphanage and severing all contact [3, 39]. 
+
+Adelaide moved to Manchester in 1944, where she trained and worked as a nurse [40]. In 1950, she married a diesel engineer named Gordon Cartwright, becoming **Adelaide Cartwright** [40]. 
+
+**Reunion and the Borley Legacy**
+For decades, Adelaide believed she was an only child with no blood relatives. However, in 1973, her biological brother, Wallace Tower, travelled from Rhode Island to England to track her down, eventually obtaining her married name and number from Borley investigator Alan Roper [41, 42]. In November 1974, Adelaide received a phone call from Wallace, and that Christmas she flew to the United States to meet her five siblings, completing what she described as **"the most marvellous reunion of a lifetime"** after 46 years apart [41, 42].
+
+Adelaide's final connection to the Borley saga occurred following Marianne Foyster's death in 1992. Marianne had bequeathed a sixteenth-century Foyster family Bible to her American adopted son, Vince O'Neil [43]. On June 30, 1994, Vince received a letter from Eccles in the north of England, signed "formerly Adelaide Foyster," requesting the Bible's return on the grounds that it had **"no historical interest in the USA and should never have left England"** [43]. Vince relinquished the Bible to her [40]. 
+
+Despite her central placement in the Borley Rectory legend, Adelaide herself maintained a grounded perspective on her childhood. In letters written in 1994 and 1995, she revealed that she had spent most of her youth away at boarding schools and possessed only "vague memories" of Borley [44]. She candidly admitted that she didn't even know the house was supposedly haunted until she read books about it later in life [44].
+
+**Sources:** 15mhh · brc · brfa · enbr · gotb · gtwnd · hbrs · mhh · slbr · spr · wob

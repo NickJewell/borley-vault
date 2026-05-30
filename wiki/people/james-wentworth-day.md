@@ -29,3 +29,30 @@ The Wentworth Day account is one of the earlier records of what became a persist
 - [[phantom-cat]] — the broader phenomenon
 - [[borley-rectory]] — the site
 - [[russell-herbert-bem]] — later witness of phantom cats (1941)
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**James Wentworth Day** was a **noted author and journalist** who resided in **Ingatestone, Essex** [1]. He appears in the Borley Rectory sources as the primary witness to the "phantom cat" phenomenon and was officially acknowledged by psychical researcher Harry Price for his contributions to the book *The End of Borley Rectory* [2]. He also later accompanied investigator Peter Underwood on group visits to the site [3].
+
+A thorough reference profile drawn from the texts reveals the following specific events, contradictions, and quotes regarding his involvement:
+
+**The Summer 1939 Visit and the "Squatting Evil"**
+Wentworth Day's most significant experience occurred when he spent a night at the Borley ruins with a young soldier friend [4]. The sources place this visit at **about four months after the destructive February 1939 fire**, dating it to **late June or early July 1939** [5]. *(Note: A minor contradiction exists in the texts, as Wentworth Day described the night as being under a "full harvest moon"—an autumn event—despite the June/July timeline [1, 5]).*
+
+The two men explored the roofless dining room and as much of the ground floor as they could [1]. However, when Wentworth Day suggested they go upstairs to examine the remaining first floor, **his companion flatly refused, sensing an "evil presence"** [1, 5]. The young soldier was convinced they were being watched, describing **"something 'huge and black,' something that 'squatted, exuding evil'" at the top of the main stairs** [1].
+
+Reacting to the threat, Wentworth Day **raised the gun he was carrying, but his friend begged him not to shoot** [1]. The companion feared that firing the weapon might start **"something unpleasant"** and would undoubtedly draw unwanted attention from the local villagers [1].
+
+**The Phantom Cat Sighting**
+Retreating from the house, the two men stood outside under a tree in the bright moonlight, both feeling that a malevolent presence was watching them [6]. Suddenly, a **"gigantic black cat"** shot directly between Wentworth Day's legs [6]. 
+
+Wentworth Day reported a distinct physical sensation during the encounter, noting that **he felt "harsh bristles and snaky, undulating muscles"** as the creature brushed past him [6]. The cat rushed swiftly into the ruined building and did not emerge again [5, 6].
+
+**Corroboration by a London Journalist**
+Approximately a year later, Wentworth Day spoke with a London journalist who related an identical experience [6]. The journalist claimed that while standing outside the ruins at night, a huge black cat had shot between his legs "like a bullet" and hurtled into the house "like a shot from a gun," never to reappear [6]. 
+
+When the journalist made inquiries at the adjacent farm, he was assured that no black cats were kept in the vicinity [6]. However, he was told that **many people who spent the night in the Rectory garden had reported seeing the exact same fast-moving cat** dart into the house without ever coming out [6, 7].
+
+**Sources:** bps · brc · brfa · ebr · gotb

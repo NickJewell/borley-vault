@@ -32,3 +32,31 @@ When the Commonwealth ended in 1660, Robert Warren was reinstated as rector but 
 - [[borley-church]] — the church he served
 - [[rectors-of-borley]] — full list of Borley incumbents
 - [[waldegrave-family]] — the Catholic lords whose tradition he would have opposed
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**John Deeks** (also recorded as **John Decks** in one ecclesiastical list [1]) was the 17th-century Rector of Borley. He was a Puritan clergyman who served during the English Civil War and Oliver Cromwell’s Commonwealth, and he has been linked to several modern paranormal investigations at the Borley site. 
+
+A thorough reference profile drawn from the Borley sources reveals the following historical facts, legends, and paranormal accounts regarding his life and legacy:
+
+**Biographical Details: The "Intruder" Priest (1642–1660)**
+*   **The Puritan Takeover:** Deeks was installed as the Rector of Borley in 1642 [2, 3]. He was an **"intruder"** priest—a term used during the Commonwealth to describe a Puritan clergyman imposed upon a parish when the existing incumbent was unable or unwilling to come to terms with Puritanism [2]. 
+*   **Displacing Robert Warren:** Deeks replaced the former rector, Robert Warren, who had held the living since 1607 but was abruptly dismissed from his duties to make way for Deeks [2]. 
+*   **Character and Rule:** Legend describes Deeks as a **"stern character"** [2]. A local historian defined an intruder like Deeks as **"one who enters without welcome or right"** and an **"obnoxious minister imposed by a patron"** [2]. 
+*   **Reinstatement of Warren:** Deeks's local rule ended in 1660, coinciding with the end of the Commonwealth, at which time the elderly Robert Warren was reinstated as Borley's rector for a single year [2]. 
+*   **The Murder Legend:** In a dark and startling addition to his biography, one chronology of the Borley legend claims that in 1642, **"Vicar John Deeks murders many people"** [4].
+
+**Apparitions and the "Patch Pockets" Incident**
+*   **Sightings at the Church:** The ghost of a vicar from Cromwell's time, identified as Deeks, has reportedly been seen at Borley Church [5, 6]. In 1980, two psychic investigators witnessed an apparition inside the church which they assumed to be John Deeks [7]. 
+*   **The Clairvoyant's Impression:** Researchers linked Deeks to a clairvoyant's impression of a phantom man wearing "patch pockets" who felt like an **"intruder into this time and place"** [8]. The clairvoyant sensed that this man intensely disliked the trappings of the High Church and wore his hair cut short [2]. Investigators concluded this perfectly matched the profile of a Puritan "intruder" priest like Deeks [2]. 
+
+**The 2004 "Rescue" Séance**
+Deeks plays a major role in the "Later Borley" period. In 2004, the Revd John Cranmer Dening organized a "rescue" séance inside Borley Church [9, 10]. During this session, a medium apparently made contact with Deeks. Remarkably, the spirit of **John Deeks claimed that he had actually been the cause of the haunting at Borley over the years** [10]. Following this confession, the medium purportedly laid the former clergyman's spirit to rest [10].
+
+**Contradictions in the Sources**
+*   **Dates of Incumbency:** While detailed historical accounts and official lists confirm Deeks served as rector from 1642 to 1660 [1-3], one chronological entry regarding the 1980 ghost sighting contradicts this, inaccurately referring to him as the vicar from **"1653-1658"** [7]. 
+*   **Spelling:** As noted above, his surname is spelled "Decks" in a comprehensive list of Borley rectors, though "Deeks" is used universally elsewhere [1].
+
+**Sources:** 15mhh · brc · brfa · gtwnd

@@ -38,3 +38,24 @@ Taylor represents a recurring pattern in the Borley literature: well-intentioned
 - [[the-nun]] — the apparition to which Marie Lairre is tied
 - [[bures-en-bray]] — the actual French location Banks proposes as more likely
 - [[harry-price]] — the recipient of Taylor's letter
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**G. S. Taylor** appears in the Borley Rectory sources strictly as an attentive reader of Harry Price's first book on the hauntings, who wrote to the investigator to point out a potentially significant connection between two paranormal markings in the house. 
+
+A reference profile drawn from the texts reveals the following brief but specific details regarding his involvement:
+
+**Biographical Details**
+The sources record only that Mr. G. S. Taylor resided at **Portobello Farm, Watlington, Oxon** [1]. *(Note: He should not be confused with other individuals named Taylor in the Borley narrative, such as the 1938 official observer Mrs. C. S. Taylor, or the Mass-Observation reporter Mrs. Gay Taylor).*
+
+**The February 1942 Correspondence and Quote**
+Taylor wrote a letter to Harry Price on **February 16, 1942** [1]. Like Canon W.J. Phythian-Adams, Taylor had independently arrived at the **"Well-Tank-Bottom-Me"** rendering of one of the famous "Marianne" wall appeals [1]. 
+
+However, Taylor made a unique geographical connection between this specific wall-writing and a mysterious deep scratch (shaped like an arrow-shaft and head) that had inexplicably appeared on the ground-floor kitchen passage wall during an observational vigil on July 19, 1937 [1]. 
+
+Taylor pointed out the proximity of these two markings to the Rectory's well, sending Price the following specific quote and inquiry:
+> **"Having read your book with attention, I note that one of the pencilled ‘Ma’ messages was written on the wall close to the well, and that the ‘scratch’ described on p. 223 was close to it. I should very much like to know in which direction that arrow pointed!"** [1].
+
+**Sources:** ebr

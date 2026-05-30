@@ -74,3 +74,50 @@ After the flower shop failure (1934), Pearless's subsequent life:
 - [[lionel-foyster]] — d'Arles as possible confederate
 - [[poltergeist-activity]] — d'Arles's own experiences
 - [[andrew-clarke]] — most detailed account of d'Arles's life and role
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**François d'Arles** was a central and highly controversial figure during the most intense period of the alleged Borley Rectory hauntings (1931–1935). Introduced as a lodger and handyman, he became Marianne Foyster’s lover and effectively dominated the Rectory household. 
+
+A thorough reference profile drawn from the Borley sources reveals the following facts, events, dates, contradictions, and lesser-known biographical details regarding his life and involvement in the case:
+
+**True Identity and Lesser-Known Biographical Details**
+*   **Real Name and Aliases:** "François d'Arles" was a pseudonym; his real name was **Frank Charles Pearless** (sometimes spelled Peerless) [1-3]. He also used the aliases "Black" and "Wade," and was given the pseudonym "Mr. Lawless" in the Rev. Lionel Foyster’s unpublished manuscript, *Fifteen Months in a Haunted House* [4-6].
+*   **Early Life:** Born on November 10, 1894, in Bermondsey, South London, he came from a family of leather workers [1, 2, 7]. In the early 20th century, his family lived in Arles, France, where he learned fluent French and later derived his famous pseudonym [7]. 
+*   **Military Service:** He volunteered for military service early in World War I, serving in the Royal Army Service Corps in France and Salonica [7]. He was awarded the 1914 Star, the British War Medal, and the Victory Medal [7].
+*   **Contradictory Backstory:** Pearless was an accomplished fantasist and con man [5]. He falsely claimed to the Foysters and neighbours that he was a French-Canadian widower who had served in the French Secret Service during World War I, and sometimes claimed to be an important figure at the Elstree film studios [5, 8-10]. In reality, he made a living selling flowers from a barrow outside Stoke Newington and Highgate cemeteries [7, 11].
+*   **Marital History:** He married Ada Ewens on Boxing Day, 1918 [1, 2, 7]. While still married, he began an affair in 1927 with Emily Fernie, a gamekeeper's daughter, who gave birth to his son, Douglas, in July 1928 [7]. Fernie abandoned the child to his care [7]. He later divorced Ada and married Jessie Irene Dorothy Mitchell on August 8, 1934 (divorced October 1944), followed by a third marriage to Jessie Steed (née Pring) on November 10, 1944 [1, 2, 12]. 
+
+**Arrival at Borley Rectory (March 1931)**
+In early 1931, Lionel Foyster placed an advertisement in *The Times* for an odd-job man, which Pearless (using the name d'Arles) answered [13, 14]. (Some contradictory accounts suggest d'Arles placed the ad seeking a home for his son, or that Marianne placed it) [10]. D'Arles arrived on a motorcycle with his young son, Douglas, whom he introduced as "François d'Arles Jr." [15, 16]. The Foysters, concerned that their adopted daughter Adelaide was lonely, offered to take the boy in as a playmate, and d'Arles was hired as a handyman [17, 18]. Though he officially rented the adjacent Rectory Cottage, he took most of his meals and frequently slept in the Rectory itself [11, 19, 20].
+
+**The Affair with Marianne Foyster**
+Within weeks of his arrival, d'Arles and Marianne Foyster began a sexual relationship [21, 22]. According to Ian Shaw (Marianne’s son from a previous marriage), the affair began when Marianne persuaded d'Arles to take her for a ride in his motorcycle sidecar to a lonely spot, where she seduced him [23, 24]. 
+
+The relationship was devoid of romance and highly volatile; Marianne admitted she was "desperate" for sex but found d'Arles to be a "dictatorial man," noting that they "fought like cats and dogs" [25-27]. Despite the obvious affair, the Rev. Lionel Foyster tolerated the ménage à trois, reportedly only chastising Marianne as a "naughty girl" when she confessed the relationship [28, 29]. Investigators later theorized that the frail rector derived voyeuristic or vicarious sexual pleasure from the arrangement [30, 31].
+
+**Role in the Poltergeist Phenomena**
+D'Arles's arrival coincided with the most violent period of the Borley hauntings [32, 33]. He was deeply implicated in the phenomena:
+*   **The Black Eye:** D'Arles claimed that he awoke one night to find a shadowy form in his bedroom. He leaped out of bed to fight it with his fists, but his hands passed through the figure, and the "ghost" delivered a terrific smack to his face [34-36]. He appeared at breakfast the next morning with a black eye, though researchers strongly suspect this was actually the result of a violent lovers' quarrel with Marianne [27, 36].
+*   **The Paint Pot:** Lionel Foyster recorded an incident where he heard a noise and found a paint pot pushed against the inside of d'Arles's bedroom door, which d'Arles denied placing there [37, 38]. 
+*   **Vouching for the Foysters:** During Harry Price's visit in October 1931, when a bell mysteriously rang, d'Arles intervened to vouch for Marianne’s innocence, claiming he had looked into the Foysters' bedroom and seen them both sound asleep [39, 40]. 
+*   **Confession of Fraud:** D'Arles eventually confessed to Ian Shaw that he had faked much of the phenomena [41, 42]. He also claimed he advised Marianne that the haunting had gone too far, suggesting they use the visit of the Marks Tey Spiritualist Circle in January 1932 as a convenient excuse to "exorcise" the ghosts and stop the charade [42, 43].
+*   **The Luminous Ghost Prank:** D'Arles's own trickery backfired when Marianne and Ian Shaw rigged a crude cardboard torso covered in a luminous sheet on a pulley system [44-46]. When d'Arles returned one evening, they operated the pulleys; it terrified him so badly that he ceased playing his own ghostly tricks [45, 46].
+
+**The Baby (John Evemond Emery)**
+In May 1932, an infant named John Evemond Emery was brought to the Rectory (officially adopted, though rumors persisted that Marianne had secretly given birth) [47, 48]. D'Arles was fiercely jealous and fiercely convinced the child was his own [47, 49]. When the baby tragically died at five months old, d'Arles was devastated; locals recalled seeing him weeping openly at the infant's unmarked grave in Borley churchyard [47, 50, 51].
+
+**Jonquille et Cie and Blackmail**
+In February 1933, financed by Lionel Foyster, Marianne and d'Arles opened a florist shop called *Jonquille et Cie* (Daffodil & Co.) at 20a Worple Road, Wimbledon [52, 53]. They lived together in the flat above the shop as husband and wife during the week, returning to Borley only on weekends [52, 53]. D'Arles showed little aptitude for the work, and the business was a financial disaster [54]. 
+
+The relationship ended bitterly in late 1934 when Marianne discovered d'Arles was sleeping with their 16-year-old shop assistant [55]. In retaliation, d'Arles attempted to blackmail the Foysters, threatening to report Marianne’s previous marriage and Lionel's mental state to the Bishop of Chelmsford [56, 57]. Lionel’s cousin, Bernard Foyster (a solicitor), had to intervene with his clerk to physically evict d'Arles and end the harassment [12, 58]. 
+
+**Later Life and Death**
+After being expelled from the Foysters' lives, Pearless absconded with the 16-year-old assistant and set up another business in Wimbledon [55, 59]. He emigrated to Australia in the 1950s with his third wife, returning to London in 1966 [1, 12, 60]. He died shortly after his return, on October 10, 1966, at St. Ann's Hospital in Tottenham [12, 60, 61]. Because his family lacked the funds for a funeral, this central figure of the Borley haunting was buried in an unmarked pauper's grave [12].
+
+**Opinions of Contemporaries**
+D'Arles was almost universally disliked by those who met him. The Misses Bull described him as "an odd and peculiar man" and "an extraordinary man" [1, 34, 62]. Edwin Whitehouse called him "a very strange and frightening man, thick-set and unpleasant" [1]. The Rectory nurse, Miss Dytor, distrusted him deeply, noting that he was manipulative, cruel, and completely dominated the frail rector [63]. Ian Shaw later referred to him as a vicious con man, whilst other researchers characterized him simply as the "Rasputin" of Borley Rectory [6].
+
+**Sources:** brc · enbr · gotb · gtwnd · hbrs · slbr · spr · wob

@@ -55,3 +55,35 @@ Phythian-Adams retired to Onslow village near Guildford and died there in Februa
 ## See Also
 
 → [[marie-lairre]], [[bones-excavation]], [[wall-writings]], [[harry-price]], [[borley-rectory]]
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Canon William John Phythian-Adams** (born May 27, 1888; died February 20, 1967) was an Anglican cleric, decorated military officer, and accomplished archaeologist whose analytical theories fundamentally shaped the later stages of the Borley Rectory investigation [1, 2]. 
+
+**Early Life, Military, and Archaeological Career**
+The son of the cleric Revd E.C. Phythian-Adams, he was educated at Marlborough and Corpus Christi College, Oxford, achieving First Class Honours in Classics and eventually earning a Doctor of Divinity degree in 1935 [1]. During the First World War, he served as a Lieutenant-Colonel and was decorated with the Military Cross (1917) and the Distinguished Service Order (1918) [3]. 
+
+Before his ordination, Phythian-Adams had a distinguished career as an archaeologist in the Middle East and North Africa [3]. In the early 1920s, he served as **Assistant Director of the British School of Archaeology in Jerusalem** (now the Kenyon Institute) and Keeper of the Museums to the Palestine administration [3]. He directed excavations at Askelon and collaborated with Professor John Garstang on archaeological digs in Northern Syria, the Sudan, and Palestine [3]. 
+
+**Ecclesiastical Career**
+Ordained as a priest in 1926, he held several parishes before becoming the **Residentiary Canon of Carlisle Cathedral from 1932 to 1958** [3, 4]. He also served as Chaplain to King George VI (1933–1952) and Queen Elizabeth II (from 1953), and acted as the editor of the *Church Quarterly Review* between 1940 and 1945 [4].
+
+**Entry into the Borley Case and the "Marie Lairre" Theory**
+During Christmas 1940, while recovering from the flu in bed, Phythian-Adams read a public library copy of Harry Price’s *The Most Haunted House in England* [2, 5]. On January 8, 1941, he sent a lengthy analytical essay to Price attempting to "diagnose the trouble" at Borley [5]. 
+
+Drawing on his archaeological expertise and experience deciphering hieroglyphics, Phythian-Adams conducted a meticulous analysis of the Rectory's wall-writings and planchette scripts [2, 6]. He hypothesized that the hauntings centered on a **"crime of a peculiarly distressing nature"** which had impregnated the site with psychic energy [7]. He proposed that the famous phantom nun was actually **Marie Lairre**, a 19-year-old French Roman Catholic novice from Le Havre [8]. According to his theory, she was enticed to England to marry into the powerful Waldegrave family, but was strangled by her husband on May 17, 1667, and her body was thrown into a well or buried beneath the cellar floor [8-10].
+
+**Analysis of Wall-Writings and Poltergeist Phenomena**
+Applying his archaeological skills, the Canon deciphered the confused wall-writing *"Marianne At Get Help—Entant Bottom Me"* as **"Marianne, Get Help... Well... Tank... Bottom me"** [11]. He also identified the French word **"trompée"** (meaning betrayed or misled) in the scribbles, which he believed corroborated the murdered nun's French nationality [6, 12]. He further argued in a 1946 article that the ghost had used a French-English dictionary (which had inexplicably vanished and reappeared during a visitor's stay in 1885) to study English words so she could write her appeals [13, 14]. As for the intense poltergeist activity during the 1930s, Phythian-Adams concluded that the highly-strung Marianne Foyster acted unconsciously as a strong "Poltergeist-focus," channeling the trapped psychic energy of the murder [10, 15].
+
+**Impact on Harry Price's Work and the 1943 Excavations**
+The Canon's theories reinvigorated Harry Price, who admitted that without Phythian-Adams's analysis, he likely would never have written his second book, *The End of Borley Rectory* [16-18]. Following the Canon's specific instructions to dig in the location of the "well tank," Price organized the August 1943 cellar excavations that unearthed a woman's skull fragment and jawbone, alongside Catholic medallions [11, 19-21]. Price published the Canon's detailed analytical essays as key chapters in *The End of Borley Rectory* [16, 22].
+
+**Contradictions: The "Tongue-in-Cheek" Statement vs. Defense of Price**
+The sources contain a notable contradiction regarding Phythian-Adams’s true belief in his own theories. When investigator Trevor Hall interviewed the Canon in a Carlisle hotel in the early 1950s for the skeptical Society for Psychical Research (SPR) report, Phythian-Adams reportedly declared that his contributions to Price's book were made **"very much with his tongue in his cheek"** [23]. He claimed the theory was **"just a bit of fun that he’d conjured while ill in bed that Christmas,"** and expressed surprise that Price took his elaborate hypotheses seriously enough to publish them [23].
+
+Despite this dismissive remark to Hall, other passages indicate that the Canon retained his original belief in the genuineness of the haunting and in Harry Price's integrity [24]. He was highly critical of Hall’s post-mortem attack on Harry Price, arguing there was no justification for the SPR to publish a report that would only upset Price's widow and damage their own reputations [23]. Phythian-Adams continued his involvement in the case by writing 3,000 words of commentary on a graphological analysis of the wall-writings for the unpublished *Borley Symposium*, before passing his extensive Borley correspondence to Peter Underwood upon his retirement in 1958 [25, 26].
+
+**Sources:** brc · ebr · enbr · hbrs · spr

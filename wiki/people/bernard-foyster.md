@@ -26,3 +26,19 @@ His dual role — family lawyer and patron of the living — made him the key pe
 - [[marianne-foyster]] — his sister-in-law
 - [[borley-rectory]] — the property he helped the Foysters take on
 - [[arthur-foyster]] — another of Lionel's brothers
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Bernard Foyster** was a cousin of the Rev. Lionel Foyster and the Bull family, who served professionally as an attorney and the family lawyer [1-3]. Crucially for the Borley saga, he also acted as a fellow patron who had a say in the gift of the Borley living [2, 3].
+
+A thorough reference profile of his involvement based on the sources includes the following specific details and events:
+
+**Encouraging the Foysters to Take the Rectory**
+When Lionel and Marianne Foyster returned from Canada and were struggling to find suitable and affordable housing for their new parish duties, **Bernard Foyster came to stay for a weekend with the Bulls** [2, 3]. He expressed that it would be very nice to have a relative residing in Borley Rectory once more, noting that the vast property would only continue to deteriorate if it was left unoccupied [2, 3]. Acting in his capacity, **Bernard took the keys and personally accompanied Lionel and Marianne to view the vacant house**, which ultimately led to their fateful decision to make the Rectory their home [3].
+
+**Intervening with François d'Arles**
+Bernard later played a direct legal role in extracting Marianne Foyster from a volatile relationship. When Marianne was running the *Jonquille et Cie* flower shop in Wimbledon with François d'Arles (Frank Pearless), the relationship became highly strained [1]. Marianne later claimed that d'Arles was a "very dictatorial man" who constantly started arguments, making the situation "terribly unbearable" [1]. Desperate for an escape, **Marianne went to Bernard Foyster for legal help**. According to her 1958 interview with Robert Swanson, **Bernard Foyster and his clerk subsequently intervened and "got rid of d'Arles"** [1].
+
+**Sources:** gtwnd · hbrs

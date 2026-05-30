@@ -38,3 +38,21 @@ This leaves [[barbara-waldegrave|Barbara Waldegrave / Sister Apollonia]], who al
 - [[sir-edward-waldegrave]] — the prominent Tudor ancestor whose story dominates the Waldegrave/Borley narrative
 - [[waldegrave-family]] — family overview
 - [[the-nun]] — the apparition they may represent
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Jeronima Waldegrave** is briefly but specifically noted in the Borley sources during the historical search to identify the famous "phantom nun" of Borley Rectory. 
+
+A thorough reference profile drawn from the texts reveals the following specific biographical details and facts regarding her life and relevance to the case:
+
+**Family Background and Vocation**
+Jeronima was from Borley and was the **daughter of Sir Nicholas Waldegrave** [1, 2]. She was the sister of Barbara Waldegrave (who became Sister Apollonia) [1, 2]. Like many women in the staunchly Catholic Waldegrave family, Jeronima took holy orders and became a nun [2]. However, while her sister Barbara joined the Benedictine order in Brussels, **Jeronima went to join the exiled English community of nuns in Ghent** [2, 3]. 
+
+**Death and Relevance to the Borley Legend**
+Researchers looking into the Borley haunting closely examined the Waldegrave daughters to see if any of them could be the tragic figure behind the ghost nun legend [3, 4]. Jeronima is explicitly ruled out as the victim of a violent murder at Borley because historical records confirm her ultimate fate: **she died young from consumption** (tuberculosis) while with her religious order in Ghent [3]. 
+
+Because Jeronima's cause of death is clearly documented, investigators (such as Ivan Banks) focused their attention instead on her sister Barbara as the prime candidate for the Borley nun [3].
+
+**Sources:** enbr

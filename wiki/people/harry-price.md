@@ -196,3 +196,42 @@ Price's sequel, written from the Reform Club and published April 1946, covers 19
 - [[locked-book]] — the key Glanville dossier
 - [[lucie-kaye]] — his secretary and key witness
 - [[andrew-clarke]] — local historian; most detailed skeptical analysis
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Biographical Background**
+Harry Price was born on January 17, 1881, at 37 Red Lion Square, Holborn, London, to Emma Meech and Edward Ditcher Price, a grocer who later became a commercial traveller [1-3]. Though Price later cultivated a persona of originating from wealthy Shropshire stock—a claim fiercely criticized by his posthumous detractors—he actually grew up in South East London [3-5]. He attended Haberdashers’ Aske’s Hatcham Boys School, leaving at age fifteen, and subsequently took evening classes in photography, chemistry, and mechanical engineering at Goldsmiths College [6]. For most of his working life, he was a commercial traveller and sales manager for Edward Saunders & Son, a large firm of paper manufacturers [6-8]. On August 1, 1908, he married Constance Mary Knight, a woman with independent means, and they resided together at Arun Bank in Pulborough, West Sussex for the rest of his life [6, 7, 9]. He died of a sudden heart attack at his home on March 29, 1948, sitting in his favourite armchair with a freshly lit pipe just after posting a letter [10-12]. 
+
+**Personality and Professional Profile**
+Price was an intensely complex and ambitious man; stocky and bald-headed with pointed ears, he had a penetrating stare often ringed by dark circles due to chronic migraines, and spoke with a slight stammer developed in his schooldays [13-15]. He suffered from angina from 1928 onward, which increasingly curtailed his physical activities [16, 17]. He possessed a brilliant flair for self-promotion and journalism, frankly admitting: **"To work successfully in this field, one has to be absolutely fearless and independent – with a hide like a rhinoceros"** [18]. 
+
+A highly skilled amateur conjurer and a member of the Magic Circle, Price used his knowledge of sleight-of-hand to expose fraudulent mediums, notably the spirit photographer William Hope and the materializing medium Helen Duncan [2, 19-21]. He was also an avid numismatist and a passionate bibliophile, amassing the world's largest library of magical literature, which he eventually bequeathed to the University of London [19, 22, 23]. 
+
+Price joined the patrician Society for Psychical Research (SPR) in June 1920, but chafed under their conservative methods [7, 8, 24]. In 1925, he founded his own rival organization, the National Laboratory of Psychical Research, equipped with state-of-the-art instruments [25-27]. He later reorganized this into the grandly titled University of London Council for Psychical Investigation in 1934, despite it having no official connection to the university [28, 29]. 
+
+**First Visits to Borley and the Sutton Affair (1929)**
+Price was introduced to Borley Rectory on June 11, 1929, when the editor of the *Daily Mirror* asked him to investigate strange occurrences reported by the Rev. Guy Eric Smith [30-32]. Price arrived on June 12 with his secretary, Lucie Kaye, and reporter V.C. Wall [14, 33]. His arrival coincided with a sudden, violent escalation of poltergeist activity, including the throwing of stones, a half-brick crashing through a glass roof, and the shattering of a red glass candlestick [32, 34, 35]. That night, Price led a seance in the Blue Room where a heavy mahogany mirror tapped out messages purportedly from the late Rev. Harry Bull [36, 37]. 
+
+This sudden onset of physical phenomena led to severe accusations against Price. On July 25, 1929, *Daily Mail* reporter Charles Sutton visited Borley with Price and later claimed—in an article published nine months after Price's death—that after a pebble hit him on the head, he grabbed Price and found his pockets full of bricks and pebbles [38-41]. Price's defenders point out that Sutton never published this while Price was alive, and suggest that Price's stunned silence during the alleged physical confrontation was likely the result of an angina attack brought on by shock [42-44]. 
+
+**The Foyster Period Contradictions (1930–1935)**
+When Price visited the Rectory on October 13-14, 1931, during the incumbency of the Rev. Lionel Foyster and his young wife Marianne, he witnessed a barrage of phenomena, including a glass of wine turning into ink, bell-ringing, and bottle-throwing [45-47]. Convinced it was a hoax, Price bluntly accused Marianne of faking the phenomena, which infuriated Foyster and caused a rift that kept Price away from Borley for over five years [46, 48, 49]. In a private letter at the time, Price explicitly stated: **"we are convinced that the many phenomena we saw were fraudulent... psychically speaking there is nothing in it"** [50]. 
+
+However, in a striking contradiction, when Price published his bestseller *The Most Haunted House in England* in 1940, he suppressed his accusations against Marianne, utilized Foyster's diary, and presented the phenomena from this period as some of the most dangerous and convincing evidence of the haunting [51-53]. 
+
+**The Price Tenancy (1937–1938)**
+After the Rectory stood empty, Price rented it for a year beginning May 19, 1937, for the sum of £30 [54-56]. Seeking objective data, he placed an advertisement in *The Times* on May 25, 1937, recruiting a team of "intrepid, critical and unbiased" amateur observers [57-59]. He selected 48 investigators and issued them a *Blue Book of Instructions* [60-62]. Critics later assailed this booklet as a "barrage of suggestion" that pre-conditioned the observers to hallucinate phenomena like footsteps, bells, and apparitions [63-65]. 
+
+Price himself rarely stayed overnight during the tenancy [66]. On the final day of his lease, May 19, 1938, Price and an associate made a final sweep of the empty house and inexplicably found a 22-carat gold wedding ring lying on the Blue Room floor, which Price presented as a "golden apport" [67, 68]. 
+
+**Excavations, "The Flying Brick," and Later Controversies**
+Influenced by Canon W.J. Phythian-Adams’s theory that the wall writings ("Well Tank Bottom Me") pointed to a murdered French nun, Price supervised a dig in the Rectory cellars on August 17, 1943 [69-72]. The excavation unearthed a human jawbone and a skull fragment [70, 73]. Sceptical SPR investigators (Dingwall, Goldney, and Hall) heavily implied that Price had fraudulently planted these bones to provide a sensational climax for his 1946 sequel, *The End of Borley Rectory* [73, 74]. 
+
+Price also faced accusations over a photograph taken by *Life* magazine photographer David Scherman on April 5, 1944, which showed a brick suspended in mid-air amidst the demolition ruins [75, 76]. Journalist Cynthia Ledsham later accused Price of "bare-faced hocus pocus," stating the brick was simply thrown by a demolition workman standing just out of frame, and that Price knowingly passed a joke off as paranormal [77-80]. Outraged by the rumours, Price offered £,1000 to charity to anyone who could prove the photograph was faked [81]. Price was similarly accused of planting foreign Catholic medallions during his 1929 visits to artificially bolster the nun legend [82, 83]. 
+
+**Final Stance and Legacy**
+Following his death, critics like Trevor Hall attempted to entirely dismantle Price's reputation, publishing works filled with "unmitigated malice" describing him as a scoundrel and a fabricator [84-86]. In contrast, friends and researchers like Peter Underwood, Robert Hastings, and Sidney Glanville fiercely defended his underlying integrity, arguing he was a brilliant, if careless, journalist whose primary goal was to bring psychical research to the masses [87-89]. Despite the numerous allegations of trickery and exaggeration levelled at him, Price remained publicly adamant about the core of the Borley hauntings, asserting: **"if you cut out the Foysters, the Bulls, the Smiths, etc., something still remains"** [52, 90]. He frequently summarized his life's most famous case by declaring that **"Every person who has resided in the rectory since it was built in 1863... has sworn to incidents that can only be described as paranormal"** [91].
+
+**Sources:** 15mhh · brc · brfa · enbr · gotb · hast · hbrs · mhh · spr · wob

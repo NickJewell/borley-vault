@@ -68,3 +68,38 @@ Several reported phenomena during his incumbency (accounts gathered much later, 
 - [[joseph-tyler]] — family coachman; possible participant in cover-up
 - [[sir-edward-waldegrave]] — earlier lord of the manor on the same site
 - [[ivan-banks]] — researcher who documented the syphilis connection
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Reverend Henry Dawson Ellis Bull** (often referred to as H.D.E. Bull) was the first occupant and builder of the famous Borley Rectory. He served as the rector of Borley for thirty years, from 1862 until his death in 1892 [1, 2]. A classic Victorian "squarson" (squire-parson), he was a man of considerable wealth, influence, and eccentricity [2, 3]. 
+
+A thorough reference profile drawn from the Borley sources reveals the following facts, dates, quotes, and contradictions regarding his life and legacy:
+
+**Birth and Early Career**
+*   **Birth Date Contradictions:** Sources offer conflicting dates for his birth. Some state he was born on November 23, 1831 [4], while others record his birth year as 1833 [1, 5, 6].
+*   **Parentage and Education:** He was born at Pentlow to the Rev. Edward Bull and Elizabeth Hoddson [5, 6]. Breaking his family's Cambridge tradition, he was educated at Wadham College, Oxford, where he was a popular undergraduate, an excellent oarsman, and a talented amateur boxer [2, 7, 8].
+*   **Curacy:** Before Borley, he served as a curate at Holy Trinity Church in Ely from 1858 to 1860 [2, 9]. Church records there reveal he performed his first baptism on May 1, 1858, his first burial on June 17, 1858, and officiated only a single wedding on November 7, 1859 [10]. 
+*   **First Sermon:** He preached his first sermon at Pentlow on Sunday, June 6, 1858, inspired by the Book of Luke: **"Except ye repent, ye shall all likewise perish"** [9]. He confided in his personal diary: **"May God give me the grace both to know and to preach his holy word"** [9].
+
+**Marriage and the Rectory**
+*   **Marriage Contradictions:** He married Caroline Sarah Foyster (a sister of a fellow clergyman from Hastings). Sources contradict the exact date of their wedding; one specifies February 11, 1862 [11], while another simply states November 1862 [12]. They had fourteen children together, though some Borley parish registers only record thirteen baptisms [13, 14].
+*   **Building the Rectory (1862–1863):** Inducted to the living of Borley in 1862, Bull lived in nearby Borley Place while he commissioned a massive new parsonage on the site of the former Herringham rectory [12, 15]. He hired the architect John Johnson and the builder Thomas Farrow, completing the red-brick High Victorian Gothic mansion in 1863 for an estimated £3,000 [16]. He later added a large new wing in 1875–1876 [17]. 
+*   **Architectural Quirks:** He purchased a large marble fireplace from the 1851 Great Exhibition for the dining room, which featured carvings of monks' heads [18, 19]. He notoriously bricked up one of the dining room windows; while legend claimed he did this because a phantom nun kept staring in at the family while they ate, more practical theorists suggest he simply wanted privacy from the adjacent road [18, 20]. (Researchers note he could not have done it to avoid the Window Tax, as that was repealed in 1851, twelve years before the house was built [21]).
+
+**Lifestyle and Character**
+*   **Appearance:** He was a tall, broad-shouldered man of immense physical strength, described as having a strong, thoughtful, and somewhat "hard" face, clean-shaven except for mutton-chop whiskers [22, 23]. 
+*   **The "Hedge Parson":** He famously referred to himself as a **"hedge parson"** and only wore his canonicals for Sunday morning service [24]. To the amusement of his friends, he used to boast of how, after his ordination, he **"drove away from the Bishop’s Palace in a tandem with a smart 'tiger' up behind"** [24].
+*   **Hunting and Shooting:** An avid sportsman and member of the Suffolk and Essex Hunt, he kept horses and frequently rode to hounds [22, 25]. A favorite pastime was changing into his ordinary clothes, lying on the floor of the drawing room or library, and potting rabbits on the lawn through the French windows using a single-shot rook rifle [3, 22, 24, 26]. 
+
+**Paranormal Beliefs**
+Bull was well aware of the local ghost legends. He built a large, octagonal summer-house in the garden, allegedly for the express purpose of sitting and watching the "Nun's Walk" for the ghost [27-29]. When his wife Caroline reported seeing the phantom nun on the lawn around 1890, he nonchalantly replied that **"he would not be at all surprised if she had for the previous day had been July 28th, the 'nun's day'"** [30].
+
+**Death, Scandal, and Rumors**
+*   **Death Date Contradictions:** Bull died in the Rectory's famous "Blue Room." His date of death is given by some sources as May 2, 1892 [31, 32], and by others as May 7, 1892 [33, 34]. 
+*   **Cause of Death and Illegitimate Children:** By the time he died at age 59, he had gone completely blind [32]. His official cause of death was *locomotor ataxia*, a neurological disease that is a primary manifestation of tertiary syphilis [32, 35, 36]. This medical record lends significant weight to persistent local rumors that he was a philanderer who was overly familiar with maidservants and fathered illegitimate children with village girls [37, 38]. 
+*   **The Katie Boreham Murder Séance:** During the 1937 Glanville planchette séances, an entity identifying itself as Henry Dawson Bull claimed responsibility for a "misfortune" in the Rectory kitchen involving a maid named Katie Boreham [39-41]. The spirit indicated she had died an unnatural death there while giving birth to a child [39, 40].
+*   **The Will:** Bull's will, dated March 22, 1877, contained a suspicious detail: the gross value of his personal estate was listed at only £3,132 [42]. Given his affluent lifestyle, domestic staff, and massive home, researchers suggest he must have kept the bulk of his considerable wealth out of probate via trusts [43]. A later codicil (June 5, 1887) also downgraded his wife's inheritance from outright ownership of the house's contents to merely having the "use" of them, suggesting a potential rift in the marriage [42, 43].
+
+**Sources:** 15mhh · bps · brc · brfa · ebr · enbr · gotb · gtwnd · hbrs · wob

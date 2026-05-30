@@ -21,3 +21,19 @@ Isabel was almost certainly one of the four sisters present at the famous July 1
 ## Later Life
 
 Isabel and surviving siblings settled at [[chilton-lodge|Chilton Lodge]], Great Cornard, where Peter Underwood visited them on several occasions. She died before 1963 (when the last surviving sister, Constance, died, leaving about £50,000).
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+The Borley sources present a notable contradiction regarding an "Isabel Bull," as the comprehensive genealogical records and rosters of the Bull family do not list any daughter by that name [1-4]. 
+
+The Rev. Henry Dawson Ellis Bull and his wife Caroline Sarah Foyster had up to fourteen children, and multiple sources provide detailed lists of their names and baptismal records (which include Henry/Harry, Caroline/Dodie, Winifred/Freda, Alfred, Basil, Ethel, Adelaide/Mabel, Edward/Gerald, Constance, Hubert/Herbert, Emily/Elsie, Cyril, Alice/Katie, and a possible Milly) [1-4]. "Isabel" does not appear in any of these family lists [1-4].
+
+There is only one single, ambiguous mention of the name "Isabel" in the provided texts regarding the haunting. When detailing the phenomena that occurred during the lifetime of Rev. Henry Bull, the text states: **"As related by Ethel Bull (one of his daughters), the Misses Isabel, Freda and Mary H. Gladwin gave full accounts to Harry Price and Sidney Glanville"** [5]. The text notes that these individuals provided testimony regarding unexplained footsteps, taps at night, and an occasion where all twenty of the house's bells pealed out simultaneously for no apparent reason [5]. 
+
+Because "Freda" is a well-known Bull sister, this grammatical phrasing could be interpreted as grouping an "Isabel" and "Freda" together as Bull sisters, alongside a separate person named Mary H. Gladwin [5]. However, the phrasing is ambiguous and could equally refer to an "Isabel Gladwin" [5]. 
+
+Aside from this single, unclear reference, the sources do not contain any specific facts, biographical details, quotes, or distinct events attributed to an "Isabel Bull."
+
+**Sources:** brc · brfa · enbr · gotb

@@ -26,3 +26,26 @@ If Bevan's reading is correct, the spontaneous markings under close observation 
 ## Significance
 
 Bevan's contribution is a small but precise piece of evidence in an already complex puzzle. He had no prior connection to the Borley investigation; his expertise in the Waldegrave crest was familial rather than constructed. The coincidence of the five-feather set appearing in the markings, combined with Bevan's independent identification of its heraldic meaning, gave Price another "indicator" pointing toward [[waldegrave-family|the Waldegraves]].
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Edwyn R. Bevan, O.B.E., F.B.A., M.A., D.Litt., LL.D.**, was an archaeologist and a correspondent of Harry Price whose keen heraldic observation provided a new theory regarding one of the mysterious wall writings at Borley Rectory [1, 2]. 
+
+A thorough reference profile drawn from the Borley sources reveals the following biographical details and specific contributions to the case:
+
+**Biographical Details and Connection to Borley**
+The sources record Bevan's address as **Yatscombe Cottage, Boar’s Hill, Oxford** [2]. Crucially, he is noted as being a **"kinsman of the Waldegraves,"** the prominent and historically powerful Roman Catholic family who were patrons of the Borley church and held the Manor of Borley for some three hundred years [2, 3]. 
+
+**The "Prince of Wales's Feathers" and the Waldegrave Crest**
+Bevan’s sole but significant involvement in the Borley investigation arose after he read Harry Price's first book, *The Most Haunted House in England* [2]. He wrote to Price on **August 24, 1942**, drawing attention to a specific set of wall markings that had been discovered during the Price tenancy by BBC television engineer M. Savage [2, 4]. 
+
+Price had previously described these markings as resembling the "Prince of Wales’s feathers" [2]. However, utilizing his familial and historical knowledge, Bevan pointed out that the Prince of Wales's crest features only three ostrich feathers rising out of a coronet, whereas **the Waldegrave family crest has five feathers** [4]. 
+
+Savage’s sketches of the wall markings depicted three sets of four strokes and one set of five strokes [2]. Because the sketch with the five "feathers" was positioned at the bottom of the group—suggesting it was the unseen author's final attempt—Bevan's observation led Price to theorize that the communicating entity (supposedly the ghost nun, Marie Lairre) was actually trying to delineate the Waldegrave crest as an **"indicator pointing to a Waldegrave"** [4]. 
+
+**Acknowledgments by Harry Price**
+Harry Price was highly appreciative of Bevan's insight. In the preface to his 1946 sequel, *The End of Borley Rectory*, Price explicitly lists Mr. Edwyn R. Bevan among a select group of distinguished academic and clerical correspondents to whom he was **"especially grateful... for suggestions and help"** in his ongoing research [1].
+
+**Sources:** ebr

@@ -46,3 +46,37 @@ The 1956 SPR Report regards the Polish account as "so open to suspicion that it 
 - [[robert-fordyce-aickman]], visiting the ruins on 24 and 31 July 1943, was told by someone that overnight stays cost a fee, with "reference to a group of Polish officers who had paid £5"; he also encountered a noisy group entering the cottage at 1:30 a.m. during one of his overnight visits
 
 The SPR was unable to locate the original documents for this account.
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Lt. G.B. Nawrocki** (sometimes referred to as Dr. Nawrocki) was a doctor of medicine attached to the Polish Army Medical Corps who was temporarily stationed in Britain during the Second World War [1, 2]. He resided at 45 William Street, Kirkcaldy, Fife [1]. Having taken an interest in scientific psychical research for many years and read most of Harry Price's books, Nawrocki contacted Price on **August 1, 1943**, to share a detailed, minute-by-minute protocol of his paranormal experiences at the ruined Borley Rectory [1, 3]. 
+
+A thorough reference profile drawn from the Borley sources reveals the following facts, events, quotes, and controversies regarding his involvement:
+
+**The First Visit (June 28–29, 1943)**
+Lt. Nawrocki visited the Rectory ruins alongside his commanding officer, Col. J. Wroblewski, Lieut. W. Kujawa, and Second Lieut. A. Ligaszewski [4]. Almost immediately upon entering the Base Room at **8:10 p.m.**, a stone was thrown at Nawrocki in the kitchen passage [4]. At **8:30 p.m.**, more stones were thrown at him in the bathroom passage and the Chapel [5]. 
+
+During a night watch, at **11:05 p.m.**, Nawrocki observed a **"black shadow moving slowly between the trees on the Nun's Walk"**, which vanished near the wall [6, 7]. Later, at **4:30 a.m.**, while inspecting the ground floor, he reported hearing **"many whisperings"** in the kitchen passage, though he could not distinguish any specific words [7, 8]. 
+
+**The Second Visit (July 28–29, 1943)**
+Nawrocki returned a month later with Lieut. Kujawa and "two English boys" [9]. (Note: One source timeline mistakenly dates this visit to 1944 [10]). At **8:30 p.m.**, two stones were again thrown at Nawrocki, this time in the Blue Room [9]. 
+
+To prepare for a night vigil, Nawrocki and Kujawa showed considerable improvisation by deciding to **"rebuild" the floor of the ruined Blue Room**, laying planks across the burnt rafters and bringing in straw so they could sit and keep watch [9, 11]. At **11:25 p.m.**, Nawrocki felt someone walking through the bushes and again saw the shadowy figure on the Nun's Walk, which stopped and vanished after a few seconds [12]. At **00:30 a.m.**, after the English boys claimed to have seen a shadowy figure, Nawrocki investigated and suddenly saw **"a black shape or a shadow of a man silhouetted on the wall of the chapel,"** which stood motionless for up to twenty seconds before vanishing slowly [12].
+
+**Quotes and Inquiries**
+In a covering letter sent to Harry Price on August 8, 1943, Nawrocki provided the following definitive quote regarding his experiences: 
+> **"I am quite sure that I twice saw the shadow on the Nun’s Walk, and once a shadow of a man in Room No. 3"** [13].
+
+He explicitly asked Price whether these apparitions might have been the phantasms of the legendary ghost nun and the late Rev. Harry Bull [13]. 
+
+**Skepticism and the "Hoax" Theory**
+Nawrocki's reports became a major target for critics. In the Society for Psychical Research's 1956 *Borley Report*, authors Dingwall, Goldney, and Hall dismissed the Polish officers' accounts as an **"elaborate hoax,"** bluntly stating, **"Frankly, we cannot take this account seriously"** [14, 15]. The critics found it incredibly suspicious that the Polish party managed to experience a comprehensive cross-section of the most sensational traditional phenomena—stone-throwing, apparitions of the nun, the ghost of Harry Bull, and phantom whisperings—in just two nights, especially when the dedicated Cambridge Commission had recorded virtually nothing during visits in the exact same period [14, 15]. 
+
+Skeptics also highlighted a lesser-known detail provided by investigator Robert Fordyce Aickman, who visited the Rectory around the same time. Aickman reported being approached by someone demanding a fee to spend the night in the ruins, and was specifically told that **a group of Polish officers had paid the substantial sum of £5 for the privilege** [14, 16]. 
+
+**Defenses of Nawrocki's Integrity**
+Despite the skepticism, defenders of the Borley haunting, such as Peter Underwood and Paul Tabori, argued that the Polish officers were mature military men (including a doctor and a commanding officer) with **"no axe to grind"** [2]. They maintained that it would be difficult to suggest any logical motive for these men to supply completely fabricated reports to Harry Price, a man they did not personally know [2].
+
+**Sources:** brc · ebr · gotb · gtwnd · spr

@@ -28,3 +28,19 @@ Craggs's immediate post-mortem attack opened the floodgates for the subsequent c
 - [[the-borley-report]] — the official investigation that followed
 - [[the-observer-program]] — from which Magic Circle members were excluded
 - [[charles-sutton]] — whose later accusation added detail to Craggs's charges
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Douglas Craggs** is a minor figure in the Borley Rectory sources, primarily noted for his association with the Magic Circle and his interactions with psychical researchers investigating the case. A thorough reference profile drawn from the texts reveals the following specific details about his involvement:
+
+**Rejected by Harry Price (1937)**
+When Harry Price placed an advertisement in *The Times* on May 25, 1937, seeking "intelligent, competent and cultured strangers" to act as official observers during a year-long investigation of Borley Rectory, **Craggs and several other members of the Magic Circle appealed to be considered** [1]. However, Price was determined to recruit "enthusiastic amateurs" rather than professional psychical researchers, and he was firm that spiritualists should be strictly excluded [1]. Consequently, **the appeals of Craggs and his fellow Magic Circle members were rejected** by Price [1]. 
+
+**Contribution to the SPR *Borley Report***
+Although he was excluded from Price's on-site investigation, **Craggs later assisted the critics who sought to debunk Price's findings**. After Price's death, Dr. Eric J. Dingwall, Kathleen M. Goldney, and Trevor H. Hall conducted a highly critical re-examination of the Borley case for the Society for Psychical Research (SPR), published in 1956 as *The Haunting of Borley Rectory* (often referred to as the *Borley Report*) [2, 3]. In the preface to their report, the authors explicitly state that they were **"much indebted for information and advice" to Douglas Craggs**, listing him among a select group of individuals who helped them compile their case against Price [3]. 
+
+The provided sources do not record any further facts, quotes, or lesser-known biographical details regarding Craggs' life or background.
+
+**Sources:** hbrs · spr

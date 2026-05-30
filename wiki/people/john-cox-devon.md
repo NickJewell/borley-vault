@@ -51,3 +51,27 @@ Following Cox/Devon's confession, Sir Edward's house at Borley Hall was searched
 - [[dr-ramberge]] — Cox's companion at Borley Hall
 - [[stephen-luskin]] — the Clare Priory monk who became Rector of Borley four years after Waldegrave's death
 - [[waldegrave-family]] — the family undone by Cox's confession
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**John Cox (alias John Devon)** was a 16th-century "Papist" (Catholic) priest who served as the parish priest of Pentlow [1, 2]. In the Borley sources, he is a pivotal historical figure whose arrest and subsequent confession directly led to the downfall, imprisonment, and ultimate death of Sir Edward Waldegrave, the Catholic Lord of the Manor at Borley [1, 3].
+
+A thorough reference profile drawn from the sources reveals the following specific dates, events, quotes, and historical details regarding his involvement:
+
+**Arrest and Accusations of "Magic"**
+Cox/Devon was arrested in the spring of 1561 during the reign of Queen Elizabeth I, a time of strict anti-Catholic persecution [1, 3]. On or about **April 17, 1561**, Edmond Grindall, the Bishop of London, wrote to Sir William Cecil of the Privy Council to inform him of the arrest [1]. In his correspondence, Grindall specifically expressed the view that **"the Privy Council would surely punish him for his magic and conjuration"** [1].
+
+**Interrogation and Confession**
+Following his arrest, Cox/Devon was interrogated by Hugh Darrell, a Justice of the Peace for the county of Kent [3]. During this interrogation, the priest confessed to celebrating the forbidden Catholic Mass [3]. He stated that he had first celebrated Mass at the Essex home of Sir Thomas Wharton of Newhall, before being received at Borley Hall, the home of Sir Edward Waldegrave [3]. 
+
+Cox/Devon provided authorities with damaging evidence against the Waldegraves, admitting that he had seen various **"papish books and superstitious ornaments"** at Borley [3]. A modernized transcript of his confession records him stating:
+> **"The said within John Devon Clarke (sic) sayeth that on Tuesday next following the Friday within written, he came to Sir Edward Waldegrave, Knight, to his house at Borley in Essex and there made his abode one month in the company of Doctor Ramberge, late Dean of Lichfield, and daily did eat and drink at the only table of the said Sir Edward Waldegrave"** [4].
+
+He further confessed that during his month-long stay at Borley, Sir Edward Waldegrave had given him money, and Lady Frances Waldegrave had presented him with a book of the Sarum liturgy (the Catholic liturgical form formerly used at Salisbury) [5]. 
+
+**Historical Irony and Pentlow Connection**
+The Earl of Oxford’s letters to the Privy Council noted that Cox/Devon was the parish priest of Pentlow, and that he had been found in possession of holy service items belonging to Pentlow Church [2]. The Borley sources highlight a striking historical irony in this detail: exactly three hundred years after this Pentlow priest triggered the ruin of Borley's Tudor lord, another Rector of Pentlow (the Rev. Edward Bull) would see his son, the Rev. Henry Dawson Ellis Bull, arrive to build and occupy the notoriously haunted Victorian Borley Rectory on the very same manorial lands [2].
+
+**Sources:** enbr

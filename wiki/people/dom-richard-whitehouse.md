@@ -110,3 +110,39 @@ Clarke's view: Edwin's intense uncritical belief, his encouragement of spirit co
 - [[wall-writings]] — the Novena message
 - [[spr-investigation]] — the report that attacked his credibility
 - [[andrew-clarke]] — detailed biographical analysis
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Dom Richard Whitehouse**, previously known as **L. Edwin Whitehouse**, was the nephew of Sir George and Lady Florence Whitehouse (churchwardens at Borley) and one of the most central, controversial, and deeply involved witnesses during the tumultuous Foyster incumbency (1930–1935) at Borley Rectory. 
+
+A thorough reference profile drawn from the sources reveals the following facts, events, and contradictions regarding his life and involvement:
+
+**Lesser-Known Biographical Details and Early Trauma**
+Born Leslie Edwin Whitehouse in 1899 in Istanbul, he was the son of Francis Cowley Whitehouse (canon to the British Embassy in Istanbul) and the grandson of J. W. Whittall, head of a successful trading empire [1]. By his relatives, he was affectionately nicknamed **"Boy"** [1, 2]. 
+
+His mental health was fragile, a fact heavily scrutinized by critics. As a fifteen-year-old midshipman, he served in the Royal Navy during World War I and suffered terrible trauma at the Battle of Jutland. He was invalided out in 1917 due to "nerves or shell shock" [3-5]. In 1924 and 1925, he was treated for anxiety neurosis at Bowdon House, a nursing home in Harrow, but ran away before completing his treatment [5, 6]. Seeking to determine if he had a vocation for the priesthood, he drifted into teaching before visiting his aunt and uncle at Arthur Hall in Sudbury for a recuperative holiday in May 1931 [5, 7, 8]. He was officially ordained as a Benedictine monk on May 18, 1940, taking the name Dom Richard Whitehouse, and later taught Latin and Physical Education at Assumption House School in Ramsgate [9-11]. He died in St Hugh's Nursing Home, Cleethorpes, in 1975 [9, 10]. 
+
+**Paranormal Experiences at Borley (1931)**
+Fascinated by poltergeists, Whitehouse consulted the Jesuit spiritualist Father Herbert Thurston before visiting the Rectory [5]. He made approximately thirty visits to Borley between June and December 1931 and became close friends with Lionel and Marianne Foyster [12-14]. He supplied Harry Price with a detailed written account of his experiences, which Price published as a chapter titled "What I Saw at Borley Rectory" in *The Most Haunted House in England* (*MHH*) [13]. He claimed to have witnessed spectacular phenomena:
+*   **The Stiletto Incident (June 8, 1931):** While sitting on the edge of Marianne's bed as she lay sick with her hands under the bedclothes, Edwin felt something land in his lap. It was a brass stiletto (paper knife) eight to nine inches long and weighing about eight ounces. He was convinced Marianne could not have thrown it, as her hands were completely visible [15-17].
+*   **The Bottle Incident (November 13, 1931):** While standing in the kitchen with Marianne and the maid Katie, Edwin claimed that a bottle materialized in mid-air, changed from a mushroom shape into a bottle, hovered, and then crashed to the floor at their feet [18, 19]. 
+*   **The Tumbler Contradiction (December 14, 1931):** Whitehouse claimed in *MHH* that a fragile tumbler dropped near his feet, circled him, and came to rest without breaking [20, 21]. However, **a major contradiction exists here**: in a November 1940 letter to Harry Price correcting his own account, Whitehouse admitted, **"to be strictly accurate I did not *witness* No 5 [the tumbler incident], arriving as I did just after it had taken place"** [22, 23]. Shockingly, Price deliberately ignored this crucial retraction and continued to publish the incident as firsthand testimony in the second edition of his book [24, 25].
+
+**Catholic Influence and the Wall Writings**
+Whitehouse was largely responsible for introducing a distinctly Roman Catholic flavor to the Borley hauntings. He supplied the Foysters with Catholic scapulars to pin to their underwear and a relic of St. John Vianney (the Curé d'Ars) to unlock doors [26-28]. He also conducted Catholic Novenas (nine days of prayer) in the house. During one Novena on June 16, 1931, the famous wall writing **"Get light mass and prayers"** appeared, to which the word **"Here"** was added when Whitehouse prayed asking where the mass should be offered [27, 29]. 
+
+Another wall writing heavily associated with him was interpreted by critics as reading "Mrs Foyster," but Edwin excitedly interpreted it as **"Ibi Mass by Boy,"** believing the spirits were addressing him by his childhood nickname [2, 30]. Fascinatingly, during Harry Price's 1937–1938 tenancy, the single word **"Edwin"** appeared on a wall. According to professional graphologist Lewis T. Ackermann, this was the *only* piece of wall writing at Borley that was not executed by Marianne Foyster [31-33].
+
+**The Foyster Novel Pseudonym**
+A highly curious and lesser-known biographical detail is how the Rev. Lionel Foyster chose to depict Whitehouse in his unpublished novel *Fifteen Months in a Haunted House*. Despite Edwin being a tall, ex-Navy man and a frequent guest, Foyster completely changed his identity and gender, disguising him in the manuscript as a maiden niece named **"Miss Edith Greycastle"** [34-37]. 
+
+**Contradictions, Criticisms, and Marianne's Denials**
+Whitehouse's testimony became the central battlefield for critics attempting to debunk the Borley story:
+*   **The SPR Attacks:** In the 1956 *Borley Report*, Eric Dingwall, Kathleen Goldney, and Trevor Hall severely attacked Whitehouse's credibility. They argued that his history of severe "maladjustment" and mental breakdowns prejudiced his account, suggesting his highly strung nature made him easily duped by Marianne [38-40]. Kathleen Goldney even traveled to Ramsgate on the day the report was published and threatened Whitehouse in front of his abbot, warning him that if he defended Marianne, they would publicly expose his mental health history [41, 42].
+*   **Whitehouse's Defense:** Whitehouse fiercely rejected these accusations, pointing out that Mrs. Goldney had maliciously conflated his 1924–1925 breakdown with his time at Borley in 1931, during which he was perfectly sane. He maintained that his accounts were highly accurate because they were drawn from detailed contemporary notes made at the time, not from memory eight years later [41, 43-45].
+*   **Marianne's Rejection:** In her later interviews, Marianne completely threw Whitehouse under the bus. She denied the stiletto incident ever happened, accused him of being "squiffy" (drunk or eccentric) and highly emotional, and complained that he was a nuisance who talked obsessively about sin [3, 46-48]. She even suggested that Whitehouse himself was unconsciously responsible for the wall writings [49, 50]. 
+*   **Rumors of Sexual Dynamics:** Authors and researchers speculated heavily on the intense dynamic between Whitehouse and the Foysters. Trevor Hall suggested Marianne, who was described by Lady Whitehouse as "man mad," was trying to seduce the vulnerable monk [51]. Conversely, Marianne herself intimated to investigator Mrs. Eileen Garrett that Whitehouse and her husband Lionel were "exceedingly intimate, which suggested a spot of homosexuality in the relationship" [36, 52].
+
+**Sources:** brc · ebr · gotb · gtwnd · hast · hbrs · mhh · slbr · spr · wob
