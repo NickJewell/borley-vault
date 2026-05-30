@@ -1,0 +1,9 @@
+# Obsidian workspace files
+.obsidian/
+
+# Raw source material — do not publish
+raw/
+
+# macOS
+.DS_Store
+**/.DS_Store
