@@ -3,7 +3,7 @@ title: "Rev. Margaret King"
 type: person
 tags: [clergy, borley-contemporary, rector]
 sources: [hbrs-aft]
-updated: 2026-05-30
+updated: 2026-05-31
 ---
 
 # Rev. Margaret King
@@ -26,8 +26,4 @@ She continues to receive two or three requests a month from "out-and-out cranks"
 - [[michael-stebbing]] — one of the villagers she introduced to O'Connor
 - [[rectors-of-borley]] — the complete list of Borley's rectors
 
-## Research Notes
-
-*Sourced via NotebookLM corpus research, 2026-05-30.*
-
-Based on the provided Borley sources, there is no mention of a **Rev. Margaret King**. The texts do not contain any biographical details, facts, events, dates, or quotes regarding this individual in connection with the Borley Rectory case.
+**Sources:** hbrs

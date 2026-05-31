@@ -3,7 +3,7 @@ title: "Rev. L. de Clare"
 type: person
 tags: [borley, exorcism, beth-oni, parallel-case]
 sources: [ebr-ch02]
-updated: 2026-05-30
+updated: 2026-05-31
 ---
 
 # Rev. L. de Clare
@@ -16,8 +16,4 @@ De Clare's exorcism is thus a case of partial rather than permanent effectivenes
 
 The name "de Clare" may suggest Norman French descent; no further biographical details are available in Price's account.
 
-## Research Notes
-
-*Sourced via NotebookLM corpus research, 2026-05-30.*
-
-Based on the provided Borley sources, there is no mention of **Rev. L. de Clare**. The texts do not contain any biographical details, facts, events, dates, or quotes regarding this individual in connection with the Borley Rectory case.
+**Sources:** ebr

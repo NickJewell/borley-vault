@@ -3,7 +3,7 @@ title: "Gordon Cartwright"
 type: person
 tags: [adelaide-foyster, manchester, post-borley]
 sources: [hbrs-ch20]
-updated: 2026-05-30
+updated: 2026-05-31
 ---
 
 # Gordon Cartwright
@@ -27,11 +27,3 @@ When the Foyster Bible passed to [[vincent-oneil|Vince O'Neil]] after Marianne's
 - [[adelaide-foyster]] — his wife
 - [[wallace-tower]] — her eldest brother who found her as Mrs Cartwright
 - [[alan-roper]] — who tracked her down
-
-## Research Notes
-
-*Sourced via NotebookLM corpus research, 2026-05-30.*
-
-A review of the provided Borley sources and our conversation history reveals no mention of anyone named **Gordon Cartwright**. Therefore, there are no specific facts, events, dates, quotes, contradictions, or biographical details recorded about this individual in the available material. 
-
-The sources do contain extensive information about the journeyman carpenter **Fred Cartwright** (which was detailed in a previous response) as well as several individuals with the name Gordon (such as the BBC official and official observer **C. Gordon Glover**), but there is no record of a Gordon Cartwright connected to the Borley Rectory case. If you meant one of these other individuals, please let me know!

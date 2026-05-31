@@ -3,7 +3,7 @@ title: "Philip Tillard JP, of Stukely Hall"
 type: person
 tags: [lionel-foyster, family]
 sources: [wob-ch06]
-updated: 2026-05-30
+updated: 2026-05-31
 ---
 
 # Philip Tillard JP, of Stukely Hall
@@ -24,8 +24,3 @@ That Lionel never appealed to the Tillards (or to his Foyster clerical cousins) 
 - [[lionel-foyster]] — grandson
 - [[rev-george-alfred-foyster]] — son-in-law
 
-## Research Notes
-
-*Sourced via NotebookLM corpus research, 2026-05-30.*
-
-Based on the provided Borley sources, there is no mention of **Philip Tillard J.P., of Stukely Hall**. The texts do not contain any biographical details, facts, events, dates, or quotes regarding this individual in connection with the Borley Rectory case.

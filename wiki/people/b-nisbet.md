@@ -3,7 +3,7 @@ title: "B. Nisbet"
 type: person
 tags: [spr, wall-writings, handwriting]
 sources: [spr-v]
-updated: 2026-05-30
+updated: 2026-05-31
 ---
 
 # B. Nisbet
@@ -21,11 +21,3 @@ The investigators combined Nisbet's observation with testimony from [[miss-mary-
 - [[marianne-foyster]] — the person whose handwriting he identified
 - [[wall-writings]] — the phenomenon his observation addressed
 - [[marianne-controversy]] — the broader debate his evidence informs
-
-## Research Notes
-
-*Sourced via NotebookLM corpus research, 2026-05-30.*
-
-Based on the provided Borley sources and our conversation history, there is no mention of a **B. Nisbet** or anyone with the surname **Nisbet**. The provided texts—which comprehensively cover the history, investigators, official observers, residents, and witnesses connected to the Borley Rectory haunting—do not contain any facts, events, dates, quotes, or biographical details regarding an individual by this name. 
-
-If there is an alternate spelling, a pseudonym, or another specific investigator you have in mind (such as B. Heastie or Dr. H. F. Bellamy), please let me know and I would be happy to search the sources for them!

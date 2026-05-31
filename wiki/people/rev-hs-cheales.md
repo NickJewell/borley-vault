@@ -3,7 +3,7 @@ title: "Rev. H. S. Cheales"
 type: person
 tags: [parallel-case, organ-music, borley-church]
 sources: [gotb-ch06]
-updated: 2026-05-30
+updated: 2026-05-31
 ---
 
 # Rev. H. S. Cheales
@@ -14,8 +14,3 @@ Rector of Wyck Rissington, Gloucestershire (The Rectory, Wyck Rissington). Cheal
 
 His letter is cited by Underwood and Tabori as one of several instances of unexplained chanting reported from locked churches in England, supporting their view that [[borley-church|Borley Church]] was not unique in this respect but was the best-documented example of a wider phenomenon.
 
-## Research Notes
-
-*Sourced via NotebookLM corpus research, 2026-05-30.*
-
-Based on the provided Borley sources, there is no mention of **Rev. H. S. Cheales**. The texts do not contain any biographical details, facts, events, dates, or quotes regarding this individual in connection with the Borley Rectory case.

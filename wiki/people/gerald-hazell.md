@@ -3,12 +3,12 @@ title: "Gerald Hazell"
 type: person
 tags: [person, witness, maud-stearn, organ-phenomenon]
 sources: [brfa-ch09]
-updated: 2026-05-30
+updated: 2026-05-31
 ---
 
 # Gerald Hazell
 
-A local resident who lived in a small Suffolk village not far from Borley, who served as the source for the account of [[maud-stearn|Mrs Maud Stearn's]] experience of the phantom organ at Borley Church in 1955.
+A local resident who lived in a small Suffolk village not far from Borley, who served as the source for the account of [[maud-stearn|Mrs Maud Stearn's]] experience of the phantom organ at [[borley-church|Borley Church]] in 1955.
 
 ## Role in the Maud Stearn Account
 
@@ -18,7 +18,7 @@ The incident was dated to 1955. Shortly after it occurred, Mrs Stearn moved away
 
 ## Significance
 
-Gerald Hazell is representative of the network of local informants consulted by Babbs and Mathias — people who had not themselves had dramatic paranormal experiences but who could confirm or relay the testimony of others. His confirmation of the Stearn account, particularly the corroboration by his brother, strengthens the reliability of a phenomenon (the phantom organ) that was reported by multiple independent witnesses over many years.
+Gerald Hazell is representative of the network of local informants consulted by Babbs and Mathias — people who had not themselves had dramatic paranormal experiences but who could confirm or relay the testimony of others. His confirmation of the Stearn account, particularly the corroboration by his brother (multiple witnesses), strengthens the reliability of a phenomenon (the phantom organ) that was reported by multiple independent witnesses over many years.
 
 ## See Also
 
@@ -27,9 +27,3 @@ Gerald Hazell is representative of the network of local informants consulted by 
 - [[ew-jephcott]] — another witness of the phantom organ (1947)
 - [[norah-walrond]] — another organ-music witness (1947)
 - [[thomas-musk]] — later witness of music from the locked church (1987)
-
-## Research Notes
-
-*Sourced via NotebookLM corpus research, 2026-05-30.*
-
-A review of the provided Borley sources and our conversation history reveals no mention of anyone named Gerald Hazell. Therefore, there are no specific facts, events, dates, quotes, contradictions, or biographical details recorded about this individual in the available material.

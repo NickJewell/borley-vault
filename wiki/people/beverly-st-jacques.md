@@ -3,7 +3,7 @@ title: "Beverly St Jacques"
 type: person
 tags: [marianne, america, oneil]
 sources: [wob-ch14]
-updated: 2026-05-30
+updated: 2026-05-31
 ---
 
 # Beverly St Jacques
@@ -25,11 +25,3 @@ Beverly St Jacques appears only in passing in Wood's account, but she represents
 - [[robert-oneil]] — O'Neil
 - [[marianne-foyster]] — Marianne
 - [[hokah-minnesota]] — where the Hokah household collapsed
-
-## Research Notes
-
-*Sourced via NotebookLM corpus research, 2026-05-30.*
-
-Based on the provided Borley sources and our conversation history, there is no mention of an individual named **Beverly St Jacques**. The texts—which comprehensively cover the history, investigators, official observers, residents, and witnesses connected to the Borley Rectory haunting—do not record any specific facts, events, dates, quotes, or biographical details regarding anyone by this name. 
-
-If there is an alternate spelling, a pseudonym, or another specific figure related to the Borley case you have in mind, please let me know and I would be happy to search the sources for them!
