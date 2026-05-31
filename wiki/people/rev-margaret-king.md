@@ -25,3 +25,9 @@ She continues to receive two or three requests a month from "out-and-out cranks"
 - [[borley-church]] — the church she ministers
 - [[michael-stebbing]] — one of the villagers she introduced to O'Connor
 - [[rectors-of-borley]] — the complete list of Borley's rectors
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+Based on the provided Borley sources, there is no mention of a **Rev. Margaret King**. The texts do not contain any biographical details, facts, events, dates, or quotes regarding this individual in connection with the Borley Rectory case.

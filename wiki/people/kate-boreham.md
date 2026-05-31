@@ -103,3 +103,33 @@ Henry Dawson Bull died in 1892 from Locomotor Ataxia — documented by death cer
 - [[phantom-coach]] — Banks's identification of the coach with the Katie episode
 - [[ivan-banks]] — conducted the forensic investigation
 - [[bones-excavation]] — Banks raises possibility bones = Kate, not the nun
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Kate Boreham** (born **Catherine Barber** or **Katherine Barba**) was a local woman whose life and death became central to one of Borley Rectory's darkest and most controversial subplots. According to parish census returns, she was employed as a domestic maid at the Rectory during the incumbency of the Rev. Henry Dawson Ellis Bull [1, 2]. 
+
+A thorough reference profile drawn from the Borley sources reveals the following biographical details, contradictions, and sensational theories regarding her life and alleged involvement in the haunting:
+
+**Biographical Details and Contradictions**
+*   **Birth and Marriage:** She was born in Ballingdon, Sudbury, in 1857 [3, 4]. On **February 19, 1876**, at the age of 19, she married Walter Boreham, a farm labourer from Acton, at Borley Church [3-5]. The service was conducted by the Rev. Henry D. E. Bull [4]. 
+*   **Premarital Conception:** Kate’s first child was baptized on **June 4, 1876**, less than four months after her wedding, which strongly indicates premarital conception [4, 6]. 
+*   **Contradictory Death Records:** Official records state she died in **March 1888** of "acute cerebritis" (brain inflammation) at a house in Priory Walk, Sudbury [2, 7]. However, Henry Bull entered her burial in the Borley churchyard as taking place on **Easter Day, 1888** [2]. 
+*   **Age and Address Anomalies:** Her death certificate recorded her age as 38, contradicting the church register which listed her as 31 [2, 8]. Furthermore, Sudbury electoral registers from 1888 show that the Priory Walk house was owned by a Jessie Mitchell; there is no evidence that Walter or Kate Boreham ever rented or owned it [5, 8, 9]. 
+
+**The 1937 Séance Revelations**
+Kate Boreham’s name entered Borley's paranormal lore during a series of séances conducted in **October 1937** by Sidney Glanville, his children (Helen and Roger), and Mark Kerr-Pearse [1, 10, 11]. Using a planchette and table-tipping methods, the sitters contacted an entity claiming to be Henry Bull, who stated that a servant girl named "Katie Boreham" had died unnaturaly in the Rectory kitchen [10, 11]. The dates given by the spirits were notably confused, citing her death as occurring in **April 1888** and later as **June 13** [10, 12, 13].
+
+**The "Cover-Up" Theory**
+The séance results and local village gossip coalesced into a dark theory championed by researchers like Ivan Banks. The theory posits that Kate became pregnant by Henry Bull and went into premature labour in the Rectory kitchen [1, 14, 15]. According to this hypothesis:
+*   Kate attempted to abort the pregnancy using **"sugar of lead" (lead acetate)**, a bottle of which was later allegedly found half-empty in the Rectory cellar [16-18]. 
+*   To avoid a monumental scandal, the Bulls orchestrated a cover-up. The dying maid was allegedly placed in the family carriage and rushed under the cover of darkness to the obscure address in Sudbury [19, 20]. Researcher Ivan Banks speculated that Joseph Tyler, the Bull family coachman, drove the vehicle—a detail some believe is the true origin of the famous "phantom coach" sightings at Borley [20]. 
+*   An inexperienced doctor, W. Nigel Mason, signed the death certificate citing "cerebritis," keeping the true cause of her death hidden from the public [7, 19]. 
+
+**Medical and Skeptical Re-Evaluations**
+*   **Forensic Analysis:** Professor Bernard Knight noted that "cerebritis" in the 1880s was an unspecific and speculative diagnosis [21]. He stated that Kate's symptoms could have been eclampsia related to childbirth, or **lead encephalopathy** caused by ingesting lead acetate, which was commonly scraped from diachyton plasters and swallowed as an abortifacient during that era [17, 22, 23].
+*   **The Skeptical Dismissal:** Critics of Harry Price and Sidney Glanville, including the authors of the SPR's *Borley Report*, dismissed the Katie Boreham mystery entirely. They pointed out that Sidney Glanville had thoroughly examined the Borley Church registers *prior* to the séances where her name emerged [24]. Skeptics argue that Glanville consciously or subconsciously absorbed the name and reproduced it during the planchette sessions, and that the story derived from local gossip surrounding a separate rape scandal involving a neighbouring vicar [24, 25].
+*   **The Cellar Bones:** When Harry Price excavated a female skull and jawbone from the Rectory cellar in 1943, he attributed the remains to a legendary 17th-century French nun, Marie Lairre [26, 27]. However, subsequent dental analysis indicated the bones likely belonged to a woman around 30 years of age, leading some researchers to ask a disturbing question: were the bones buried beneath Borley Rectory actually the remains of Kate Boreham? [27, 28].
+
+**Sources:** brc · ebr · enbr · hbrs · slbr · spr

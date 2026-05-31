@@ -32,3 +32,23 @@ Palmer is one of two eyewitnesses to the 1943 excavation (alongside Jackson) who
 > **Contested:** Dr Eric Bailey formally identified the jawbone as human. The SPR investigators accepted this identification. Clarke presents Palmer and Jackson's consistent alternative view as evidence consistent with — though not proof of — planting.
 
 See also: [[the-bones-and-excavations]], [[well-tank-controversy]], [[jackson-labourer]]
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Johnnie Palmer** was a local Borley farmworker employed by the Payne family at Borley Place [1]. In the Borley sources, he is recorded exclusively in connection with the controversial 1943 cellar excavations conducted by Harry Price. 
+
+A thorough reference profile drawn from the texts reveals the following details and contradictions regarding his involvement:
+
+**The 1943 Excavation and the "Sow's Bones"**
+During the excavations in August 1943, Harry Price's digging team unearthed bone fragments (a jawbone and part of a skull) that Price and a consulting pathologist declared to be human—which Price later used to support the theory that the legendary murdered nun, Marie Lairre, was buried beneath the house. However, Johnnie Palmer, who personally observed the dig, strongly contradicted this official assessment [1]. 
+
+Palmer maintained the "unshakeable view" that the remains pulled from the earth were not human at all, but were actually **"'awd Sows Bunz' (old sows bones)"** [1]. The source text notes the significance of this contradiction, pointing out that for an experienced farmworker like Palmer, mistaking pig bones for human bones would have been a highly unlikely, elementary mistake [1]. 
+
+**Impact on the Reburial**
+Palmer's conviction was shared by Mr. Jackson, the local laborer who had actually dug the bones out of the clay [1]. Their collective skepticism caused a significant local controversy [1]. When the Rev. Alfred Henning announced his intention to give the remains a Christian burial in the Borley churchyard, the local inhabitants were deeply incensed by the prospect of burying a pig in consecrated ground [1]. As a direct result of the outrage fueled by the observations of locals like Palmer, the remains were hurriedly buried in the neighboring churchyard at Liston instead [1].
+
+*(Note: Johnnie Palmer, the local farmworker, should not be confused with J. R. Palmer, a Cambridge undergraduate student who visited the Rectory ruins as part of the Cambridge Commission's "Visit No. 12" on June 9–10, 1943 [2].)*
+
+**Sources:** brc · slbr

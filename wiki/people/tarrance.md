@@ -23,3 +23,31 @@ The discovery was made "several years ago" before the Rev. [[rev-ac-henning|A. C
 This account corroborates Price's earlier reports of tunnel fragments found near the Rectory and the apparent "hollowness" of the road outside. The tunnel appears to be the same structure later explored in the 1950s excavations and identified by Andrew Clarke as likely connected to the Herringham rectory drainage system. See [[tunnels]] and [[herringham-rectory]] for context.
 
 Tarrance's son — referred to by [[rev-ac-henning]] as "Farrance junior" — separately told Henning about [[harry-bull]] being followed from church by the Nun, confirming the family's long local connection to Borley.
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Mr. Tarrance** (whose actual surname was **Farrance**) was a local general laborer who is best known in the Borley Rectory saga for accidentally discovering a legendary subterranean tunnel. 
+
+A thorough reference profile drawn from the Borley sources reveals the following facts, events, quotes, and textual contradictions regarding his identity and discovery:
+
+**The Name Contradiction and Biographical Details**
+*   **The "Tarrance" Error:** He was originally introduced to the wider public by ghost-hunter Harry Price in his 1946 book *The End of Borley Rectory* (*EBR*) under the misspelled name **"Mr. Tarrance"** [1, 2]. Later Borley historians corrected this, noting he was "wrongly called Tarrance" and that his real name was **Farrance** [1, 3]. 
+*   **The Father vs. Son Contradiction:** The sources contain a distinct contradiction regarding who actually found the tunnel. Most historical entries state that Farrance himself was employed by the Rev. Harry Bull and made the discovery [1, 4]. However, a specific chronological entry records that **Frederick James Farrance** died on October 21, 1971, at the age of 80, describing him as "a local man whose *father*, working for Harry Bull, found a tunnel in the garden of Borley Place" [5]. This same entry oddly claims he was named Farrance in Price's *EBR*, directly contradicting the other texts which state Price miscalled him Tarrance [1, 5].
+*   **Family:** The sources note that Farrance had a daughter, who was interviewed by a party of visiting psychical researchers on August 20, 1949 [6].
+
+**The Tunnel Discovery**
+The famous discovery occurred during the incumbency of the Rev. Harry Bull (who served as rector between 1892 and 1927) [1, 7]. 
+*   **The Excavation:** Farrance was employed to examine and repair a well in the front garden of **Borley Place**, the ancient house situated directly opposite Borley Rectory [1, 2, 8]. 
+*   **Breaking Through:** While digging a few feet below the surface, Farrance uncovered a section of brickwork. Using a pickaxe, he forced an entrance through the old two-inch bricks and broke into what appeared to be a **"high and dome-shaped"** (or vaulted) tunnel [1-3]. 
+
+**The Exploration and the "Foul Air"**
+*   Farrance attempted to explore the newly discovered passage. He climbed inside and pushed forward for some distance, but his exploration was abruptly halted when he encountered a pocket of **"foul air"** [3, 9]. 
+*   The stale gas caused his eyes to smart and water, and the candle he was carrying guttered and went out [3, 9]. (Later researchers noted it was incredibly lucky that his candle didn't ignite a pocket of highly explosive methane gas [10]). 
+*   Finding it impossible to go on, Farrance was forced to turn back, and the cavity was subsequently sealed up [9, 11].
+
+**Quotes and Later Interviews**
+*   Prior to the publication of *EBR* in 1946, the Rev. A. C. Henning interviewed the aging laborer about his experience. Harry Price reported that Farrance (who was "still living" at the time) passed no opinion on what the mysterious tunnel could have been used for, but **"he was certain that it was not a sewer"** [2].
+
+**Sources:** 15mhh · brc · ebr · enbr · gotb · spr

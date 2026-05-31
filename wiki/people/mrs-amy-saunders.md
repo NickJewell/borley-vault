@@ -27,3 +27,11 @@ That Marianne returned to the same landlady for her final lodging in 1945–46 s
 - [[marianne-foyster]] — tenant
 - [[gyppeswyck-road-ipswich]] — first Ipswich lodging
 - [[robert-oneil]] — married at an Ipswich address connected to Saunders properties
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+I have carefully searched the provided Borley sources and our conversation history, but there is no mention of a **Mrs. Amy Saunders** (or anyone named Amy Saunders). The texts do record a lay investigator and journalist named **S. John Saunders** (sometimes referred to as St John Saunders), but no individual by the name of Amy Saunders appears in the available material. 
+
+If she is known by another name or is associated with a specific event or date at Borley, please let me know and I will be happy to check the sources again!

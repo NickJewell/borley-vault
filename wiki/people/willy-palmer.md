@@ -33,3 +33,21 @@ If accurate, Willy Palmer represents an external (non-household) participant in 
 - [[bell-ringing]] — the phenomenon Willy Palmer allegedly helped fake
 - [[foyster-phenomena]] — the broader context
 - [[johnnie-palmer]] — a different Palmer, not to be confused
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Willy Palmer** was a local village boy who became a minor but highly significant figure in the skeptical theories surrounding the Borley Rectory hauntings. He is specifically identified in the sources as an accomplice who actively helped fake poltergeist phenomena during the incumbency of the Rev. Lionel Foyster and his wife, Marianne.
+
+A thorough reference profile drawn from the sources reveals the following specific details regarding his involvement:
+
+**Role as a Confederate and the "Collapsing Shelf" Trick**
+Palmer's involvement was brought to light through the testimony of Ian Shaw (Marianne Foyster's son from her first marriage, who lived at Borley Rectory for a short time in early 1933) [1]. 
+*   According to Ian, Willy Palmer acted specifically as **Marianne's confederate** in manufacturing ghostly effects to fool the residents and investigators [1]. 
+*   **The specific prank:** Ian recorded that Palmer rigged up a trick collapsing shelf in the Rectory's pantry [1]. By pulling a strategically placed string, this contraption would abruptly deposit pots and pans onto the floor with a "great clatter," an effect designed to cause amazement and wonder to the Rev. Lionel Foyster [1]. 
+
+**Significance to the Haunting**
+Palmer's existence complicates the theories of skeptical investigators. While critics often suggest that Marianne Foyster was solely responsible for faking the phenomena to frighten her husband or gain attention, Palmer's involvement proves that the situation was far more convoluted [1]. His actions demonstrate that **"village boys—perhaps men and women too—played tricks at the 'haunted' Rectory,"** creating a chaotic environment where locals were actively contributing to the physical "poltergeist" disturbances alongside the Rectory's own inhabitants [1].
+
+**Sources:** wob

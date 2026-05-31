@@ -55,3 +55,43 @@ A diplomat, accustomed to precise observation and recording. His very long and d
 ## Cross-References
 
 [[the-observer-program]] · [[wall-writings]] · [[poltergeist-activity]] · [[blue-room]] · [[rev-ac-henning]] · [[sidney-glanville]]
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Mark C. M. Kerr-Pearse** (born March 1908 in Kensington, London; died in the 1970s) was a prominent figure in the Borley Rectory saga, serving as one of Harry Price’s most dedicated "official observers" during the 1937–1938 tenancy investigation [1, 2]. 
+
+A thorough reference profile drawn from the texts reveals the following biographical details, methodologies, specific events, and controversies regarding his involvement:
+
+**Biographical Details**
+*   **Background:** In his May 25, 1937 application to join Price’s investigation, Kerr-Pearse described himself as **"a bachelor, 29 and independent"** [3, 4]. At the time, he was out of work and living somewhat hand-to-mouth, making the prospect of staying at the Rectory for practically nothing highly appealing [4]. 
+*   **Diplomatic Career:** Following his time at Borley, he took up a position as a pro-consul for the British Foreign Office in Geneva in November 1937 [5-7]. After the Second World War, he took up a post at the British Embassy in Prague [8]. 
+
+**Methodology and Investigation at Borley**
+Kerr-Pearse spent more time at the Rectory than any other observer, staying for extended periods spanning from June 26 to November 1, 1937 [5, 9]. 
+*   **"The Open Air Fiend":** Price affectionately dubbed him an "open air fiend" because of his habit of removing his camp bed from the Base Room to sleep in the large summer-house so he could keep the infamous "Nun's Walk" under constant observation [10, 11]. 
+*   **Meticulous Controls:** He was incredibly fastidious, submitting long, minute-by-minute reports to Price [11]. He systematically tabulated, numbered with chalk, and mapped every portable object in the house, logging even the tiniest pre-existing pencil marks on the walls [4, 12, 13].
+*   **Physical Exploration:** He personally examined the main well in the courtyard, climbing 8 feet down the supply pipe, and also investigated a shallow round sump in the cellar which he and Price mistakenly referred to as the "well tank" [14-16].
+
+**Major Phenomena Witnessed or Discovered**
+Although initially disappointed by his first visit (writing to Price: **"I had no luck so it is most uninteresting"**), he soon became convinced that he was witnessing genuine phenomena [4, 10].
+*   **The Moved Screw (June 28, 1937):** He placed a screw on the mantelpiece of the Base Room, carefully ringing it with chalk. Just five minutes later, while still in the room, he found the screw had inexplicably moved outside its chalk ring [17, 18].
+*   **The Swishing Footsteps (July 16, 1937):** While conducting a table-rapping experiment with the Rev. and Mrs. Henning, the three heard a "most extraordinary noise" coming from the kitchen. It sounded like footsteps accompanied by a swishing noise, **"as of long trailing garments"**. The sounds slowly approached them down the passage but ceased abruptly the moment they stood up to investigate [19-22].
+*   **Apports (July & August 1937):** He discovered two bizarre objects that inexplicably appeared in the house. The first was a 3-inch-square piece of rotten **"touchwood"** found in the Sewing Room hearth on July 18 [23, 24]. The second, on August 5, was a **dry, flattened, petrified frog** found in the passage outside the drawing room [23, 25, 26]. 
+*   **The Wall Writings:** He carefully monitored the mysterious "Marianne" wall-writings. Deciphering one as "Marianne Get Help - well tank bottom me", he wrote his own message underneath it: **"I STILL CANNOT UNDERSTAND PLEASE TELL ME MORE"** [4, 27, 28].
+*   **The Coal Sack (September 21, 1937):** While standing on the landing with his cousin, Rupert Haig, they heard a rustling below. Upon descending, they discovered a 50lb sack of coal had moved 18 inches along the passageway [17, 29-31]. 
+*   **The Locked Door (October 26, 1937):** While eating his supper in the Base Room, Kerr-Pearse heard a faint click. When he tried to leave, he found he had been locked in. Most remarkably, **the key was on the *inside* of the lock with him**, meaning whatever locked the door must have been inside the room [6, 19, 32-34].
+*   **Physical Contact:** On October 29, 1937, while standing alone outside the Base Room, Kerr-Pearse had his coat pulled twice in quick succession by an invisible agency [35, 36].
+
+**The BBC "Listener" Dispute**
+Kerr-Pearse inadvertently ran afoul of Harry Price’s strict control over the Borley narrative. On September 21, 1937, hearing the BBC was doing a series on haunted houses, Kerr-Pearse wrote to the Director of Talks, offering to share his experiences and stating: **"The results obtained are certainly both interesting and convincing as conditions have been fully controlled"** [37, 38]. Price, who was friends with the BBC editor, intercepted this attempt and wrote Kerr-Pearse a severe rebuke, reminding him that the Declaration Form he had signed "absolutely prohibited" any such publicity [38-40]. A few weeks later, Price made the broadcast himself [41, 42].
+
+**Contradictions and SPR Skepticism**
+The highly critical 1956 *Borley Report* by the Society for Psychical Research (SPR) targeted several of Kerr-Pearse's claims, attempting to dismantle them with mundane explanations:
+*   *The Locked Door:* The SPR authors argued that Kerr-Pearse simply turned the key himself out of absent-minded habit before sitting down to eat [32].
+*   *The Coal Sack:* They criticized his lack of scientific rigor in this instance, pointing out that because he had only "noted" the sack's original position by a stain on the floor rather than chalking it, his evidence for its movement was compromised [29, 43]. 
+*   *Rationalizing:* Despite the SPR's criticisms, Kerr-Pearse was not entirely credulous. He actively sought normal explanations, theorizing that the famous Borley bell-ringing might be caused by rats or mice running along the exposed wires in the attic [44], and suspecting that a servant might have written some of the pencil messages [45].
+*   *An Investigative Oversight:* Despite Kerr-Pearse's massive contribution to the Borley files and the SPR's intense efforts to debunk the case, the SPR investigators curiously **never interviewed him** for their critical 1956 report [8].
+
+**Sources:** brc · ebr · hbrs · mhh · spr

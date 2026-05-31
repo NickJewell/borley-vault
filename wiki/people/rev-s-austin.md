@@ -20,3 +20,20 @@ Nothing further is known about Rev. Austin from the SPR report.
 - [[kathleen-goldney]] — co-investigator present at the interview
 - [[william-salter]] — Hon. Secretary of the SPR, also present
 - [[spr-investigation]] — the wider investigation this interview formed part of
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Reverend S. Austin** appears very briefly in the Borley Rectory sources, where he is explicitly identified as a **"Borley sceptic"** [1]. 
+
+A thorough review of the texts reveals only a single specific event regarding his involvement in the case:
+
+**The August 1950 Visit to Chilton Lodge**
+*   In **August 1950**, Rev. S. Austin accompanied William H. Salter and Kathleen "Mollie" Goldney—two prominent and highly sceptical investigators from the Society for Psychical Research (SPR)—on a visit to Chilton Lodge [1]. 
+*   Chilton Lodge, located in Great Cornard near Sudbury, was the home where the surviving members of the Bull family (including Miss Ethel Bull) had settled after leaving Borley Rectory [1, 2]. 
+*   Though Rev. Austin's specific contributions to the conversation are not recorded, he joined Salter and Goldney during a period when the SPR was actively gathering testimony to build their highly critical report against Harry Price and the genuineness of the Borley hauntings [1]. 
+
+The provided Borley sources contain no further biographical details, quotes, or records of Rev. S. Austin's life or involvement beyond his presence at this specific August 1950 meeting [1].
+
+**Sources:** bps

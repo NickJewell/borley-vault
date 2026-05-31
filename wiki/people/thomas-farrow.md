@@ -34,3 +34,24 @@ The red brick Farrow used, along with the tight carpentry and the subsidence-pro
 - [[borley-rectory]] — the building he constructed
 - [[john-whyard]] — labourer who drowned during construction
 - [[henry-bull]] — the patron who commissioned the work
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Thomas Farrow** appears briefly in the Borley Rectory sources as the original contractor responsible for building the infamous Victorian mansion. 
+
+A thorough reference profile drawn from the texts reveals the following specific biographical details, dates, and events regarding his involvement:
+
+**Biographical Details and Profession**
+*   **Profession:** Farrow was a **builder and surveyor** [1].
+*   **Base of Operations:** He operated out of the nearby Suffolk market town of **Bury St Edmunds** [1].
+
+**The Construction of Borley Rectory (1861–1862)**
+*   **The Tender:** At the **beginning of June 1861**, the architect John Johnson put out a tender in the local press seeking builders to demolish the old Georgian rectory at Borley and construct a new one for the Rev. Henry Dawson Ellis Bull [1]. 
+*   **The £3,000 Estimate:** Farrow consulted Johnson’s architectural plans at the old rectory and subsequently submitted an estimate for the massive project at **£3,000** [1]. His bid was officially accepted [1].
+*   **The Building Work:** While the Rev. Bull and his wife temporarily moved into his father's house at Pentlow, the old rectory was demolished [1]. Under Farrow's oversight, the actual construction of the new Borley Rectory began in the **summer of 1862**, utilizing a large team of **"bricklayers, stonemasons, carpenters, scaffolders, plasterers and decorators"** [1].
+
+The provided Borley sources contain no further biographical details or subsequent involvement from Thomas Farrow beyond his work in constructing the house in 1861–1862.
+
+**Sources:** hbrs

@@ -17,3 +17,9 @@ This makes Fitzgerald's exorcism the only case [[harry-price|Price]] cites in hi
 [[harry-price|Price]] speculates that the prayer specifically effective at Beth-oni was the petition against the *Spiritus percutiens* (the "percussive spirit") in the Church's prayers — a prayer whose existence is not widely known even among the clergy who attempted exorcism at Borley.
 
 Fitzgerald's success at Beth-oni stands in contrast to the complete failure of multiple exorcisms at [[borley-rectory|Borley Rectory]] by [[dom-richard-whitehouse|Dom Richard Whitehouse]] and others. Price suggests the distinction is that the Borley "entities" were not malevolent spirits suitable for exorcism but distressed souls requiring Christian burial and Requiem Mass.
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+Based on the provided Borley sources, there is no mention of **Rev. J. C. Fitzgerald**. The texts do not contain any biographical details, facts, events, dates, or quotes regarding this individual in connection with the Borley Rectory case.

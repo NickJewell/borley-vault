@@ -27,3 +27,25 @@ Without Horder's commercial enthusiasm, the Borley Report might have remained co
 - [[kathleen-goldney]] — one of the Report's authors
 - [[trevor-hall]] — one of the Report's authors
 - [[william-salter]] — the SPR official who instigated the Report
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Mervyn Horder** appears in the Borley sources solely in connection with the publication history of the highly critical 1956 report compiled by the Society for Psychical Research (SPR). 
+
+A brief but thorough reference profile drawn from the text reveals the following specific details and quotes regarding his involvement:
+
+**Biographical Details and Occupation**
+Mervyn Horder was the **director of the publishing house Gerald Duckworth** [1]. 
+
+**The Publication of the "Borley Report" (1956)**
+Horder played a decisive role in bringing the SPR's critical findings to the general public. 
+*   Prior to its publication in January 1956, the SPR's report was mired in difficulties, including strained relations among its three authors (Eric Dingwall, Mollie Goldney, and Trevor Hall), fractious negotiations with Mabel Smith regarding her late husband's letters, and deep anxiety over a potential libel suit from Marianne Foyster [1]. 
+*   Despite these issues, Horder heard about the "combustive nature of the material" and became highly excited by it [1]. 
+*   He explicitly described the investigation as a **"real life detective story of a unique type"** [1].
+*   Driven by this enthusiasm, Horder successfully **persuaded the SPR to allow Gerald Duckworth to publish a simultaneous commercial edition** of the report, which was released to the public under the title *The Haunting of Borley Rectory* [1]. 
+
+The provided sources contain no further biographical details, events, or contradictions regarding Mervyn Horder beyond his role in this specific 1956 publication.
+
+**Sources:** hbrs

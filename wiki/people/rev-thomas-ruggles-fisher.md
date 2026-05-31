@@ -21,3 +21,26 @@ In the case of the Borley story, Thomas Ruggles Fisher's significance is primari
 - [[rev-stewart-fisher]] — his son and successor
 - [[nancy-goodale]] — his granddaughter
 - [[liston-rectory]] — the rectory of his parish
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Reverend Thomas Ruggles Fisher** appears in the Borley sources as a nineteenth-century clergyman who established a long-lasting ecclesiastical presence in the neighboring parish of Liston.
+
+A thorough reference profile drawn from the texts reveals the following biographical details, dates, and family connections:
+
+**Incumbency at Liston**
+*   He served as the Rector of the tiny parish of Liston from **1857 until his death in 1893** [1]. 
+*   During his tenure, he resided in the "Old Rectory" at Liston, where his son spent his boyhood [1]. 
+
+**Family and Succession**
+*   He was the father of the **Rev. Stewart Travers Fisher**, who directly succeeded him as the incumbent of Liston in 1893 and held the position until 1936 (when the parish was amalgamated with Borley) [1]. 
+*   He was the grandfather of Nancy Goodale (née Fisher), who later provided investigators with details about her family's interactions with the Bulls of Borley [1].
+
+**The "Fisher Dynasty"**
+The sources explicitly highlight the historical parallel between Rev. Thomas Ruggles Fisher's family and the famous Bull family of Borley Rectory. Because Thomas and his son Stewart held the Liston living continuously for nearly eighty years, they established a local **"Fisher dynasty"** at Liston that ran concurrently with the famous Bull dynasty at neighboring Borley and Pentlow [1]. 
+
+The provided Borley texts contain no further biographical details, events, or quotes directly attributed to the Rev. Thomas Ruggles Fisher.
+
+**Sources:** brfa

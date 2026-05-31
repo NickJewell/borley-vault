@@ -26,3 +26,26 @@ Knox and Hawkin also entered the house via the cellars, confirming that the rect
 - [[borley-rectory]] — the site investigated
 - [[blue-book-of-instructions]] — the handbook Price gave observers, which mentioned bushes
 - [[harry-price-controversy]] — Price's suppression of their observations
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**M. P. Knox** is recorded in the Borley sources as a participant in Harry Price's roster of official observers during the 1937–1938 tenancy investigation. 
+
+A thorough reference profile drawn from the texts reveals the following specific biographical details and events regarding his involvement:
+
+**Biographical Details**
+Knox was an undergraduate student at **University College, Oxford** [1]. 
+
+**The February 1938 Visit**
+Knox's contribution to the Borley investigation centers on a single overnight vigil conducted on **February 16–17, 1938** [1, 2]. He investigated the Rectory as part of a four-man team comprised entirely of Oxford undergraduates from University College. His companions were **Mr. S. G. Welles** (a Rhodes Scholar), **Mr. R. Hawkins** (also spelled Hawkin), and **Mr. Samuel J. Millberg** (also spelled Milberg) [1, 2].
+
+**Reported Phenomena**
+During their night at the Rectory, Knox and his party reported experiencing both visual and auditory anomalies:
+*   **The Luminous Patch:** The group witnessed a mysterious "luminous patch" appearing on the ceiling of the infamous Blue Room [2]. 
+*   **Ghostly Footsteps:** The observers also reported hearing unexplained footsteps, which seemed to travel from the kitchen along the passage leading toward the Drawing Room [2]. 
+
+The provided texts contain no further quotes, contradictions, or biographical details regarding M. P. Knox beyond this specific investigation.
+
+**Sources:** brc · mhh

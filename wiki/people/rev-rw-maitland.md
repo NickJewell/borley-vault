@@ -31,3 +31,24 @@ Maitland acknowledges the problem: this framework struggles to account for physi
 [[mr-w-harrison|Mr. W. Harrison]] replied to Maitland in *Light* (April 24, 1941), arguing that Maitland's theory was inconsistent with the facts: Borley's apparitions were of figures from periods predating the Bull family, often unknown to the witnesses and later verified from historical records — not subjective creations of the percipients' imaginations.
 
 > **Contested:** The debate between Maitland and Harrison represents a clean statement of the two main interpretive poles: "place memory" (Maitland) vs. "independent surviving entities" (Harrison).
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Reverend R. W. Maitland** was the Vicar of Darsham, Suffolk, who appears in the Borley Rectory sources as a commentator who offered a psychological and parapsychological explanation for the famous hauntings. [1] 
+
+After reading Harry Price's first book on the Borley case, Rev. Maitland published an article in the journal *Light* on **January 23, 1941**. [1] In this article, which he explicitly termed an **"explanatory theory,"** he sought to account for the frequent appearances of the phantom nun, the ghostly coach, and the myriad of other phenomena that filled Price's book. [1]
+
+**The Theory of Psychic Emanations**
+Rev. Maitland theorized that the root of the haunting lay in the original inhabitants of the Rectory rather than autonomous, surviving spirits. He provided the following specific quote outlining his hypothesis:
+> **"My theory is this; the house was built and immediately lived in—this is an important point—by a man who undoubtedly was a psychic. Very likely, his family, a large one, inherited his powers—some certainly did..."** [1]
+
+Maitland elaborated on Harry Price's own views, suggesting that the building had absorbed the immense psychic energy of the Rev. Henry Bull and his large family. [1] However, he argued that this residual energy was merely a blind force without its own consciousness, stating that **"the house became saturated with their emanations; though this psychic power, as I understand it, contained no ‘persisting remnants of egos’ or any intelligence of itself."** [1]
+
+**The Role of Later Occupants**
+To explain how the phenomena persisted and adapted during the tenures of subsequent rectors like the Smiths and Foysters, Rev. Maitland concluded that the latent energy left behind by the Bulls was unconsciously manipulated by the later residents. [1] He summarized this mechanism by stating: **"It remained for those living in the house to use that power as their minds or subconscious minds desired."** [1]
+
+The provided Borley sources contain no further biographical details, dates, or records of Rev. R. W. Maitland's involvement beyond this 1941 publication.
+
+**Sources:** ebr

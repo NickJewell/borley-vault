@@ -122,3 +122,42 @@ Robert Wood (*The Widow of Borley*) advances the most radical reassessment of Li
 - [[wall-writings]] — most distinctive phenomenon
 - [[satanism-at-borley]] — Marianne's belief that Satan influenced some events
 - [[andrew-clarke]] — definitive four-document textual analysis (slbr-07)
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Reverend Lionel Algernon Foyster** (often affectionately called "Lion" by his wife) was the Rector of Borley from October 1930 to October 1935. A central figure in the "Later Borley" period, his detailed chronicling of the alleged poltergeist phenomena forms the backbone of the most famous era of the haunting. However, his life was also marked by failing health, deep personal contradictions, and severe allegations regarding his marriage and sexuality.
+
+**Biographical Details and Early Career**
+*   **Birth and Education:** Born on **January 7, 1878**, in Hastings, East Sussex, he was the fourth son of the Rev. George Alfred Foyster, who was the rector and patron of the affluent All Saints' parish [1-3]. He was educated at Bilton Grange, Haileybury, and Pembroke College, Cambridge, receiving a BA in 1900 and an MA in 1907 [3-5]. 
+*   **A "Sexual Misdemeanor" Controversy:** He was ordained a deacon in 1903 and a priest in 1904 [3, 6]. Rather than taking up the affluent family living at Hastings, Foyster served as a curate in Yorkshire and then in Cheshire under his brother-in-law [7]. Researcher Robert Wood theorised this was an exile due to a "sexual misdemeanor" or scandal, suggesting Foyster may have had abnormal urges or paedophilic tendencies, though others strongly dispute this lack of evidence [7-9].
+*   **Canadian Exile and Marriage:** In 1910, he emigrated to Canada, serving as a missionary and Rector in remote areas of New Brunswick and Nova Scotia [5, 6, 10]. On **August 22, 1922**, he married the 23-year-old **Marianne Emily Rebecca Shaw** at Salmonhurst, New Brunswick [11-13]. Contradictorily, **Foyster himself had baptized Marianne in 1906 when she was just seven years old** and he was a 28-year-old curate [14, 15]. An officiating priest allegedly warned Foyster that marrying his spiritual daughter was equivalent to "spiritual incest," a detail that reportedly shocked him deeply [16, 17]. 
+*   **Adoption:** In Canada, the Foysters adopted a baby girl named Adelaide (born March 20, 1928), bringing her with them when they returned to England [18, 19].
+
+**The Borley Incumbency (1930–1935)**
+*   The Foysters moved into Borley Rectory on **October 16, 1930** [20-22]. 
+*   **The Phenomena:** Foyster claimed that from their very first day, paranormal activity commenced [23]. During their five-year stay, an estimated 2,000 phenomena occurred, which Foyster attributed to "goblins" or "figis" [24, 25]. These included bells ringing, objects teleporting, bottles smashing, and mysterious wall-writings [26, 27].
+*   **Exorcism by Creosote:** The frail Rector attempted to combat the "goblins" using Holy Water, relics of the Curé d'Ars, and by burning creosote. After fumigating the house on May 2, 1931, he declared: **"Now, goblins, how do you like this?"** [28, 29].
+*   **The Rift with Harry Price:** On October 14, 1931, Harry Price and his investigators accused Marianne of faking the phenomena. Foyster was furious, staunchly defending his wife's integrity, and barred Price from the Rectory for years [30-32]. 
+
+**His Written Records**
+Determined to write a bestseller that would alleviate his financial ruin following the 1929 Wall Street Crash, Foyster obsessively documented the haunting [33-35]. He produced three distinct records:
+1.  **Diary of Occurrences:** Written in installments between February and July 1931 to circulate among his family [36, 37]. 
+2.  **Fifteen Months in a Haunted House:** A heavily edited, novelised manuscript spanning October 1930 to January 1932. Aiming for commercial publication, Foyster used pseudonyms, referring to Marianne's lover Frank Pearless as "Lawless" and investigator Edwin Whitehouse as "Edith Greycastle" [38-41]. Skeptics note Foyster may have been inspired by Walter Hubbell's book on the Canadian "Amherst Mystery," going so far as to use the Amherst name "Teed" in his manuscript [42].
+3.  **Summary of Experiences at Borley Rectory:** A condensed seven-page summary written between January and February 1938 at Harry Price's request, which Price misleadingly published as Foyster's "Diary" in *The Most Haunted House in England* [43-45]. 
+
+**Health, Complicity, and the "Fisher" Bigamy**
+Foyster was a severely sick man. Afflicted with chronic rheumatoid arthritis, he walked with a limp, required a wheelchair by the end of his life, and suffered heart trouble that caused memory lapses [33, 46-48]. He took artificial digitalin for his heart [49, 50]. 
+
+His physical decline is central to the greatest contradiction of his life: his bizarre domestic arrangements. 
+*   **The Pearless Affair:** Foyster permitted a London flower-seller and conman, Frank Pearless (alias François d'Arles), to lodge at the Rectory and engage in an open affair with Marianne [51-53]. 
+*   **The "Father-in-Law" Deception:** After collapsing in the Borley pulpit while "hollering about sin" in October 1935, Foyster retired [54, 55]. Marianne bigamously married a commercial traveller named Henry Fisher [56, 57]. **Foyster lived with the bigamous couple in Ipswich and Rendlesham, actively participating in the fraud by pretending to be Marianne's elderly, invalid father** [58-60]. 
+*   **Differing Theories:** Skeptics like Trevor Hall and Robert Wood argue that Foyster was not a credulous dupe, but a willing, voyeuristic pervert who derived vicarious sexual satisfaction from his wife's adulterous arrangements [55, 61, 62]. Conversely, others argue his terrible health and failing short-term memory made him a helpless, confused victim who genuinely believed his wife's tricks were "goblins" [63-66].
+
+**Death and Murder Allegations**
+Reverend Foyster died on **April 18, 1945**, at Dairy Cottage, Rendlesham, Suffolk, at the age of 67 [67-69]. He was buried in Campsea Ashe churchyard [67, 70]. 
+
+His death certificate, signed by Dr. K.J.T. Keer, listed the causes as **"exhaustion, bedsores, and rheumatoid arthritis"** [69]. Medical experts later deemed these causes highly irregular and insufficient, leading researchers (and Foyster's own relatives) to suspect that Marianne, desperate to leave England with her new American G.I. lover, had deliberately hastened his death, perhaps by smothering him with a pillow [69, 71, 72].
+
+**Sources:** 15mhh · brc · brfa · enbr · gotb · gtwnd · hbrs · mhh · slbr · spr · wob

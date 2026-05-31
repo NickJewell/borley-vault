@@ -23,3 +23,29 @@ Stote also mentions that he had, at the time of his Sudbury incumbency, thought 
 ## Significance
 
 As a neighbouring vicar who knew the Bull family well and heard Harry Bull's own account, Stote provides a corroborating link between the family's private experience and the broader record that Price was assembling. His letter was written in March 1941, about twelve months after the publication of *The Most Haunted House in England*, and represents a response to that publication from someone with independent prior knowledge.
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Reverend Walter G. Stote, M.A. (Oxon)** appears in the Borley Rectory sources as a neighboring clergyman who provided independent confirmation of the Rev. Harry Bull's belief in the local ghost stories. 
+
+A reference profile drawn from the texts reveals the following biographical details, dates, and specific quotes regarding his connection to the case:
+
+**Clerical Career and Biographical Details**
+*   **Position:** He served as the **Vicar of All Saints, Sudbury, Suffolk**, having taken up the position in **1919** [1]. 
+*   **Later Residence:** By the early 1940s, he had relocated from Suffolk and was residing at **‘Jenvey,’ 40 Farwell Road, Sidcup, Kent** [1]. 
+
+**Connection to the Bull Family**
+*   Through his post in neighboring Sudbury, Stote noted that he had **"known most of the Bull family resident in or near Sudbury, Suffolk, since 1919"** [1].
+*   He explicitly stated that he knew the Rev. Harry Bull **"very well—not so the succeeding Rectors"** [1].
+
+**The March 1941 Letter and Testimony**
+Rev. Stote’s contribution to the Borley literature comes entirely from a letter he wrote to psychical investigator Harry Price on **March 22, 1941** [1]. Having just finished reading Price's book *The Most Haunted House in England*, Stote wrote to compliment the "beautifully produced book" and to confirm the following specific details regarding the haunting:
+*   **The Phantom Nun:** He provided first-hand confirmation that Harry Bull actively claimed to see the famous apparition, providing the quote: **"The Rev. Harry Bull told me himself about seeing the nun"** [1].
+*   **The Phantom Coach:** He noted that the ghost stories were widely discussed by locals, adding, **"Others have told my wife about the coach, etc."** [1].
+*   **Underground Passages:** Reflecting on the physical site of Borley Rectory, Stote recalled his own suspicions about the property, writing, **"I remember at the time that I thought the underground passages might well repay attention"** [1].
+
+The provided Borley sources record no further biographical details, events, or involvement regarding Rev. Walter G. Stote beyond this single correspondence.
+
+**Sources:** ebr

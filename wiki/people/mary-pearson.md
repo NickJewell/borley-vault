@@ -42,3 +42,39 @@ Babbs and Mathias researched Mary Pearson's identity and family in depth:
 ## Cross-References
 
 [[the-nun]] · [[phantom-coach]] · [[headless-man]] · [[rev-eric-smith]] · [[edward-cooper]]
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Mary Katherine Pearson** (often referred to simply as Mary Pearson) was a domestic maid who worked at Borley Rectory during the incumbency of the Rev. Guy Eric Smith and his wife, Mabel. She served as a primary witness to the early poltergeist activity that brought Borley to national prominence in 1929. 
+
+A thorough reference profile drawn from the Borley sources reveals the following biographical details, reported phenomena, and significant contradictions regarding her time at the Rectory:
+
+### Lesser-Known Biographical Details
+*   **Early Life:** She was born Mary Katherine Pearsons on **Christmas Day, December 25, 1911**, in the neighbouring village of Belchamp Walter, and was formally baptized on November 20, 1912 [1]. 
+*   **Arrival at Borley:** At the age of 15 (though she was 17 during the height of the 1929 phenomena), she was hired by Mrs. Mabel Smith [1, 2]. She replaced a servant girl from London/Clacton who had abruptly quit after only two days, claiming to have seen a ghostly nun in the wood [3, 4].
+*   **Personal Life:** While working at Borley, her boyfriend was **Fred Tatum**, a 25-year-old local man who was nine years her senior and described as a "local bad lad" who had been convicted of stealing rabbits [5, 6]. They later married secretly, and Mary had ten children, living her post-Borley life in Sudbury [5, 7]. 
+*   **Death:** She suffered a tragic and premature death in **1966 at the age of 55**, dying from injuries sustained after falling down the stairs at her home [8-10].
+
+### Phenomena Witnessed (The Official Record)
+Harry Price interviewed Mary Pearson during his first visit on June 12, 1929, describing her as a "very intelligent girl" [8, 11]. According to Price’s official records, Mary reported seeing several iconic Borley apparitions:
+*   **The Phantom Coach:** She claimed to have seen an old-fashioned coach, resembling a "big cab," drawn by two brown or bay horses [11, 12]. She saw it twice—once travelling down the garden, and two days later travelling up the lawn and through the trees [11, 13].
+*   **The Headless Man:** She reported seeing a headless man standing behind a tree in the Rectory garden, whom she chased until he vanished [11, 12]. 
+*   **The Nun and Poltergeists:** She also claimed to have seen the phantom nun walking away from the Rectory along the Nun's Walk, and witnessed poltergeist activity inside the house, including inexplicable footsteps, the ringing of servant bells, and keys shooting from their locks [5, 8, 10].
+
+### Contradictions: Pranks and Levity
+Much of Mary's testimony was severely undermined in 1949 when her former employer, Mabel Smith, gave a highly sceptical interview to the Society for Psychical Research (SPR). Mrs. Smith claimed that Mary did not believe in the legend, that they both "used to laugh at ghosts," and that Mary fabricated the stories as a joke [14]. Specific claims of pranking include:
+*   **The Sugar Incident:** Mrs. Smith claimed Mary suspected Harry Price of faking the phenomena, allegedly telling her: **"It was that man threw that coin—so I threw some sugar"** [15].
+*   **Faking the Nun and the Headless Man:** Researchers noted that Mary "played at least one prank at the Rectory when she put her apron over her head and pretended to be the nun" [5]. Her boyfriend, Fred Tatum, was also known to play the fool by walking around the garden with his coat pulled over his head to mimic a headless spook [6, 16]. 
+*   **Profiting from Sightseers:** When hordes of sightseers descended on the Rectory in 1929, Mary reportedly made them drop money into the Rectory's missionary box before she would satisfy their curiosity with her ghost stories [17, 18].
+
+### Later Interviews and Family Rebuttals
+Mary’s legacy is clouded by highly conflicting post-war testimony:
+*   **The SPR Interview (1952):** When SPR investigators Eric Dingwall and Trevor Hall tracked down and interviewed Mary on August 21, 1952, she reportedly retracted her story about chasing the headless man, stating the tale was "quite untrue" and that she could not remember having told it [19, 20]. 
+*   **The Aunt's Denial (1947):** During a 1947 BBC broadcast, an aunt of Mary's (a Mrs. Pearson) was quoted aggressively dismissing the haunting: **"My sister's girl worked there for four years, but she never heard or saw a thing... the whole thing's a lot of nonsense anyway."** [21].
+*   **The Children's Testimony:** Decades later, investigator Edward Babbs tracked down two of Mary’s children to uncover her true feelings about the Rectory. In stark contrast to Mabel Smith's claims that Mary treated it all as a joke, her children insisted Mary was completely serious when recounting her experiences [10, 16]. They noted she "adored" the Smiths and gave them faithful service, but she genuinely believed she had seen the phantom coach and heard the bells [10]. Furthermore, her children stated that she *never* accused Harry Price of trickery, contradicting Mrs. Smith's "sugar" anecdote [10]. 
+
+Ultimately, her family confirmed that Mary Pearson remained deeply affected by her time at Borley. She maintained that there were dark **"forces at work"** at the Rectory, and she deliberately avoided the site for the rest of her life, reportedly passing by it only three times in over twenty years [22].
+
+**Sources:** brc · brfa · enbr · gtwnd · hbrs · slbr · spr

@@ -28,3 +28,30 @@ The Allsop/Hopkins visit represents a rare instance of a major mainstream magazi
 
 - [[godfrey-thurston-hopkins]] — the photographer who accompanied him
 - [[picture-post-photograph]] — the resulting disputed image
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Kenneth Allsop** was a journalist, a book reviewer for the *Daily Mail*, and later became a well-known television presenter, broadcaster, and interviewer [1, 2]. In the Borley Rectory literature, he is primarily recorded for a professional journalistic visit to the site alongside a photographer. 
+
+A thorough reference profile drawn from the texts reveals a major, specific contradiction regarding the timeline, publication, and details of this visit:
+
+### **The 1954 *Picture Post* Investigation (The Published Account)**
+The official chronologies and later researchers record that in **late 1954**, the managers of the popular magazine *Picture Post* dispatched Allsop and a staff photographer, Godfrey Thurston Hopkins, to Borley to research a feature story on the haunting [2-4]. 
+*   During this visit, Hopkins took a mid-afternoon photograph of the remaining gatepost at the northeast entrance (the spot where Fred Cartwright had historically reported seeing the phantom nun) [2, 4].
+*   When the film was developed, it revealed a "wispy, black and cloud-like shape" or shadowy outline hovering just inside the gateway, though both Allsop and Hopkins maintained that nothing was visible to the naked eye at the time the photo was taken [2, 4].
+*   The photograph was deemed genuine by the magazine's photographic department and was subsequently published in the **January 1, 1955** issue of *Picture Post* under the caption **"Is this the Borley ghost?"** [4].
+
+### **The Dennis Wheatley Anecdote (The Contradiction of the "Suppressed Photo")**
+Contradicting the established 1954 timeline and the publication of the photograph, the famous novelist Dennis Wheatley recorded a highly embellished version of Allsop's visit in the introduction to a book, and inscribed a shortened version inside the cover of his personal copy of the Rev. Alfred Henning's pamphlet, *Haunted Borley* [1, 5]. 
+
+Wheatley's account introduces the following contradictions and claims:
+*   **Date and Mandate:** Wheatley claimed the visit took place "probably in the early 1940s" when the Rectory ruins were still standing [5]. He stated that Allsop was sent by his editor at the *Daily Mail* specifically to write an article because Borley was then being "debunked," so "that had to be the tone of the article" [1]. 
+*   **The Vigil:** According to Wheatley, Allsop and his photographer spent a "handful of nights camped out on the Rectory grounds" but encountered nothing out of the ordinary, prompting Allsop to write a skeptical piece [5].
+*   **The Photograph:** Wheatley claimed that the developed photograph did not show a mere wispy shape, but rather the **"clear outline of a nun standing in the gap where one of the old drive gates had been located"** [6].
+*   **The Suppression:** Most notably, Wheatley asserted that when Allsop presented the startling photograph and the article to his editor, the editor refused to run the story. According to Wheatley's inscription, the editor declared, **"No, I just don't print it"** [1]. Wheatley claimed that both the article and the photograph were suppressed and "neither has been made public to this day" [6]. 
+
+The sources implicitly suggest that Wheatley’s dramatic tale of a suppressed 1940s *Daily Mail* photograph is a misdated, garbled version of the very real 1954 *Picture Post* assignment undertaken by Allsop and Hopkins, whose resulting photograph was, in fact, widely published [2, 4].
+
+**Sources:** brc · brfa · gotb

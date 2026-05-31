@@ -27,3 +27,13 @@ The brief reference suggests that Marianne's life at Dairy Cottage was not entir
 - [[marianne-foyster]] — hostess
 - [[dairy-cottage-rendlesham]] — location
 - [[john-knights]] — source of this account
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+Based on the provided Borley sources and our conversation history, **there is no mention of a "Sergeant Downing."** 
+
+While the texts contain detailed records of other military men who experienced phenomena at Borley—most notably **Sergeant Samuel Seal**, who encountered the phantom coach in 1942, as well as various RAF officers and Polish military personnel—there are no biographical details, quotes, or events associated with anyone named Sergeant Downing.
+
+If you would like to look beyond our current sources, I can search the public web for any historical information regarding a Sergeant Downing's connection to the Borley case. I can perform a standard fast search, or if you prefer a more comprehensive investigation, I can conduct a deep research search (which takes several minutes). Please let me know if you would like me to initiate a search!

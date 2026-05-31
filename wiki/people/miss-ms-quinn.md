@@ -19,3 +19,11 @@ The Locked Book was deposited by [[harry-price|Harry Price]] in January 1940. Wh
 The letter is dated November 29, 1944, and is quoted verbatim by Price. Its significance lies in the chain of custody: Quinn's written confirmation that the Locked Book's contents were sealed and inaccessible for five years — the Bramah-locked book had never been opened by anyone except Price and Glanville — is an important evidential element when Price later argues that the Planchette predictions recorded in the book could not have been adjusted after the 1943 excavation confirmed them.
 
 Her brief letter is reproduced in the book precisely because it serves this authenticating function.
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+I have carefully searched the provided Borley sources and our conversation history, but there is no mention of a **Miss M. S. Quinn** (or anyone with the surname Quinn). The texts record numerous official observers, residents, and visitors associated with the Borley Rectory investigation, but this specific individual does not appear in the available material. 
+
+If she is known by another name or is associated with a specific event or date at Borley, please let me know and I will be happy to check the sources again!

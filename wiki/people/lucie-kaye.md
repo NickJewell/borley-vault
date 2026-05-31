@@ -65,3 +65,38 @@ Kaye sent Underwood her own account in September 1951, titled "The Ghost that ke
 - [[harry-price]] — the person she worked with and defended
 - [[harry-price-controversy]] — the Sutton accusation she is central to refuting
 - [[spr-investigation]] — the broader institutional context
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Lucie Kaye** (later **Mrs. Lucie Meeker**) was a central figure in the early investigations of Borley Rectory, serving as the first secretary and library assistant to the famous psychical researcher Harry Price at his National Laboratory of Psychical Research. 
+
+A thorough reference profile drawn from the Borley sources reveals the following specific biographical details, events, quotes, and contradictions regarding her life and involvement in the case:
+
+**Lesser-Known Biographical Details**
+*   **Early Life and Education:** She was born in Germany in 1902 to a German father who worked in insurance and an English mother [1, 2]. After attending private schools and a finishing school in Folkestone, she developed ambitions to become an actress and trained at the Royal Academy of Dramatic Art (RADA) for four terms alongside future stars like John Gielgud and Charles Laughton, but left in the spring of 1925 to work as a model [2].
+*   **Meeting Harry Price:** In January 1926, the 24-year-old blonde, fashionably dressed model attended the launch of Price's Laboratory [2]. Impressed by the space, she was approached by Price who urgently needed a secretary. Despite her not knowing shorthand, Price hired her on the spot simply because she could type [3]. 
+*   **Name Change:** Originally Lucy Kay, she anglicised and embellished her name to "Lucie Kaye" around 1929, mirroring Price's similar alteration of the medium Stella Cranshaw's name [4].
+*   **Personal Life and Secret Pregnancy:** Described as attractive, sexually forthright, and "very fond of men," she engaged in several affairs and became pregnant in 1927 [5]. To avoid gossip in London, she travelled to Zurich to give birth to a son, Ian Kallenbach, on May 24, 1928 [5]. She gave the boy up for adoption; Price provided a supportive character reference for her application, noting that "apart from her present predicament, I consider her a very moral person" [5]. Her son later noted she was "not a loving person," a trait she admitted herself in a letter to Price: "I do not seem to be able to really love anybody" [6].
+*   **Later Life and Death:** After leaving Price's employ (succeeded by Ethel Beenham), she married twice, became Mrs. Meeker, and had two other sons [7, 8]. The sources contain a direct contradiction regarding her death: one text records she died on May 7, 1955 [9], while others state she died on May 3, 1975 [1, 10]. She is buried in an unmarked grave in Bethel Green [7]. In 2002, her estranged son David deliberately destroyed her photograph albums, which contained many pictures taken by Price [7].
+
+**Involvement at Borley Rectory**
+*   **The First Visit (June 12–14, 1929):** Lucie accompanied Price and the *Daily Mirror* reporter V.C. Wall on their first visit to the Rectory [11]. Because she did not know shorthand, her handwritten notes form Price's primary original records of interviews with the Smiths, the Bull sisters, and the Coopers [1, 12]. 
+*   **The Scared Ghost-Hunter:** After the famous "Blue Room" seance on June 12–13, Price woke Lucie in the middle of the night in a state of shock, begging her to drive him to the station [13]. Lucie noted it was "the only time I ever knew the atmosphere of a haunted house get the better of him" [13]. Price left the next morning, but Lucie stayed behind at Borley until June 19 to keep Mabel Smith company [13-15]. 
+*   **The St. Ignatius Medal:** During a subsequent visit on July 5, 1929, alongside Price and Lord Charles Hope, Lucie picked up a medallion that inexplicably fell in the hall [16]. Price later gave this "St. Ignatius" medal to her as a gift. She returned it to him in 1948 when he was writing a book, and it was returned to her again following his death [17].
+
+**The Charles Sutton Contradiction and Exposure Allegations**
+Lucie Kaye's testimony is the primary battleground regarding the journalist Charles Sutton's claims that he caught Harry Price faking phenomena with a pocket full of stones on July 25, 1929 [18, 19]. 
+*   **Sutton's Claim:** Sutton alleged that after a half-brick crashed downstairs, he seized Price, found pebbles in his pockets, and exposed him, noting that Lucie Kaye was standing right there but remained completely silent [19, 20]. 
+*   **Lord Charles Hope's Contradiction:** Complicating matters, Lord Charles Hope wrote notes in 1949 claiming that, just a fortnight after the incident in 1929, Lucie privately confessed to him that Sutton *had* caught Price throwing a stone, and that the shock of the accusation had given Price a heart attack [21, 22].
+*   **Lucie's Vehement Denials:** Following Price's death, when Sutton published his claims, Lucie (now Mrs. Meeker) expressed "astonished incredulity" [23]. At a 1949 dinner with Hope and SPR investigator Mollie Goldney, she stated she "just don't remember the occasion at all" [24]. In official letters to the SPR, she flatly denied Sutton's story, writing: **"I HAVE NO MEMORY WHATEVER OF A STONE, BRICK OR PEBBLE EPISODE THAT EVENING"** [25].
+*   **Her Counter-Evidence:** Lucie pointed out that she had lunched amicably with Sutton in Fleet Street as late as 1940, and wrote casually to Price in 1939 about Sutton breaking his pelvis—friendly interactions she insisted would never have happened if Sutton had genuinely exposed Price as a fraud in her presence [25-27]. She claimed Sutton simply insisted on leaving the Rectory early because he was scared or needed to file his copy [28].
+
+**Relationship with Harry Price & Specific Quotes**
+Lucie shared a warm, banter-filled relationship with Price, affectionately addressing him in letters from her travels as **"My dear Lord and Master"** [29]. Although investigators heavily pressured her to admit Price had faked phenomena, she fiercely defended him to her death. While acknowledging his flaws, she provided this definitive quote on his character:
+> **"I know he told little fibs now and again, but he did not fake phenomena. I feel so very sure [of this]."** [30]
+
+She firmly believed he was a man of "unimpeachable integrity" whose investigations were a **"courageous attempt to bring to the man in the street the most mystery – and humbug-ridden – subject in the world."** [4, 31].
+
+**Sources:** bps · brc · gotb · hast · hbrs · spr

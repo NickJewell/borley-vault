@@ -26,3 +26,27 @@ The original planchette voice heard by [[Rev. Eric Smith|Guy Smith]] pleading "N
 ## Note
 
 No independent record of Joseph Tyler beyond the 1881 census has been found. Banks's theory is speculative, building on coincidence of name and occupation. His death and life after 1881 are unrecorded in the Borley chronicles.
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Joseph Tyler** is a lesser-known historical figure in the Borley Rectory saga who served as the coachman for the Bull family during the late nineteenth century [1, 2]. 
+
+A thorough reference profile drawn from the Borley sources reveals the following biographical details and his speculative connection to one of the Rectory's most famous ghost legends:
+
+**Biographical Record and the Census**
+Tyler’s identity and occupation are officially recorded in the **1881 Borley parish census returns** [1, 2]. A researcher examining the census in search of "Joe Miles" (a name that had surfaced during a séance in the Foyster incumbency) did not find Miles, but instead found Joseph Tyler's name recorded at the bottom of the same census sheet that contained information about Maria Rolf [1]. At the time, Tyler resided in the Rectory's stable cottage [2]. 
+
+**The Kate Boreham Subterfuge Theory**
+In the Borley literature, Joseph Tyler is heavily featured in a speculative historical theory surrounding the tragic fate of Katie (Kate) Boreham, a maid who supposedly became pregnant by Henry Bull [2]. According to this theory, Kate became mortally ill after attempting to use lead acetate to induce an abortion [2]. 
+
+The theory proposes a dark sequence of events in which Tyler was utilized to cover up the scandal:
+*   After dark, when no one was about, the Rectory bell was allegedly rung to summon Tyler from his quarters in the stable cottage [2].
+*   Tyler was given strict orders to keep his own counsel and was detailed to drive the carriage with all speed to Sudbury to secretly deposit the dying maid at a house in Priory Walk [2]. 
+*   It is speculated that Henry Bull himself rode up on the driver's box alongside Tyler to ensure the covert plan succeeded [2].
+
+**Origin of the Phantom Coach Legend**
+Tyler's hypothesized role in this late-night journey is highly significant to the Borley mythology. Researchers suggest that the sight of Tyler and Bull rushing the dying maid away in the dark is the true historical origin behind one of Borley Rectory's most famous and enduring mysteries: the frequent local sightings of a **phantom hunting carriage with two men seated on the driver's box** [2].
+
+**Sources:** enbr

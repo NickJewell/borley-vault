@@ -43,3 +43,44 @@ Described himself to Underwood before their first meeting as "a middle-aged type
 ## See Also
 
 → [[harry-price-controversy]], [[the-borley-report]], [[harry-price]], [[eric-dingwall]], [[kathleen-goldney]], [[trevor-hall]], [[dom-richard-whitehouse]], [[charles-sutton]], [[hast]]
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Robert J. Hastings** (died August 15, 1973) was a Welsh psychical researcher and member of the Society for Psychical Research (SPR), best known for his meticulous and exhaustive 1969 defense of Harry Price against allegations of fraud [1, 2]. 
+
+A thorough reference profile drawn from the sources reveals the following biographical details, facts, dates, quotes, and events regarding his life and his pivotal role in the Borley Rectory controversy:
+
+**Lesser-Known Biographical Details**
+*   **Appearance and Personality:** Prior to his first meeting with investigator Peter Underwood in September 1956, Hastings described himself as **"a middle-aged type, height about 6ft, fair hair which may be untidy"**, adding that he would be carrying a briefcase and a copy of the SPR Journal [1].
+*   **Residence:** He lived at Tan-y-coed in Llandre, Cardiganshire, Wales [1, 3]. 
+*   **Other Interests:** In addition to the Borley case, Hastings was deeply interested in spontaneous phenomena and conducted in-depth studies on two other famous cases: the **Versailles Timeslip** and the **Dieppe Raid case** [1]. 
+*   **Death:** He died from a stroke in Llandre on August 15, 1973 [1].
+
+**The Genesis of "The Hastings Report"**
+Following Harry Price's death, SPR investigators Eric J. Dingwall, Kathleen "Mollie" Goldney, and Trevor H. Hall prepared a highly critical report—*The Haunting of Borley Rectory* (the *Borley Report*)—which was published in January 1956 [4, 5]. The report portrayed Price as a fraudulent trickster who manufactured evidence [3].
+*   **Initial Doubts (1956):** Over the Christmas holiday in 1956, Hastings read the newly published *Borley Report* alongside Price's books and immediately noticed several inaccuracies [6]. He wrote to SPR Honorary Secretary William Salter, stating, **"It was disquieting and very puzzling to discover that every one of the mistakes I had noticed, tended in a direction unfavourable to Price"** [2]. Salter subsequently warned Goldney that he regarded Hastings "with some suspicion" [2].
+*   **Obstruction by the SPR:** Hastings intended to publish a reply to the SPR report immediately, but his 1956 critical paper was rejected by the SPR Journal editor [7]. Furthermore, he was explicitly denied access to the working material of Dingwall, Goldney, and Hall for several years [7].
+*   **The 1965 Commission:** The pressure of public and internal opinion eventually forced the SPR's Research Advisory Committee to authorize a complete re-examination of the evidence [8, 9]. In 1965, Hastings was finally granted access to the files, though the SPR provided a paltry grant of just **£50** toward his expenses [2, 9]. 
+*   **Publication:** After nearly five years of painstaking work, Hastings's findings were published in March 1969 as *An Examination of the 'Borley Report'* in the *Proceedings of the SPR* (Vol. 55, Part 201) [7, 10]. Because it was published in an academic journal, his report was never released for general commercial publication [11]. 
+
+**Key Arguments and Defenses of Harry Price**
+Hastings methodically dismantled the SPR's allegations against Price, arguing that the 1956 report was entirely a **"prosecutor's case"** and that no attempt had been made to find arguments in Price's defense [12]. He felt the attack was so biased that the SPR should never have published it, warning that it had opened the door to a **"subsequent wave of denigration"** against other researchers [13].
+
+Hastings successfully defended Price on several critical fronts:
+*   **The Open Archive Argument:** Hastings pointed out the sheer illogicality of the SPR's accusations. A large part of their case rested on Price's own private files [14]. Hastings argued that because Price had voluntarily deposited these papers at the University of London Library for anyone to consult during his lifetime, Price clearly did not view them as incriminating [14]. 
+*   **The Charles Sutton "Exposure":** Reporter Charles Sutton claimed he had caught Price faking poltergeist phenomena by throwing pebbles, leading him to plunge his hands into Price's pockets to find them full of stones [15]. Hastings revealed that Sutton admitted he never actually *saw* Price throw any stones [16]. Furthermore, Hastings hypothesized a medical explanation for Price's allegedly meek reaction to the physical assault: Price suffered from severe angina, and Hastings suggested that the shock of the dark house, the sudden loud noises, and being violently seized by Sutton had likely triggered a heart attack, leaving Price too incapacitated to properly understand the accusation or defend himself [17-20]. 
+*   **The Cellar Bones:** Critics claimed Price had planted the human remains discovered in the Rectory cellars in 1943 to validate his theories [21]. Hastings pointed out that Price was physically incapable of undertaking clandestine grave-digging due to his weak heart [22, 23]. He also demonstrated that the wartime lack of local labor and accommodation would have made it impossible for Price to secretly transport and bury bones without detection [24, 25]. Hastings additionally proved that the battery lighting set found in the cellar—which the SPR claimed Price used for his secret digging—was actually installed by the property owner, Captain Gregson, for giving tours of the ruins [26].
+*   **The "Flying Brick" Photograph:** The SPR authors accused Price of "flagrant misrepresentation" regarding a photograph of a brick caught in mid-air during the demolition of the Rectory in 1944 [27]. Hastings defended Price by showing that Price had merely commented on the occurrence without ever claiming it was paranormal, thereby clearing him of deliberate fraud [28, 29]. 
+*   **Price's Editing Methods:** Hastings addressed criticisms that Price had misleadingly edited his observers' logs and séance reports. He explained that Price's books were intended to be readable scientific journalism for the general public, not purely academic treatises [30, 31]. He also proved that Price used pseudonyms (such as naming "Katie Boreham" because parish records showed she was long dead) specifically to protect the feelings of living members of the Bull family [32]. 
+*   **Dom Richard Whitehouse and The Smiths:** Hastings defended the integrity of investigator Dom Richard Whitehouse against SPR claims that his testimony was clouded by a nervous breakdown, proving Whitehouse had fully recovered long before his Borley visits [33-35]. He also provided the most extensive portrayal of the Rev. Guy and Mabel Smith, demonstrating that Mabel Smith’s contradictory post-war claims (that she never believed the house was haunted) were utterly unreliable and contradicted by her contemporary actions and letters [36-38]. 
+
+**Contradictions and the Ongoing Battle**
+The publication of the *Hastings Report* caused an immediate media sensation, with many interpreting it as the official exoneration of Harry Price [39]. The SPR felt compelled to issue a statement reminding the public that the Society held no corporate views and did not officially endorse Hastings's conclusions [39, 40]. 
+*   In September 1969, Dingwall, Goldney, and Hall published a fierce rebuttal titled *Mr Hastings and the Borley Report*, taking Hastings to task over his findings [41]. 
+*   Not satisfied with their response, Hastings returned to the defense, publishing his final rebuttal, *Reply to the Authors of the "Borley Report"*, in March 1970 [41].
+
+Ultimately, Robert J. Hastings viewed Harry Price not as a fraudster, but as a kind and generous man of **"upright character"** and **"complete integrity"** [9]. Modern researchers like Peter Underwood and Ivan Banks explicitly support Hastings's findings, concluding that his 1969 report successfully discredited the most damaging allegations against Price and remains a crucial cornerstone of the Borley literature [42, 43]
+
+**Sources:** bps · brc · brfa · enbr · gotb · hast · hbrs · spr

@@ -15,3 +15,9 @@ De Clare employed the standard technique of prayers, incense, and holy water. Th
 De Clare's exorcism is thus a case of partial rather than permanent effectiveness — distinguishing it from Fitzgerald's, which produced permanent cessation. [[harry-price|Price]] mentions de Clare in his survey of clerical exorcisms at poltergeist-infested rectories and houses, comparing them unfavourably (generally) to Beth-oni's eventual resolution.
 
 The name "de Clare" may suggest Norman French descent; no further biographical details are available in Price's account.
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+Based on the provided Borley sources, there is no mention of **Rev. L. de Clare**. The texts do not contain any biographical details, facts, events, dates, or quotes regarding this individual in connection with the Borley Rectory case.

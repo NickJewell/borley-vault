@@ -47,3 +47,30 @@ Banks further notes that "Luskin" is remarkably close to "Luskyn" — which is t
 - [[waldegrave-family]] — Luskin's patrons at Borley
 - [[borley-legends]] — monastery controversy and its resolution
 - [[the-monastery-controversy|Monastery Controversy]] — Banks's full analysis
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Reverend Stephen Luskin** (also recorded in the parish lists as **Steven Luskyn**) was a sixteenth-century clergyman whose transition from a Catholic monk to a Protestant rector provides a fascinating historical theory regarding the origins of the Borley Rectory hauntings. 
+
+A thorough reference profile drawn from the texts reveals the following specific biographical details, events, dates, and related speculations regarding his life:
+
+**Monastic Background and the 1537 Dispensation**
+*   Before coming to Borley, Luskin was a monk at **Clare Priory**, an order of Austin Friars located a few miles from Borley [1, 2]. 
+*   Anticipating the compulsory dissolution of the monasteries by King Henry VIII, Luskin obtained a special dispensation to **allow him to continue wearing a monk’s habit secretly under the clothes of a Protestant priest** [2]. 
+*   This dispensation was granted on **December 20, 1537** by the Archbishop of Canterbury, **Thomas Cranmer**, at a specific cost of **£4.00** [2]. 
+*   At the time, wearing a monastic habit in public had already been made illegal [2]. The sources note that Luskin clearly hoped for a reversal of the Dissolution, and by securing this dispensation, he could claim that he had **"never stopped wearing his habit, even if unseen under the cloak of a Protestant priest!"** [2]. Clare Priory was ultimately surrendered to the King's agents on November 29, 1538 [2].
+
+**The "Lost" Years and Appointment at Borley**
+*   For twenty-seven years following the dissolution of Clare Priory, Luskin's life is unaccounted for in the sources [3, 4]. 
+*   He unexpectedly reappears in the historical record when he is appointed the **Rector of Borley** [3]. He succeeded the Rev. William Cooper, who had been the incumbent during the arrest of Borley's Catholic Lord of the Manor, Sir Edward Waldegrave [3]. 
+*   **Contradiction in Dates:** The Borley sources contain a slight chronological contradiction regarding the exact year he took up the Borley living. While the main historical text states he became rector in **1565** (four years after Sir Edward Waldegrave's death), the formal published list of the "Rectors of Borley" records his induction as **"Steven Luskyn 1566"** [3, 5]. 
+
+**The Waldegrave Connection and the "Borley Nun" Theory**
+The mystery of how a former Catholic monk came to Borley when he could have taken a living at any other parish has led to extensive historical speculation connecting him to the Borley hauntings [4]. 
+*   The Borley living was entirely in the gift of the **Waldegrave family**, who were staunch Catholic sympathizers secretly trying to restore a Catholic monarch to the throne [4]. 
+*   Because Luskin was "quite obviously living in the hope of a restoration of the Austin order," investigators suggest he likely shared a "common cause" with the Waldegraves [6]. 
+*   The author of *The Enigma of Borley Rectory* explicitly theorizes that between 1538 and 1565, Luskin might have assisted the Waldegrave family in secretly smuggling persecuted Catholics to the safety of France [6, 7]. Consequently, Luskin's secretive Catholic operations at Borley are proposed as one of the two most likely historical origins for the legend of the **"Borley nun"** [7].
+
+**Sources:** brc · enbr

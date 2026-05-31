@@ -35,3 +35,27 @@ Hammond's visit falls between the better-documented BBC observations (de Lotbini
 - [[c-gordon-glover]] — fellow BBC official observer
 - [[borley-rectory]] — site of the investigation
 - [[the-observer-program]] — Price's systematic inquiry 1937–38
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**W. S. Hammond** was a member of the staff at the British Broadcasting Corporation (B.B.C.) who participated in the Borley Rectory investigation as one of ghost hunter Harry Price's "official observers" [1, 2]. 
+
+A thorough reference profile drawn from the sources reveals the following details regarding his specific visit and the phenomena he recorded:
+
+**The January 1938 Vigil**
+*   **The Visit:** Hammond visited Borley Rectory for an overnight vigil on **January 8–9, 1938** [2, 3]. 
+*   **His Companions:** He was accompanied by a group of friends and colleagues, specifically recorded as Mrs. (or Mr.) C. S. Taylor, Mr. G. J. Bell, and Mr. J. Thurley [1-3].
+*   **Methodology:** Hammond and his group took their duties seriously; upon arrival, they conducted a thorough inspection of the Rectory, sealed all the doors, and established a routine of patrolling the building at hourly intervals [2, 4].
+
+**Reported Phenomena and Occurrences**
+During their night at the Rectory, Hammond and his team submitted a report detailing several auditory, olfactory, and visual incidents:
+*   **The Closing Doors:** The group reported hearing the sound of a door being closed somewhere in the building on three separate occasions throughout the night [3-5]. 
+    *   The first instance occurred just before their 10:00 p.m. patrol while the group was standing in the passage opposite the Base Room [2]. 
+    *   An hour and a half later, they heard another door being gently closed [4]. 
+    *   The third instance occurred at 3:15 a.m.; however, the observers maintained a critical perspective, noting in their official report that this final sound "was apparently outside and might have been caused by the wind which had risen slightly" [6]. Despite immediate investigation during their patrols, they could find nothing to account for the first two noises [2, 4, 5].
+*   **Phantom Odours:** Hammond is officially listed among the observers who experienced unexplained odours at the Rectory [7]. Specifically, his group reported a strong "lavatory smell" localized in Room No. 5 and the famous Blue Room [3].
+*   **The "Dark Figure":** During the vigil, the group spotted a dark figure moving in the vicinity. Demonstrating the value of objective observation, Hammond and his team investigated and discovered that the figure was not an apparition, but merely Mr. Arbon, the caretaker who lived in the adjoining Rectory Cottage [3].
+
+**Sources:** brc · enbr · gotb · mhh

@@ -34,3 +34,30 @@ The Hope affair established Price's public reputation as a fraud-exposer and sce
 - [[eric-dingwall]] — Price's collaborator in the exposure
 - [[national-laboratory]] — Price's organisation at the time
 - [[harry-price-controversy]] — the broader debate about Price's integrity
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**William Hope** was a celebrated **Crewe-based spirit photographer** who had successfully managed to fool the British College of Psychic Science [1, 2]. While not directly involved in the events at Borley Rectory, his exposure as a fraud was a defining moment in the early career of ghost hunter Harry Price, leading to a permanent rift between Price and prominent Spiritualists [3].
+
+A thorough reference profile drawn from the Borley sources reveals the following facts, events, and details regarding his downfall:
+
+**Early Doubts and the SPR Investigation**
+*   Doubts regarding the authenticity of Hope’s practice had circulated since **1909**, when a committee set up by the *Daily Mail* examined his spirit photographs and concluded they were entirely fake [2]. 
+*   The Society for Psychical Research (SPR) had been trying to interview Hope since before the First World War. They eventually appointed Eric Dingwall to investigate him, who in turn approached Harry Price to help prove that Hope was an **"exploitative fraud"** [2, 4].
+
+**The "Rampant Lion" Sting Operation**
+To trap Hope, Price consulted the Imperial Dry Plate Company at Cricklewood, which manufactured photographic plates. Price and the company agreed to **invisibly mark a set of plates with the company’s trademark—a rampant lion** [4]. 
+*   On **28 February**, Price attended a sitting with Hope in Holland Park and invited the medium to use these specially supplied plates [4]. 
+*   Price watched Hope’s movements very carefully in the semi-darkness of the room as the photographer took his picture [4]. 
+*   When the sitting was over, the developed plate showed an image of Price with **"a charming female form over his shoulders,"** which was apparently supposed to be the spirit of Price's mother [4]. 
+*   Price thanked Hope and took two of the plates away with him. When they were subsequently developed by another photographer, it was clear that **the rampant-lion trademark was entirely missing**, proving beyond a doubt that Hope had managed to secretly switch the plates during the sitting [4].
+
+**The Fallout and the Rift with Conan Doyle**
+*   The news of the exposure was published in the *Journal of the Society for Psychical Research* that May, causing an absolute furore [3]. 
+*   Spiritualists, led by the famous author Sir Arthur Conan Doyle, dismissed the experiment as a direct attack on their beliefs, loudly claiming that Price and Dingwall had deliberately set Hope up [3]. 
+*   Later that year, Conan Doyle published a **"vigorous defence"** of Hope’s work, but the exposure of his fraudulent practices was a devastating blow from which spirit photographers never recovered, and the practice effectively passed into oblivion [3].
+*   The exposure of William Hope left relations between Price and Conan Doyle deeply strained, resulting in a **fractured relationship** that would fluctuate between comradeship and open hostility for the rest of Doyle's life [3, 5].
+
+**Sources:** brfa · hbrs

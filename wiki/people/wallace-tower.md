@@ -37,3 +37,28 @@ After forty-six years of separation, the Tower children were reunited.
 - [[marianne-foyster]] — who had separated them
 - [[alan-roper]] — who helped find Adelaide
 - [[john-knights]] — who provided the initial lead
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Wallace Tower** was the biological brother of Adelaide Foyster (born Barbara Alice Tower), the young girl adopted by the Rev. Lionel and Marianne Foyster who lived at Borley Rectory during the height of its alleged poltergeist activity. 
+
+A thorough reference profile drawn from the sources reveals the following biographical details, family tragedies, and his role in a dramatic 1974 family reunion:
+
+**Early Life and Family Tragedy**
+*   **Background:** Wallace was one of seven children born to Seward and Alice Tower, a farming family from the isolated rural village of Westcock, located near Sackville in New Brunswick, Canada [1].
+*   **The 1929 Tragedy:** In January of that year, Wallace's mother Alice died of a brain tumour [1]. Only a month later, his father Seward fractured his skull after falling off a load of marsh hay, leaving Wallace and his six siblings orphans [1]. 
+*   **Separation:** Following their father's death, Wallace and his older siblings (Edna, Fred, Royal, and Merton) were separated and parceled out among various aunts and uncles [1]. The youngest child, Barbara, who was less than a year old, was given to the Foysters, who renamed her Adelaide [1]. When the Foysters took the baby, Wallace was separated from his sister, having last seen her when she was just eleven months old [2].
+
+**The Lost Sister (1945–1974)**
+*   For decades, Wallace and his siblings lost all contact with Adelaide. Their sister Edna had managed to write to Adelaide regularly for a time, but Marianne Foyster strictly commanded that Edna must refer to herself only as a "cousin," not a sister [2]. 
+*   When Lionel Foyster died in 1945, Marianne cut off all contact, and Edna's final letter was returned marked "Address Unknown" [2]. 
+*   For the next twenty-nine years, Wallace and his siblings heard absolutely nothing about their youngest sister's fate [2]. Wallace's brother Fred noted that her disappearance "really bothered us, but what could we do? We didn’t have the time to do anything else" [2].
+
+**The 1974 Discovery and Reunion**
+*   **The Investigation:** By the 1970s, Wallace was living in **Chepachet, Rhode Island** [2]. Out of the blue, he was contacted by **Alan Roper**, a Borley researcher and Ghost Club Society member [3]. Roper had been meticulously investigating the Borley case and had successfully tracked Adelaide down to where she was living with her English family (under her married name, Cartwright) in Manchester [3]. Roper gave Wallace her address and telephone number [3].
+*   **The Phone Call (November 1974):** In **November 1974**, Wallace telephoned Adelaide. The call left her entirely "speechless," as Marianne had raised her to believe she was an only child and she had no idea she had any brothers or sisters [2]. Wallace revealed his identity and invited her to travel to Rhode Island for Christmas [2, 3].
+*   **The Kennedy Airport Meeting:** When Adelaide walked through the gate at Kennedy Airport, Wallace and her other siblings were waiting to greet the sister who had "magically returned from the dead" [3]. They recognized her immediately, marking what Adelaide described as "the most marvellous reunion of a lifetime" after forty-six years of separation [3].
+
+**Sources:** hbrs

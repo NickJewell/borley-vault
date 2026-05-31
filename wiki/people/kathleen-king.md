@@ -30,3 +30,29 @@ As the daughter of Alfred and Margaret Finch, Kathleen King forms the third gene
 - [[margaret-finch]] — her mother
 - [[borley-church]] — where the Sunday school incident occurred
 - [[rev-ac-henning]] — the rector she later discussed the incident with
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Kathleen King (née Finch)** was the daughter of Alfred and Margaret Finch, who were long-time local residents of Borley [1]. In the Borley sources, she is primarily recorded as a primary witness to an inexplicable event inside Borley Church, and later as a contributor to historical research on the haunting. 
+
+A thorough reference profile drawn from the texts reveals the following specific events, quotes, and details regarding her involvement:
+
+**The 1946 Sunday School Incident**
+In **1946**, when Kathleen was approximately 13 years old, she attended a Sunday catechism class inside Borley Church [2, 3]. While she and the other children were sitting in the front pews waiting for their teacher, Miss Byford, they distinctly heard footsteps enter the church porch, followed by the sound of a key turning in the door's lock [2]. Assuming her teacher had arrived, Kathleen called out, **"We are here, Miss Byford"** [2]. 
+
+When there was total silence in response, the children became increasingly frightened and alarmed [2]. Kathleen attempted to comfort them by suggesting that a joke was being played on them, telling them that **"everything would be all right in a few minutes"** [2]. However, when Miss Byford finally arrived shortly afterward, she was astonished to find that the church door had been locked against her [2, 3].
+
+**Investigation and Later Reflections**
+The Rev. Alfred Clifford Henning initially suspected a practical joke and questioned Kathleen about the incident [2]. She informed him that she had discussed the matter with the girls living at the Rectory cottage, but they strongly denied having played a prank on the children [4]. 
+
+Years later, when discussing the episode with researchers, Kathleen King stated that she had never been able to come to a definite conclusion about what had actually happened [4]. While she conceded that human trickery could not be entirely ruled out, she pointed out a specific contradiction that always puzzled her: she **"does not understand why footsteps were heard approaching the door before the key was turned in the lock, but that this was not followed by the sound of departing footsteps"** [4].
+
+**Memories of the Rev. Henning**
+Kathleen remembered the Rev. Henning and his wife well from her youth [1]. Regarding the rector's steadfast belief that the Rectory and church were genuinely haunted, she recalled that he **"would become very annoyed whenever anyone expressed their doubts about the matter"** [1].
+
+**Contributions to Borley Literature**
+In her later years, Kathleen King assisted investigators Edward Babbs and Claudine Mathias with their research for the 2003 book *Borley Rectory – The Final Analysis* [5, 6]. She supplied a significant number of original historical photographs for the publication, providing the images used for Figures 4, 8, 9, 17, 18, 30, and 91, as well as images featured on the book's jacket [7].
+
+**Sources:** brc · brfa · gtwnd

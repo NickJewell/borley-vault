@@ -21,3 +21,9 @@ This genealogy establishes that the Waldegrave connection to Borley reaches back
 ## Significance
 
 Nicolle's letter extends the Waldegrave timeline at Borley by a full generation, meaning the family's Catholic history at the site is even more deeply embedded than Price had stated. This strengthens the historical plausibility of a Waldegrave-Catholic murder connection in 1667 — by that date the family had been at Borley for nearly two centuries.
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+Based on the provided Borley sources, there is no mention of **Rev. Francis G. S. Nicolle**. The texts do not contain any biographical details, facts, events, dates, or quotes regarding this individual in connection with the Borley Rectory case.

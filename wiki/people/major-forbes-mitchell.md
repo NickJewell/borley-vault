@@ -27,3 +27,28 @@ The Forbes-Mitchell episode is one of [[ian-greenwood|Ian Shaw]]'s uncorroborate
 - [[marianne-foyster]] — deceived him
 - [[ian-greenwood]] — whose jacket exposed the fraud
 - [[mr-and-mrs-fenton]] — later recipients of the full "von Kiergraff" elaboration
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Major Forbes-Mitchell** was an official attached to the Government Survey Office in St John, New Brunswick, Canada. While he had no direct involvement with the haunting of Borley Rectory itself, the Borley sources record him as the unwitting victim of one of Marianne Foyster’s elaborate impostures during her life in Canada, prior to her arrival at Borley [1]. 
+
+A thorough reference profile drawn from the texts reveals the following specific events regarding his brief but scandalous acquaintance with Marianne Foyster:
+
+**The Car Collision and the "von Kiergraff" Alias**
+During a period when the Rev. Lionel Foyster was away in England, Marianne and her son Ian were involved in a minor collision with a car driven by Major Forbes-Mitchell [1]. Following the accident, Marianne introduced herself to the Major using one of her favorite aristocratic aliases: **"Mrs von Kiergraff"** [1]. 
+
+**The Relationship and the Expensive Presents**
+Taking advantage of her husband's absence, Marianne built upon this initial meeting to cultivate a relationship with the Major [1]. The texts record that she began visiting his house and received **"expensive presents"** from him [1]. 
+
+**The "Gun-Oil" Exposure and Police Involvement**
+The deception came to a sudden end due to an accidental discovery involving Marianne's son, Ian [1]. 
+* While visiting the Major's home, Ian was inspecting Forbes-Mitchell's gun collection and accidentally smeared gun-oil onto his own jacket [1]. 
+* The Major "gallantly insisted" on having the boy's jacket cleaned [1]. 
+* However, while emptying the pockets, the Major found a letter bearing Ian’s actual name and true address [1]. 
+* His suspicions immediately aroused, the Major asked Ian which school he attended. Forbes-Mitchell then telephoned the school and successfully established the true identities of both Ian and his mother [1]. 
+
+Following his discovery of the truth, Major Forbes-Mitchell complained directly to the police [1]. The texts note that their acquaintance ended highly unpleasantly, resulting in the return of the expensive presents and a **"certain amount of scandal"** [1].
+
+**Sources:** wob

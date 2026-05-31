@@ -46,3 +46,39 @@ However, his outright dismissal of all phenomena as fraud does not survive conta
 ## See Also
 
 [[marianne-foyster]] | [[lionel-foyster]] | [[captain-gregson]] | [[marianne-controversy]] | [[wob]]
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Robert Wood** is a British-born writer best known in the Borley Rectory literature as the author of the highly controversial and fiercely skeptical 1992 book, ***The Widow of Borley: A Psychical Investigation*** [1, 2]. 
+
+A thorough reference profile drawn from the Borley sources reveals the following biographical details, research methodologies, specific quotes, and subsequent controversies surrounding his work:
+
+**Early Life and Connection to Borley**
+*   **Background:** Wood was brought up in the Suffolk village of Acton, located just three miles east of Borley [2, 3]. 
+*   **First-hand experience:** Because of his local upbringing, he was familiar with the Borley story and visited the Rectory site as a child [2, 4]. Despite his proximity, he later stated firmly that he never saw a ghost at Borley, concluding that no one else should have either [3, 4].
+
+**The Genesis of *The Widow of Borley***
+*   **Trevor Hall's Manuscript:** Wood’s 1992 book heavily utilized and was essentially an abridged version of an unpublished, highly libelous five-volume manuscript titled *Marianne Foyster of Borley Rectory*, originally compiled in 1958 by the prominent Borley skeptic Trevor H. Hall [2, 3, 5, 6]. 
+*   **Research Difficulties:** Wood himself admitted that researching the project was exceedingly difficult. At the time, Marianne Foyster was still living in the United States and wanted absolutely nothing more to do with Borley. Furthermore, she deliberately kept her adopted son (Vincent O'Neil) entirely ignorant of her past, creating additional barriers to Wood's inquiries [7].
+
+**Skepticism and Specific Quotes**
+Wood was a staunch materialist who dismissed the Borley hauntings entirely. In a letter to investigator Peter Underwood dated **22 March 1992**, Wood explicitly stated: **"I am very sceptical about the alleged haunting of Borley"** [2]. 
+*   **On Harry Price:** Wood dismissed the famous ghost hunter as an **"astute and agreeable old fraudster"** who **"never believed that Borley was haunted"** but saw there was money to be made [8]. Wood explicitly accused Price of planting the human bones discovered in the Rectory cellar in 1943 [9-11].
+*   **On Séance Data:** He bluntly dismissed the planchette and table-tipping séance data, as well as any theories regarding the phantom nun, as complete **"rubbish"** [12, 13].
+*   **On Psychical Researchers:** Wood believed that psychical researchers lack an understanding of what constitutes "proof" and asserted that all mediums are invariably found to be fraudulent [14, 15]. 
+
+**Allegations Against the Foysters**
+Wood's book is most notable for its incredibly hostile psychological assessments of the Rev. Lionel Foyster and his wife, Marianne:
+*   **Marianne Foyster:** Wood believed there was **"compelling evidence to suggest that Marianne’s claims were wholly fraudulent"** [16]. Furthermore, he echoed Trevor Hall's accusation that **Marianne actually murdered her ailing husband, Lionel, in 1945** (possibly by putting a pillow over his face) so she would be free to marry her American GI lover and leave the country [2, 5]. 
+*   **Lionel Foyster:** Refusing to view the Cambridge-educated Rector as a mere helpless dupe, Wood depicted Lionel as a mentally and physically sick **"pervert,"** a voyeur, and a willing accomplice in his wife's bigamy and infidelities [5, 17]. Wood suggested that Lionel suffered from an abnormal sex urge towards children and that he had been sent to the Canadian backwoods early in his career to cover up indiscretions with underage girls [5, 18]. Wood concluded that Lionel Foyster **"had as peculiar a sexuality as his wife"** [19].
+*   **The Misses Bull:** Wood also targeted the surviving Bull sisters, characterizing them as **"malicious and vindictive old women"** whose village gossip formed the basis for the séance phenomena [20, 21]. 
+
+**Contradictions and Backlash**
+The publication of *The Widow of Borley* ignited immediate outrage among Borley researchers, leading to several specific contradictions and retractions:
+*   **The Ghost Club Incident:** Prior to publication, Peter Underwood had invited Wood to give a talk to the Ghost Club Society. After reading an advance copy of the book, Underwood abruptly withdrew the invitation because the book abused respected members of the Club. Underwood wrote to Wood: **"I do not recognise the pictures you paint of these people. There are many mistakes and omissions in the book"** [22]. 
+*   **The "Last Widow" Contradiction:** Claudine Mathias (widow of the Rev. Edward Mathias, the *actual* final rector of Borley and Liston) criticized Wood's title as "misleading and rather illogical," pointing out that *she*, not Marianne Foyster, was technically the last widow of Borley [23]. Mathias also fiercely contested Wood's characterization of Ethel Bull, noting that Ethel was charming and kind, not a cantankerous spinster [24]. 
+*   **Historical Inaccuracies:** Wood's credibility was challenged on several factual grounds. For instance, he falsely claimed that Trevor Hall was not a Cambridge graduate, when in fact he was [3, 25]. Other researchers noted that Wood's determination to pour scorn on the Borley saga led him to make massive assumptions that were **"not based on firm foundations"** [26].
+
+**Sources:** brc · brfa · wob

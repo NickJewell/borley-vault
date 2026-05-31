@@ -74,3 +74,46 @@ Note: When the SPR report (*The Haunting of Borley Rectory*) was leaked to a jou
 - [[rev-lanfranc-mathias]] — his successor
 - [[maud-stearn]] — later organ witness
 - [[thomas-musk]] — later organ witness
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Reverend Alfred Clifford Henning** (1888–1955) was the Rector of the combined parishes of Borley and Liston from 1936 until his death. He played a central role in the Borley Rectory saga as the clergyman who leased the haunted house to Harry Price, facilitated major excavations, and recorded numerous paranormal phenomena in both the Rectory and Borley Church.
+
+A thorough reference profile drawn from the Borley sources reveals the following biographical details, events, specific quotes, and contradictions regarding his involvement:
+
+**Biographical Details and Background**
+*   **Early Life and Career:** Born in Forest Hill, London, in 1888, he was the son of a clergyman [1, 2]. He was ordained as a deacon at St Germains, Truro, in 1911, and as a priest at Lincoln in 1919 [1, 3, 4]. He worked in eight different parishes before Borley, including a curacy in South Norwood, Middlesex [1, 2, 4]. He was glad to leave his urban parish of 4,000 residents, complaining that only about 20 people attended his services [3]. 
+*   **Family:** He married his wife, Annette Eva (a B.A. of London University [5]), in 1934. They had two sons, Richard (born 1935) and Stephen [2, 3]. 
+*   **Personality and Religion:** Henning was an Anglo-Catholic (High Church) who wore a square black biretta, rarely wore lay clothes, and introduced incense to his services, which upset some of the local agricultural workers [6]. He was described as quiet-spoken and gentle in manner [4].
+*   **Residence:** Inducted on 13 March 1936, the Hennings originally stayed at Borley Place with the Payne family. However, a dispute over a right-of-way soured their relationship, and the Paynes took little further interest in church affairs during Henning's incumbency [6-8]. Appalled by the immense size and lack of amenities (no electricity or running water) of Borley Rectory, the Hennings moved into the much more comfortable Liston Rectory in December 1936 [2, 9-11].
+*   **Death:** He died suddenly on 14 January 1955, after falling dead in his garage during a spell of exceptionally cold weather [1, 12-14]. 
+
+**Role in the Harry Price Investigation**
+*   **The Tenancy:** Advised by the Bishop of Chelmsford to sell or let Borley Rectory, Henning agreed to rent the building to Harry Price for a year-long investigation starting in May 1937, for £30 a year, even offering to pay the rates [11, 15].
+*   **Selling the Rectory:** Henning essentially acted as an unpaid estate agent for the Church Commissioners, eventually warning the final buyer, Capt. William Hart Gregson, **"I think I have to warn you, Capt Gregson, that this house is supposed to be very haunted"** [16]. 
+*   **The Psychic Fête:** On 21 June 1939, Henning co-organized a "psychic fête" with Price in the burnt-out ruins of the Rectory to raise funds for Borley Church [17, 18].
+*   **Publications:** In 1949, Henning wrote a 56-page booklet titled *Haunted Borley*, with a foreword by the novelist Elisabeth Goudge. The book was typed and edited by James Turner, on the strict condition that Henning omitted the Turners' names and personal experiences [19-21]. 
+
+**The Excavations and Relics**
+*   **The Cellar Dig (1943):** Henning provided local labor (his gardener, Jackson) and personally assisted with pick and shovel when Price excavated the Rectory cellars in August 1943 [22-25]. Henning and Price later gave the discovered bone fragments (alleged to be the nun "Marie Lairre") a Christian burial in Liston churchyard on 29 May 1945 [26-29].
+*   **The Altar Stone and Vault:** While searching for a crypt in Borley Church in August 1943, Henning found the pre-Reformation altar stone (mensa) lying upside down on sand [22, 30, 31]. In May 1947, while preparing to restore the altar, he discovered the intact vault of the Rev. Humphrey Burrough (rector 1722–1757) containing three skeletons in water [32, 33].
+*   **Exorcism:** Though interested in clearing evil spirits by invocation, Henning refused requests to hold a specific Requiem Mass for the phantom nun because he felt her identity was too shadowy. Instead, on All Souls' Day 1947, he conducted a general Requiem Mass in the churchyard for any unquiet spirits [34].
+
+**Paranormal Experiences**
+Henning became obsessed with the hauntings—some parishioners felt to the point of neglecting his duties [6]. He experienced several phenomena first-hand:
+*   **Footsteps and the Base Room:** In July 1937, while inside the locked and sealed Rectory with Mark Kerr-Pearse, Henning heard footsteps and the swishing of trailing garments in the passage. Flinging the door open, they found the passage completely empty [35]. 
+*   **Church Footsteps:** On 4 June 1947, Henning, his wife, and Price heard a sudden screeching of birds followed by distinct footsteps entering the church porch; Henning checked immediately but found no one [36, 37]. The exact same phenomenon occurred three days later when Henning was with two Cambridge students [38].
+*   **Phantom Organ Music:** On 15 October 1947, Henning and novelist Norah Walrond (Burke) were walking up the church path when both clearly heard the church organ playing (like a voluntary). They rushed inside to find the church empty and the organ locked [38-41]. Henning subsequently tested the theory that leftover wind in the organ caused the sounds, but found the air escaped immediately and produced no music [42].
+*   **The Door Lock:** In the autumn of 1949, Henning struggled to lock the church door, stating, **"It was just as if someone was holding the lock back"** [43, 44].
+*   **The Waldegrave Tomb:** On 20 March 1949, while teaching a catechism class, Henning said the words "Christ is here," which was immediately followed by three loud, unexplained blows near the Waldegrave monument [45-47].
+*   **Planchette:** On 30 October 1937 and 20-21 November 1937, Henning operated a planchette with Sidney Glanville, receiving messages referencing the nun "Marie Lairre" [48, 49] and claiming a jeweled cup/chalice was buried in the garden [50].
+
+**Contradictions and the SPR Report**
+*   **The Mouse Theory:** Despite his strong belief in the haunting, Henning demonstrated occasional skepticism. When objects (like a psalter placed over a sanctuary lamp) were mysteriously moved in Borley Church in 1942, Henning wrote to Price suggesting the culprit might simply be a mouse caught in the church [51, 52].
+*   **Contradicting Mabel Smith:** When Mrs. Mabel Smith wrote to the *Church Times* in 1945 denying she and her husband ever believed Borley was haunted, Henning was shocked. He forwarded the letter to Price, writing: **"I was astounded to read the enclosed letter from Mrs. Smith in the Church Times. There are still people in Borley who remember Mrs. Smith showing them the mystery light and then taking them into the Rectory and finding no light in the room. It may be true that the Smiths did not leave because of the hauntings, but that they had no strange experiences is something new to me"** [53, 54]. Henning added that he suspected they were **"desperately anxious to have their names in print"** [55, 56].
+*   **Witchcraft vs. Black Mass:** In 1959, Henning expressed disbelief that a Black Mass could have been performed secretly near the Rectory, concluding instead: **"There seems, however, to be some foundation for the suggestion of witchcraft"** [57]. *(Note: As Henning died in 1955 [1], this 1959 attribution in the text is an apparent chronological contradiction within the sources)*.
+*   **The *Borley Report* Backlash:** When the Society for Psychical Research (SPR) authors Dingwall, Goldney, and Hall prepared their highly critical *Borley Report* (1956) attacking Price, they notably failed to interview the Hennings [12]. In response, Mrs. Annette Henning fiercely defended the deceased Harry Price, calling the report **"a hateful book"** and stating: **"My husband and I think that this investigation is a dastardly attack on Mr Price when he is no longer here to defend himself"** [12, 58].
+
+**Sources:** bps · brc · brfa · ebr · enbr · gotb · gtwnd · hast · hbrs · mhh

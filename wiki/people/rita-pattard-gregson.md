@@ -30,3 +30,26 @@ As the mother of [[alan-gregson|Alan Gregson]] and [[anthony-gregson|Anthony Har
 - [[alan-gregson]] — her son
 - [[anthony-gregson]] — her son
 - [[fire-1939]] — the eventual fate of the Rectory
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Rita Pattard** was the first wife of Captain William Hart Gregson, who would later become the final owner of Borley Rectory [1]. The sources provide a brief biographical outline of her life solely in connection to her husband:
+
+**Background and Marriage**
+*   Rita Pattard was the daughter of a farmer from Guernsey in the Channel Islands [1].
+*   She met William Hart Gregson while he was taking leave on the Channel Islands (Gregson had served as an officer in the Royal Engineers during the First World War) [1, 2]. 
+*   The couple married in **1920** [1].
+
+**Family Life on Canvey Island**
+*   Following their marriage, Rita and William lived on Canvey Island in Essex [1]. Her husband worked there as a landlord and property developer, eventually becoming the largest single landowner on the island by the mid-1920s [1].
+*   As a direct **homage to his wife**, Gregson gave many of the bungalows he developed French names, including **Jethou**, **Sailly Laurette**, and **Herm** [1].
+*   The couple had two sons together: **Alan** (born in **1921**) and **Anthony** (born in **1925**) [1]. 
+
+**Divorce**
+*   The marriage ultimately did not last, and Rita and William Gregson were divorced in **1934** (four years before Gregson purchased the Borley property) [1]. 
+
+The Borley sources contain no further biographical details, events, or quotes regarding Rita Pattard's life following her 1934 divorce.
+
+**Sources:** hbrs

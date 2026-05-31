@@ -20,3 +20,17 @@ H. H. Price was a serious academic philosopher who contributed to the philosophi
 
 - [[harry-price]] — the ghost-hunter with whom he is easily confused
 - [[kathleen-goldney]], [[eric-dingwall]], [[trevor-hall]] — co-authors of the 1956 report whose Note distinguishes the two Prices
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Professor H. H. Price** of **Oxford University** appears in the Borley Rectory sources for a single, highly specific reason: disambiguation. He had no direct involvement in the investigation of the Rectory itself.
+
+According to a prefatory note by the Council of the Society for Psychical Research (SPR) in their highly critical 1956 publication *The Haunting of Borley Rectory* (the "Borley Report"), Professor H. H. Price was a **former President of the SPR** and had served as a **member of its Council for many years** [1]. 
+
+The SPR Council explicitly included this note to ensure that readers did not confuse the esteemed Oxford professor with the book's primary target, **Mr. Harry Price**, the famous and controversial ghost hunter. To draw a sharp contrast between the two men, the Council made a point to clarify that the late Harry Price **"at no time held any office in the Society"** [1]. 
+
+The provided texts contain no further biographical details, dates, or quotes regarding Professor H. H. Price beyond this specific clarification [1].
+
+**Sources:** spr
