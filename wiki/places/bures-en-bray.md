@@ -49,3 +49,30 @@ Banks does not claim to have definitively identified Bures-en-Bray as the origin
 - [[waldegrave-family]] — whose female members were placed in French and Flemish convents
 - [[barbara-waldegrave]] — Banks's candidate for the ghost nun
 - [[gs-taylor]] — correspondent who proposed Caudebec-en-Caux as Marie Lairre's origin (disproved)
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+Based on the Borley sources, **Bures-en-Bray** (also referred to in some texts as **Bures Londiniers**) is a location in France that emerged as a potential solution to one of the most perplexing mysteries of the Borley Rectory hauntings: the true origin of the "Phantom Nun" who allegedly came from a convent in "Bures."
+
+Here are the concrete details recorded in the sources, structured for a reference article:
+
+### **Physical Description and Location**
+*   **Location:** Bures-en-Bray is located in the diocese of Rouen in Normandy, France [1]. 
+*   **Geography:** It is situated not far from the port town of Dieppe [2]. In the immediate hinterland of Bures-en-Bray is a place called La Haye [3]. 
+
+### **Key Events and Features**
+*   **The Priory of Saint Etienne:** According to the French monastic directory _Repertoire Topo Bibliographique Des Abbayes et Prieures_ by Dom L.H. Cottineau, Bures-en-Bray was the site of the Benedictine Priory of Saint Etienne [1]. 
+*   **The Origin of the Borley Nun:** During the 1937 planchette séances at Borley, an entity identifying herself as a French nun named "Marie Lairre" claimed she came from a nunnery at Bures [4]. Because the entity also appeared to reference a French point of origin ("Havre" or "Haiv"), later historical researchers proposed that she originally came from Bures-en-Bray in Normandy, rather than the English village of Bures [2]. Researchers noted that a journey from Bures-en-Bray to England could easily be made via the nearby port of Dieppe, or from "La Haye" (which investigators had previously assumed meant Le Havre) [2, 3].
+
+### **Associated Persons**
+*   **"Marie Lairre":** The alleged 17th-century French novice whose tragic story of murder at Borley is tied to the monastic sites of Bures [2, 4].
+*   **Dom L.H. Cottineau OSB:** The compiler of the monastic directory that proved the existence of a religious house at Bures-en-Bray [1].
+*   **Harry Price:** The primary investigator of Borley Rectory, who acknowledged the existence of Bures Londiniers in his second book, _The End of Borley Rectory_ [5]. 
+
+### **Contradictions and Discrepancies**
+*   **Geographical Confusion (Suffolk vs. Normandy):** For years, the Borley legend and investigators assumed that the "Bures" mentioned in the ghostly legends and séances referred to Bures St. Mary, a village six miles south of Borley on the Essex/Suffolk border [6]. However, no historical evidence was ever found to prove that a convent or nunnery existed at Bures in Suffolk [1, 6]. The discovery of Bures-en-Bray shifted the geographical focus, providing a location that actually matched the "French" and "Bures" clues given in the planchette scripts [1, 2].
+*   **The Nunnery vs. Monastery Debate:** In a footnote in _The End of Borley Rectory_, Harry Price acknowledged Bures-en-Bray (calling it Bures Londiniers) but dismissed it by stating there was no trace of a *nunnery* ever existing in the town [5]. However, later researchers using Dom Cottineau’s directory proved that Bures-en-Bray *did* possess a Benedictine monastery [1, 5]. Proponents of the nun theory argue that if this monastery had incorporated a convent or nunnery within its estate, it would perfectly explain why no standalone nunnery was recorded in Price's sources [5].
+
+**Sources:** enbr

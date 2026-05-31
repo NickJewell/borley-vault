@@ -23,3 +23,22 @@ In the 1990s, ghost writer Wesley H. Downes and Paul Moss-Kemp (see [[east-angli
 ## Significance
 
 Campsey Ashe is the final resting place of one of the most important figures in the Borley story — the rector who lived through the "fifteen months" and documented the most intense phase of the haunting. The village is remote, consistent with the isolated outposts that defined Foyster's ministry from Borley through to his final years at Rendlesham. His grave is the most accessible physical memorial to the Borley incumbency.
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**Campsey Ashe** (also spelled Campse Ashe) is a village located **two miles south of Wickham Market in Suffolk**, situated many miles to the northeast of Borley [1, 2]. 
+
+**Associated Persons and Key Events**
+The village is primarily associated with the **Revd Lionel Algernon Foyster**, the former rector of Borley during its most infamous period of poltergeist activity (1930–1935) [1, 2]. Following his retirement and subsequent death at Dairy Cottages in Rendlesham in April 1945, **Foyster was laid to rest in the parish churchyard at Campsey Ashe** [1, 2]. 
+
+**Paranormal Claims**
+Despite leaving Borley Rectory years earlier, Foyster's association with the supernatural purportedly followed him to his grave. According to local lore, **his ghost is now thought to walk the Campsey Ashe churchyard**, appearing as a figure wearing clerical skirts and afflicted with a noticeable limp caused by his chronic rheumatism [1].
+
+**Contradictions and Discrepancies**
+The Borley sources contain a few minor discrepancies regarding the details of Foyster's burial at Campsey Ashe:
+*   **The Date of Death:** Accounts contradict each other on the exact date Foyster died before being interred at Campsey Ashe. One text records his death as taking place on **18 April 1945**, while another places it eight days later on **26 April 1945** [2, 3].
+*   **The Headstone Inscription:** There are differing descriptions of his grave marker. While both agree it is a plain stone, one source states it bears the inscription *"Lionel Algernon Foyster, Priest 1878–1945. The Lord is my Shepherd"* [2]. Another source claims it is more simply inscribed, reading only *"Lionel Foyster, Priest, 1878-1945"* [3].
+
+**Sources:** 15mhh · brc · enbr

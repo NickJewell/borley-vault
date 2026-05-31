@@ -84,3 +84,37 @@ The 1988 discovery does not directly solve any of the Borley mysteries. But it r
 - [[borley-place]] — the adjacent house connected by the tunnel
 - [[rev-ac-henning]] — sought but failed to find the crypt
 - [[harry-bull]] — who barred the door in 1921
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**The Crypt of Borley Church** is a subterranean vault long rumored to exist beneath the twelfth-century parish church, forming a significant part of the Borley haunting lore. The sources record detailed physical descriptions, discovery events, and intense controversies surrounding the crypt.
+
+### **Physical Description**
+The physical layout and contents of the crypt were detailed following a 1988 exploration by a local psychical research group. 
+*   **The Entrance:** The entrance to the crypt was concealed beneath a dummy grave situated to the right of the churchyard, barely two yards from the altar window, just past the graves of the Bull family [1, 2]. The grave was surrounded by a rusty four-foot metal fence and covered by a completely plain flagstone with no inscription [1, 2]. 
+*   **The Stairway:** Lifting the hollow-sounding stone revealed a flight of broken brick steps descending an estimated 25 to 30 feet into the earth [1-3]. The sides of the stairway were lined with ancient bricks in very poor condition, with large sections having collapsed to reveal bare earth and rubble [3]. A human skeleton was noted embedded in the soil to the right of the stairs [1, 3].
+*   **The Door:** At the bottom of the stairs lay a small anteroom littered with rubble, facing a large, ancient wooden door [1, 4]. This door was locked and secured with heavy vertical and horizontal metal bars [1, 4]. Etched into the woodwork were the initials **"H.F.B."** and the date **"1921"** [1, 4].
+*   **The Main Chamber and Contents:** Peering through a large, old-fashioned keyhole, the 1988 investigators described a huge underground chamber with an arched and grooved ceiling, appearing to extend the entire length of the church or further [1, 4, 5]. Inside, they observed a small altar or table covered with a purple cloth bearing a crucifix [1, 4, 5]. To the left, resting on stone supports, were at least four heavy lead coffins encrusted with a green patina [4, 5]. A large bundle of what looked like papers rested on the floor [1]. 
+*   **Structural Anomalies:** The brickwork at the far western end of the crypt appeared to have been repaired or altered at a later date, leading investigators to speculate that it might have originally connected to an underground tunnel linking the church to Borley Place or other nearby buildings [4-6]. 
+
+### **Key Events**
+*   **Harry Price's Excavation (August 17, 1943):** Investigating planchette séance clues suggesting that documents or the remains of the Waldegrave family and the murdered nun "Marie Lairre" were in the crypt, **Harry Price** and the **Rev. Alfred C. Henning** attempted to locate the entrance [7-9]. Guided by local masons, they used a block and tackle to lift a one-ton, five-foot-long stone slab in the central aisle of the church [9, 10]. Instead of a crypt, they discovered that the slab was the original pre-Reformation stone altar laid face down on a bed of sand [9-11]. Price temporarily abandoned the search for the crypt to focus on the Rectory cellars [12, 13].
+*   **The 1988 Discovery:** On **July 6, 1988**, five members of the **East Anglian Group for Psychic Research Studies**, led by **Paul Moss-Kemp**, officially located and entered the stairway to the crypt by scaling the iron fence and lifting the unmarked flagstone [1, 2, 14, 15]. 
+*   **Sealing the Crypt:** Following these modern explorations, the authorities reportedly filled in the stairway, at least partially, and permanently sealed the entrance, forbidding further access [4, 16]. 
+
+### **Associated Persons**
+*   **The Rev. Harry Foyster Bull:** The initials "H.F.B." and the date "1921" on the crypt's barred door suggest that the Rev. Bull knew about the crypt, had access to it, and deliberately sealed it off during his incumbency [1, 4]. 
+*   **Miss Ethel Bull:** Harry Bull's sister, whose alleged knowledge of the crypt sparked one of the biggest controversies in the Borley case (see below) [17, 18].
+*   **The Waldegrave Family:** Local legend and Harry Price believed the crypt contained the coffins of the powerful Waldegrave family (who held Borley for 300 years) rather than them being buried directly beneath their ornate monument in the nave [8, 17, 19].
+*   **Paul Moss-Kemp / East Anglian Group:** The modern investigators responsible for successfully finding the entrance in 1988 [1, 2, 15].
+
+### **Contradictions and Controversies (The Moving Coffins)**
+A major point of contention in the Borley literature revolves around paranormal activity allegedly occurring within the crypt itself. 
+*   **Harry Price's Claim:** In his 1940 book, _The Most Haunted House in England_, Price claimed that **Ethel Bull** told him the heavy (Waldegrave) coffins in the Borley crypt had been found displaced and moved from their prescribed positions on several occasions, mimicking the famous "haunted vault" phenomenon of Barbados [17, 19-21]. 
+*   **The SPR and Ethel Bull's Denial:** On April 4, 1953, skeptical investigators **Dr. Eric Dingwall and Trevor H. Hall** (acting for the Society for Psychical Research) interviewed Ethel Bull [17]. They stated that she outright denied making the statement to Price, claiming she had absolutely no knowledge of a crypt at Borley [17, 18]. This contradiction was used by skeptics to accuse Price of fabricating evidence [17].
+*   **Counter-Claims:** In 1972, investigator **Geoffrey Croom-Hollingsworth** countered the SPR's findings, claiming he possessed evidence proving that Ethel Bull *did* know about the crypt and had personally been down into the vault herself [18, 22]. Furthermore, modern investigator Wesley H. Downes published notes supporting the original legend, stating that prior to the entrance being sealed, coffins *had* repeatedly been found poised at odd angles after being straightened up [16, 23]. 
+*   **Proposed Explanations for the Discrepancy:** Proponents of the haunting suggest that Ethel Bull may have deliberately feigned ignorance to the SPR investigators in 1953 [17]. By that time, the villagers of Borley were angry about the constant influx of tourists and vandals, and Miss Bull had reportedly become the butt of local jokes for her ghost stories, prompting her to become highly cautious and evasive during subsequent interviews [17, 24].
+
+**Sources:** brc · brfa · ebr · enbr · gotb · gtwnd · hbrs · mhh · slbr

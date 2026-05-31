@@ -43,3 +43,36 @@ The order at Clare was also the destination of **Fred Cartwright** the day he sa
 - [[fred-cartwright]] — the carpenter heading to Clare when he saw the nun in 1927
 - [[marie-lairre]] — Banks explores a possible place-name link to "Clare"
 - [[the-nun]] — the apparition connected to these historical threads
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+Based on the Borley sources, **Clare Priory** was an Augustinian monastic establishment located a few miles from Borley that features prominently in historical theories regarding the identity of the Borley "phantom nun." 
+
+Here are the specific details recorded about Clare Priory in the sources, formatted for a reference article:
+
+### **Physical Description and Location**
+*   **Location:** Clare Priory is located in the county of Suffolk, approximately four miles beyond Borley [1].
+*   **Architecture and Layout:** In its original form, the Priory consisted of an extensive collection of buildings [2]. For most of its perimeter, the estate was bounded by the course of the River Stour [2]. On the third side, the monks created an artificial ditch with flood gates, effectively turning the priory into a small island [2]. 
+
+### **Associated Persons**
+*   **Richard de Clare, Earl of Clare:** Invited the original monks from France to establish the order at Clare [2].
+*   **Stephen Luskin:** A homeless Austin monk from Clare Priory who later reappeared as the Rector of Borley in 1565 [3, 4]. 
+*   **Richard Ingworth:** The King’s agent to whom the monks were forced to surrender the Priory during the Dissolution of the Monasteries [3].
+*   **Thomas Cranmer (Archbishop of Canterbury):** Granted monk Stephen Luskin a special dispensation in 1537 [3].
+*   **Fred Marion:** A psychometrist whose description of a "small island" was retrospectively linked to the geography of Clare Priory [2].
+
+### **Key Events**
+*   **1248–1249 (Founding):** Richard de Clare visited France in 1248 and returned the following year, bringing members of the Augustinian (Austin) order to live under a Royal writ of protection at Clare [2].
+*   **1291:** The Ecclesiastical Taxation of Pope Nicholas IV noted that Sudbury Priory held property or possessions in Clare [5]. 
+*   **December 20, 1537:** Facing the impending dissolution of the monasteries, Clare monk Stephen Luskin paid £4.00 for a dispensation from Archbishop Thomas Cranmer allowing him to legally continue wearing his monk's habit hidden underneath the clothes of a secular priest [3]. 
+*   **November 29, 1538 (Dissolution):** Although it was initially exempt from King Henry VIII's compulsory dissolution of monastic orders, the monks at Clare Priory were ultimately forced to surrender the property to the King's agent, and they were expelled [3]. 
+*   **1953 (Re-establishment):** After an absence of over four hundred years, the Austin Friars returned to Clare and re-established their order on the site [1-3].
+
+### **Connections to the Borley Haunting and Proposed Explanations**
+*   **The "Marie Lairre" / "Clare" Misinterpretation:** Investigator Ivan Banks theorized that the name "Marie Lairre" (the 17th-century French nun identified by the Glanville family's planchette seances as Borley's ghost) was actually a misinterpretation by the planchette users [6, 7]. Because of Clare's historical links to France and the phonetic similarity between "Lairre" and "Clare," Banks suggested the seance entities might have been trying to reference Clare Priory rather than a nun named Lairre [7]. 
+*   **The Island Psychometry:** During Harry Price's investigation, psychometrist Fred Marion handled a piece of touchwood found at Borley Rectory. He claimed to sense it came from "a sort of old-fashioned building with small buildings adjoining" located on a "small island" [2, 8]. While this did not match Borley Rectory, later researchers realized this was a perfect geographical description of the artificially islanded Clare Priory [2].
+*   **The Tunnel Legend:** A persistent local rumor claimed that a subterranean tunnel ran from Clare and met another tunnel from Bures somewhere underneath the grounds of Borley Rectory [9]. However, this is largely dismissed as folklore, as digging such a tunnel under the River Stour would have been an immense engineering feat [10, 11].
+
+**Sources:** brfa · ebr · enbr · mhh · slbr

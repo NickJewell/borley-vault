@@ -168,3 +168,60 @@ The 1956 SPR Report systematically addresses the nun sighting record:
 - [[hilary-wright]] — 1971 sighting (new)
 - [[canon-leslie-pennell]] — 1965 near-miss (new)
 - [[canon-edward-powell]] — 1960s sighting (new)
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**The Phantom Nun** is the most celebrated and frequently reported apparition in the history of the Borley Rectory hauntings, central to its lore and the subject of intense investigation and fierce debate. Descriptions of the entity vary, as do the theories attempting to explain her presence, ranging from romantic medieval tragedies to accusations of psychological suggestion and outright hoaxes.
+
+### **Recorded Instances and Witness Descriptions**
+
+**The Bull Incumbency (Pre-1928)**
+*   **c. 1885–1886:** P. Shaw Jeffrey, a friend of the Rev. Harry Bull, claimed to have seen the nun several times during his stays at the Rectory [1-3].
+*   **28 July 1900 (The Foundational Sighting):** Four of the Bull sisters (Ethel, Freda, Mabel, and Elsie) collectively saw the nun while returning from a garden party [4, 5]. **They described a figure dressed entirely in flowing black robes, with a bowed head and hands clasped as if telling beads, gliding along the "Nun's Walk"** [4-6]. When Elsie approached, the figure stopped, turned towards her, and vanished [5, 7]. Harry Price later claimed the figure had an expression of "intense grief," though Ethel Bull subsequently told investigators that the light was too poor to see any facial features [5, 8].
+*   **November 1900:** Ethel Bull and the Rectory cook saw the nun leaning over a garden gate, a sighting later corroborated by a visiting cousin [7, 9, 10].
+*   **1916–1919:** Edward Cooper, the groom-gardener, saw a "Sister of Mercy" leave the back entrance of the Rectory at dusk. He followed her for several yards until she reached the road and vanished instantly [11, 12]. 
+*   **Autumn 1927:** Fred Cartwright, a journeyman carpenter, saw a "Sister of Mercy" standing by the Rectory gate on four separate mornings at dawn. On the second and third occasions, her eyes were closed, and she looked pale, ill, and tired. On his fourth encounter, he intended to speak to her, but she vanished before he could reach the gate [13-16].
+
+**The Smith & Foyster Incumbencies and Price Tenancy (1928–1938)**
+*   **1928:** A servant girl from London gave notice after just two days, terrified after seeing a nun walking in the wood [17, 18]. The Smiths' subsequent maid, Mary Pearson, also claimed to have seen the nun leaning over a gate and walking on the Nun's Walk [19-21].
+*   **12 June 1929:** During Harry Price's first visit, *Daily Mirror* reporter V.C. Wall claimed to see a dark, shadowy figure moving along the Nun's Walk at dusk, though it vanished before he could reach it [22, 23]. 
+*   **18 February 1938:** Mrs. Lloyd Williams, one of Price's official observers, was watching from the summer-house at twilight and reported seeing a "round, dark object" resembling a "short, stooping figure" move across the lawn and disappear [24-26]. 
+
+**Post-Fire and Later Sightings (1939 onwards)**
+Even after the Rectory burned down in 1939, sightings of the nun continued, often shifting toward the adjacent Borley Church:
+*   **26 March 1939:** Rosemary Williams and Charles Browne saw the figure of a woman clothed in blue (or a light buff coat) standing in the burnt-out aperture of the Blue Room window, despite there being no floor left to stand on [27-30].
+*   **June/July 1943:** Polish Army officers investigating the ruins reported seeing a black shadow moving between the trees on the Nun's Walk [27, 31, 32].
+*   **Early Summer 1944:** Dorothy Lane, stationed at nearby Liston Hall, awoke to find a shadowy figure in long grey robes standing by her bed. It lingered for ten seconds before gradually fading away [33].
+*   **26 July 1949:** Dr. Margaret Abernethy saw a solid-looking nun, estimated to be about 40 years old, standing by a hedge. When the doctor reversed her car to offer the woman a lift, the figure had disappeared [34-36]. 
+*   **August 1949:** The Rev. Stanley C. Kipling saw a frail-looking veiled girl, aged 18 to 23, wearing a nun's hood in the churchyard. She passed behind a shrub and vanished [37, 38].
+*   **20 June 1970:** Investigators Geoffrey Croom-Hollingsworth and Roy Potter reported watching the nun for 12 minutes. **In a stark departure from earlier descriptions of a young woman, they described an elderly woman in her sixties with a mole on her cheek**, wearing a grey habit and cowl, gliding a foot above the ground and passing straight through a solid fence [39-42].
+*   **Autumn 1971:** Hilary Wright saw a nun in long grey robes standing elevated above the road level on Hall Lane [43, 44].
+
+### **Proposed Explanations: Legends and Paranormal Theories**
+
+**1. The 13th-Century Novice of Bures**
+The earliest and most popular local legend asserted that the Rectory was built on the site of a 13th-century monastery. According to the tale, a monk eloped with a beautiful novice from a nearby nunnery at Bures in a horse-drawn coach. They were captured; the monk was hanged or beheaded, and the nun was bricked up alive in her convent walls. Her ghost purportedly wandered the Rectory searching for her lover [45-48]. 
+
+**2. Marie Lairre (The 17th-Century French Nun)**
+During planchette séances conducted by the Glanville family in 1937, a different narrative emerged. The spirit identified herself as "Marie Lairre," a 19-year-old French novice from Le Havre. She claimed she was induced to leave her convent, brought to England, and strangled at Borley on May 17, 1667, by a member of the powerful Waldegrave family. Her body was allegedly buried in the cellar [49-53]. Canon W.J. Phythian-Adams championed this theory, suggesting the Catholic nature of the wall-writings (appealing for "Light, Mass, Prayers") were her desperate pleas [53, 54]. In 1943, Harry Price excavated the cellars and found bone fragments belonging to a young woman, which he attributed to Marie Lairre and had given a Christian burial in 1945 [55-58].
+
+**3. The Waldegrave Nuns**
+Historical researchers later dismissed the "Marie Lairre" story and pointed out that several daughters of the local Waldegrave family had actually become nuns in Europe. Ivan Banks proposed the ghost was **Barbara Apollonia Waldegrave** (born 1603), who became a nun in Brussels and died mysteriously young at age 36 [59-61]. Georgina Dawson proposed the ghost was **Arabella Waldegrave** (born 1687), who entered a French convent, allegedly became a Stuart spy, and was murdered at Borley [62-64].
+
+### **Proposed Explanations: Skeptical and Mundane Perspectives**
+
+**1. Historical Impossibilities**
+Skeptics, including Dr. Letitia Fairfield and the Society for Psychical Research (SPR), effectively dismantled the foundational legends. **They proved there was never a monastery at Borley nor a nunnery at Bures.** Furthermore, horse-drawn coaches did not exist in England in the 13th century, and the romanticized gothic punishment of bricking up errant nuns is a complete historical myth [45, 65-68].
+
+**2. Misidentification and Tricks of the Light**
+The SPR authors (Dingwall, Goldney, and Hall) heavily criticized Harry Price's framing of the famous July 1900 sighting. Price published that the sisters saw the nun in "sunlight" [69, 70]. The SPR pointed out that the event happened around 9:00 p.m., well over an hour after sunset, in "late twilight." **In the fading gloom, skeptics argue the sisters simply misidentified a passing villager, vagabond, or poacher** using the Rectory garden as a shortcut, who hurried away when approached [71-75]. 
+
+**3. Village Pranks and Hoaxes**
+Many early sightings of the nun and other figures were attributed to local pranksters. Mrs. Mabel Smith believed village boys played tricks in the dark. It was widely known that Mary Pearson's boyfriend, Fred Tatum, walked around the grounds in the rain with his coat pulled over his head, easily creating the illusion of a cowled or headless figure [76, 77]. Mary Pearson herself was known to put her apron over her head to mimic the nun as a joke [78]. 
+
+**4. Psychological Suggestion and Price's Exaggerations**
+Skeptics maintain that Harry Price deliberately exaggerated testimonies to sell books. When Ethel Bull was interviewed by the SPR in 1953, she complained that Price had altered her accounts to make them more sensational, noting she never saw a face on the nun, let alone an expression of "intense grief" [8, 79]. Furthermore, during Price's tenancy, he issued a *Blue Book of Instructions* to his 48 observers, explicitly telling them to watch the "Nun's Walk" at dusk for a "black draped figure." Skeptics argue this heavily primed impressionable observers, like Mrs. Lloyd Williams, causing them to experience subjective hallucinations based on expectancy [25, 80]. Some members of the Bull family themselves, such as Gerald and Walter Bull, entirely rejected the hauntings, calling the nun a product of "feminine imagination" [81, 82].
+
+**Sources:** 15mhh · brc · brfa · ebr · enbr · gotb · gtwnd · hast · hbrs · mhh · slbr · spr · wob

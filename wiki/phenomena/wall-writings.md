@@ -153,3 +153,52 @@ The Companion provides the most systematic account of the seven principal Foyste
 - [[canon-phythian-adams]] — deciphered 'trompée' and 'Well-Tank-Bottom-Me'
 - [[poltergeist-activity]] — broader Foyster-period phenomena
 - [[andrew-clarke]] — definitive timeline and graphological summary (slbr-20)
+
+## Research Notes
+
+*Sourced via NotebookLM corpus research, 2026-05-30.*
+
+**The Wall-Writings** at Borley Rectory are perhaps the most famous and intensely debated phenomena in the site's history. They appeared primarily during the turbulent incumbency of the Rev. Lionel Foyster and his wife Marianne (1930–1935) and continued as less legible marks during Harry Price's year-long observer tenancy (1937–1938). 
+
+Here is a detailed breakdown of the recorded instances, witness descriptions, and proposed explanations from the Borley sources:
+
+### **1. The Foyster Incumbency (May – August 1931)**
+During this period, the writings took the form of desperate, semi-legible appeals, often addressed directly to Marianne Foyster and carrying a distinctly Roman Catholic flavor. They initially began as messages on scraps of paper before migrating to the walls, primarily in the passages near the bathroom and kitchen [1-3]. 
+
+**Recorded Instances and Witness Descriptions:**
+*   **"Marianne please help get":** Found in the bathroom passage 4 feet 3 inches from the floor, it appeared hastily scrawled, with a dash at the end as if the writer had been suddenly pulled away [4-7].
+*   **The Dialogues:** Another message read "Marianne get help (something undecipherable) bother me." Marianne Foyster wrote underneath it: **"I cannot understand. Tell me more. Marianne"** [5, 7, 8]. In response, another tangled scrawl appeared underneath, which Harry Price initially read as "Light In-Write Prayer and O," but was later interpreted as having French words (see Explanations below) [8, 9]. 
+*   **"Get Light Mass and Prayers Here" (16 June 1931):** This is the only fully dated message from this era. Edwin Whitehouse (later Dom Richard Whitehouse) and Marianne Foyster had been reciting a Catholic Novena on the upstairs landing. After a brief separation, Whitehouse noticed the fresh, legible message on a previously clean patch of the landing wall, 4 feet 8 inches from the floor [10-13]. Later that day, the word "Here" and some additional scribbling were added to the end [11, 12].
+*   **"Well Tank Bottom Me":** Originally read by Price as "Marianne At Get Help—Entant Bottom Me," this message was found outside the bathroom [14-16]. 
+*   **"Edwin":** A single word found on the half-landing of the servants' stairs, referring to Edwin Whitehouse [17].
+
+### **2. The Harry Price Tenancy (1937–1938)**
+After the Foysters left, the legible appeals ceased. However, Harry Price’s official observers recorded hundreds of fresh, meaningless marks, "squiggles," and detached letters appearing on the walls [18-20].
+
+**Recorded Instances and Witness Descriptions:**
+*   **14–15 August 1937:** Observers Sidney Glanville and Capt. H.G. Harrison photographed one of the old "Marianne" messages. An hour later, they returned to find fresh pencil marks had appeared directly next to the message they had just photographed, despite the house being locked and sealed [21-23]. 
+*   **16 February 1938:** Dr. C.E.M. Joad and Mark Kerr-Pearse made a careful tour of the wall marks. An hour later, Joad found a fresh "pencil squiggle" on a wall they had previously scrutinized. He declared it "inconceivable" that they could have missed it or made it themselves [24, 25].
+*   **7–8 May 1938:** BBC television engineers M. Savage and Bowden were minutely examining the Blue Room walls. According to Savage, **a pencil mark appeared right before their eyes** while they were looking at the wall. Minutes later, more marks appeared near the mantelpiece. In another room, they discovered fresh marks resembling the "Prince of Wales's feathers" (or a Fleur-de-lis) [26-29].
+
+### **Proposed Explanations and Source Perspectives**
+
+The wall-writings deeply polarized investigators, leading to three main theories:
+
+**1. The Paranormal / "Marie Lairre" Theory (Believers)**
+*   **Canon W.J. Phythian-Adams** conducted a brilliant analysis of the writings in 1941, linking them to planchette séance messages. He re-examined the tangled response to Marianne's request for more information and discovered the French word ***"trompée"*** (deceived/betrayed) and ***"Répond ici"*** (Reply here) [30-32]. 
+*   He also re-translated "Entant Bottom Me" to **"Well Tank Bottom Me"** [16]. 
+*   Phythian-Adams theorized that a 17th-century French novice named **Marie Lairre** had been murdered by a Waldegrave and thrown into a well. Because spirits struggle to manipulate matter, he proposed that the ghostly entity **unconsciously "borrowed the hand and arm of Mrs. Foyster"** to physically write the desperate pleas for a Catholic Requiem Mass [33, 34]. 
+
+**2. Conscious Fraud by Marianne Foyster (Skeptical)**
+*   **The Society for Psychical Research (SPR)** investigators (Trevor Hall, Eric Dingwall, Kathleen Goldney) and neighbors like Sir John Braithwaite concluded that Marianne Foyster deliberately faked the writings [35, 36]. 
+*   **Graphological Evidence:** Professional graphologist Lewis T. Ackermann analyzed the scripts and concluded that **all the messages (with the single exception of the word "Edwin") were executed by the exact same personality—Marianne Foyster** [37-39]. The SPR argued she created the phenomenon to gain attention, frighten her older husband into leaving the dreary Rectory, or to entertain her lover, François d'Arles [3, 40, 41].
+*   **Marianne's Denials:** Decades later, Marianne adamantly denied writing them. She contradictorily blamed village children using the Rectory toilet, a 14-year-old maid, or Edwin Whitehouse, claiming Whitehouse was highly strung and emotionally disturbed [42-46]. (Some sources, however, note she did admit to writing her *responses* on the wall [47]).
+
+**3. Misobservation and "Borley Hysteria" (The Squiggles)**
+*   **Poor Investigative Control:** Regarding the fresh "squiggles" found by Price's observers, the SPR authors dismissed them as scientifically worthless. Because the Rectory walls were heavily littered with graffiti and the observers were working in poor lighting (torches/oil lamps), skeptics argued the observers simply missed the marks on their first rounds and erroneously assumed they had appeared paranormally an hour later [48, 49]. 
+*   **Childish Pranks:** The Rectory housekeeper, Mary Dytor, noted that the Foysters' adopted 3-year-old toddler, Adelaide, was a "terror for scribbling" and regularly drew on the walls at the exact height (approx. 2 feet 6 inches) where many of the lower squiggles were found [50-52]. 
+
+**4. Harry Price's Middle Ground**
+Harry Price ultimately adopted a psychological middle ground. While he defended the "squiggles" found by his observers as genuinely paranormal [53], he conceded that Marianne Foyster was likely the physical author of the 1931 appeals. However, he suggested she acted in a state of dissociation, writing: *"Mrs Foyster MAY have been the instrument through which the scripts appeared on the walls—I mean as a secondary personality. If so, this would NOT invalidate the veridical content of the messages"* [54, 55].
+
+**Sources:** 15mhh · brc · ebr · enbr · gotb · gtwnd · hast · hbrs · mhh · slbr · spr · wob
