@@ -764,6 +764,43 @@ Edward Babbs and Claudine Mathias (CM = widow of the last rector). The only Borl
 
 ---
 
+### New pages (from deep-dive of most-haunted-house)
+
+**People**
+
+| Page | Description |
+|------|-------------|
+| [Constance Bull](wiki/people/constance-bull.md) | Henry Bull's daughter; third surviving sister met by Price at Chilton Lodge June 1929; distinct from Constance Brackenbury |
+| [Mabel Bull](wiki/people/mabel-bull.md) | Henry Bull's daughter; one of three who saw the nun July 28, 1900 (with Ethel and Freda) |
+| [Elsie Bull](wiki/people/elsie-bull.md) | Henry Bull's daughter; married shortly after 1900; ran toward the nun causing it to turn and vanish |
+| [Katie (Foysters' maid)](wiki/people/katie-foyster-maid.md) | Young maid at Borley November 1931; named witness to bottle floating in mid-air with Mrs. Foyster and Dom Richard Whitehouse |
+| [Sir George Whitehouse](wiki/people/sir-george-whitehouse.md) | Husband of Lady Whitehouse; personally witnessed fire and stone-throwing at Borley; died before Price's 1939 interviews |
+| [Mr. Hardy (Senior)](wiki/people/mr-hardy-painter.md) | Foreman painter, born Borley; sole witness of the "smoking phenomenon" — column of smoke rising from centre of lawn |
+| [Mrs. Margaret E. Wilson](wiki/people/mrs-margaret-wilson.md) | Artist; visited August 1938 to paint Rectory; painted the only surviving oil of the house; sole witness of the extraordinary insect |
+| [C. Gordon Glover (and Mrs. C. Gordon Glover)](wiki/people/c-gordon-glover.md) | BBC official observers; February 1938; organized the party that produced Mrs. Lloyd Williams's nun sighting |
+| [Lloyd Williams (and Mrs. Lloyd Williams)](wiki/people/lloyd-williams.md) | BBC Education Director and wife; February 1938; Mrs. Lloyd Williams saw dark figure moving on Nun's Walk — key BBC nun sighting |
+| [W. S. Hammond](wiki/people/ws-hammond.md) | BBC staff; official observer January 1938; heard door-closing sounds three times in one night |
+| [A. P. Drinkwater](wiki/people/ap-drinkwater.md) | Longmans executive; November 1937; blue box moved twice in one night; ran out of chalk ringing new pencil marks |
+| [S. G. Welles](wiki/people/sg-welles.md) | Oxford Rhodes Scholar; February 1938; sole witness of luminous phenomenon — rectangular light patch moving on Blue Room ceiling |
+| [Joseph W. Burden](wiki/people/joseph-burden.md) | Christ Church Oxford; December 1937; 24+ hours alone in Rectory; heard wailing and dragging sounds; "uncanny sense of being watched" |
+| [T. Stainton](wiki/people/t-stainton.md) | Christ Church Oxford; with Burden December 1937; confirmed wailing and dragging sounds independently |
+| [J. M. Bailey](wiki/people/jm-bailey.md) | Oxford undergraduate; July 1937 with Wintour; both "thought they saw" a pencil mark grow before their eyes |
+| [C. V. Wintour](wiki/people/cv-wintour.md) | Oxford undergraduate; July 1937 with Bailey; confirmed pencil marks appearing including three circles in eight minutes |
+| [F. C. Bellamy (Francis C.)](wiki/people/fc-bellamy.md) | Son of Dr. H.F. Bellamy; co-observer October 1937 and May 1938; wrote detailed covering letters on the electric bell phenomenon |
+| [Hugh E. Fee-Smith](wiki/people/hugh-fee-smith.md) | Dr. Bellamy's friend; felt hair ruffled and face touched at the same corridor spot on two separate visits |
+| [A. C. Elliot Smith](wiki/people/ac-elliot-smith.md) | Harrow master; visited July 28, 1937; wrote incisive analysis of pencil marks; raised the "material lead" question |
+| [W. S. Pennefather](wiki/people/ws-pennefather.md) | His father rented Borley Rectory for a 6-week holiday before 1896 with no phenomena experienced |
+| [W. Davey](wiki/people/w-davey.md) | Ipswich; visited ruins April 1939; camera flew open twice immediately after each photograph |
+| [C. Glover Botham and Harry Collard](wiki/people/c-glover-botham.md) | London mediums; held first Borley séance June 16, 1929 — completely without result |
+
+**Phenomena**
+
+| Page | Description |
+|------|-------------|
+| [The Extraordinary Insect (August 1938)](wiki/phenomena/extraordinary-insect-1938.md) | 3-inch black articulated creature with grape-coloured eyes seen by Mrs. Wilson in the Rectory garden; naturalists said "nothing on earth" |
+
+---
+
 ## Sources — The Enigma of Borley Rectory (prefix: `enbr`)
 
 Ivan Banks (Maidstone, Kent, 1994). Pro-Price account with original archival research in England, France, and Belgium. Key: Henry Dawson Bull's death from tertiary syphilis (documented); Kate Boreham death investigation (forensic pathology consultation); Sir Edward Waldegrave as ghost candidate (Calendars of State Papers); Sudbury Priory as origin of monastery legend; Barbara Waldegrave (Sister Apollonia, died 1638) as Banks's nun candidate; Anthony Hart Gregson confirms father torched the Rectory; full verbatim séance transcripts (560+ Q&As) from Locked Book microfilm; Harry Price born London not Shrewsbury.
@@ -995,3 +1032,130 @@ Robert Wood (c. late 1980s/early 1990s). A skeptical biography of Marianne Foyst
 | [Mrs Henning](wiki/people/mrs-henning.md) | First name confirmed as Annette; her initial reluctance about Borley added |
 | [Mrs E. Byford](wiki/people/mrs-byford.md) | Maiden name Martha Seaber Wilson; married Ernest Byford 1891 |
 | [Mr and Mrs Arbon](wiki/people/mr-and-mrs-arbon.md) | Names confirmed: Lionel Arbon (steam-roller driver) and Winifred (née Pearson, daughter of Annie Pearson) |
+
+---
+
+### New pages (from deep-dive of sidelights-borley-rectory)
+
+**People**
+
+| Page | Description |
+|------|-------------|
+| [Professor Cook (Cambridge)](wiki/people/professor-cook-cambridge.md) | Cambridge academic who investigated during Foyster period; concluded nothing supernatural; suppressed entirely from Price's books |
+| [Canon Lambert](wiki/people/canon-lambert.md) | Bull family friend; confirmed haunting stories were told "never in a serious vein" — an extended family joke |
+| [Rev John Foster MA (Rector of Foxearth)](wiki/people/rev-john-foster-foxearth.md) | Rector of adjacent Foxearth; 1871 rape-case scandal; Bulls were close to the Fosters; Clarke's probable source of the "Katie Boreham" narrative |
+| [Catherine Foster (of Acton)](wiki/people/catherine-foster-acton.md) | Acton woman who poisoned her husband with arsenic 1846; publicly executed; cited by Clarke as a source for Borley's poisoning narratives |
+| [Rev Somerset Pennefather](wiki/people/rev-somerset-pennefather.md) | Named father in the Pennefather family; rented Borley Rectory for 6 weeks in 1895; experienced nothing unusual |
+| [Johnnie Palmer](wiki/people/johnnie-palmer.md) | Borley Place farm worker for the Paynes; eyewitness to 1943 excavation; maintained throughout his life that bones were "awd Sows Bunz" (pig bones) |
+| [Lewis T. Ackerman](wiki/people/lewis-t-ackerman.md) | Professional graphologist; analyzed all Borley wall-writings; concluded all were by the same personality except one word ("Edwin") |
+| [Kate Fernie](wiki/people/kate-fernie.md) | London woman; mother of Douglas Pearless (François d'Arles Jr) by Frank Pearless |
+| [Rev Bassett (Rector of Foxearth)](wiki/people/rev-bassett-foxearth.md) | Rector of Foxearth during Foyster period; object of D'Arles's jealousy; Marianne called him "a very nice looking man" |
+| [Marjorie Emery](wiki/people/marjorie-emery.md) | Clarke's candidate for real mother of baby John Emery; theory she had affair with Frank Pearless |
+| [Ada Ewens](wiki/people/ada-ewens.md) | Frank Pearless's first wife; divorced 1934; establishes he was legally married throughout the Borley period |
+| [Eric Liberge](wiki/people/eric-liberge.md) | French author of graphic novel *Tonnerre Rampant*; gave the Marie Lairre narrative its "ultimate form" |
+
+**Places**
+
+| Page | Description |
+|------|-------------|
+| [Bush Boake Allen / Stafford Allen Factory](wiki/places/bush-boake-allen-factory.md) | Large essence and flavourings factory north of Borley; Clarke's identification as source of all lavender, perfume, and cooking-smell phenomena |
+| [Monks Hall, Glemsford](wiki/places/monks-hall-glemsford.md) | Historic house 2 miles from Borley with monastery/tunnel/ghost-monk legend; Clarke's identified source of Borley's tunnel and monk legends |
+
+---
+
+### New pages (from deep-dive of spr-haunting-br)
+
+**People**
+
+| Page | Description |
+|------|-------------|
+| [Professor H. H. Price (Oxford)](wiki/people/professor-hh-price.md) | Oxford philosopher; former SPR President; the Note to the 1956 report explicitly distinguishes him from Harry Price the ghost-hunter |
+| [Rev. S. Austin](wiki/people/rev-s-austin.md) | Accompanied KMG and Salter to interview Miss Ethel Bull at Sudbury, 11 August 1950 |
+| [Mrs C. C. Baines](wiki/people/mrs-cc-baines.md) | SPR member who queried Lucie Kaye/Meeker about the St Ignatius medal in January 1951; critical testimony in the medals fraud argument |
+| [Dr V. J. Woolley](wiki/people/dr-vj-woolley.md) | Former SPR Research Officer; investigated the 1928 Battersea Poltergeist; his notes document Price producing "phenomena" sixteen months before Borley |
+| [Walter Hubbell](wiki/people/walter-hubbell.md) | Canadian actor and author of *The Great Amherst Mystery* (1879); made a fortune from the Esther Cox case; the commercial template Price consciously echoed |
+| [Esther Cox](wiki/people/esther-cox.md) | Central figure of the Amherst poltergeist case 1878–79; the SPR draws 18 explicit numbered parallels between her case and Marianne Foyster's |
+| [Daniel and Olive Teed](wiki/people/daniel-and-olive-teed.md) | Esther Cox's sister and brother-in-law; their unusual surname used by Foyster as a pseudonym in *Fifteen Months* — key evidence he knew the Amherst case |
+| [Dr Walter F. Prince](wiki/people/walter-prince.md) | American psychical researcher; 1919 critical analysis of Amherst case showed Hubbell embellished; Price owned his work |
+| [Hereward Carrington](wiki/people/hereward-carrington.md) | Psychical researcher; co-author with Fodor of *Story of the Poltergeist* (1953); continued to credit both Amherst and Borley as genuine despite Prince's analysis |
+| [Dr H. Park Shackleton](wiki/people/dr-h-park-shackleton.md) | Named in 1956 SPR Report preface as providing information and advice to the investigators |
+| [Dr John Park Shackleton](wiki/people/dr-john-park-shackleton.md) | Named in 1956 SPR Report preface alongside H. Park Shackleton; likely son |
+| [Roland Winder](wiki/people/roland-winder.md) | Named in 1956 SPR Report preface as providing information and advice |
+| [Dr P. E. Ryberg](wiki/people/dr-pe-ryberg.md) | Official observer 8 December 1937; report (suppressed by Price) documented mice, no unexplained sounds, and easy cellar access |
+| [R. M. Christie](wiki/people/r-m-christie.md) | Official observer with Ryberg and Cooper, 8 December 1937 |
+| [L. G. Cooper](wiki/people/l-g-cooper.md) | Official observer with Ryberg and Christie, 8 December 1937 |
+| [M. Knox (M. P. Knox)](wiki/people/m-knox.md) | Official observer, Univ. College Oxford, February 1938; noted bushes as rapping source; entered house via cellars with Hawkin; report suppressed |
+| [R. Hawkin](wiki/people/r-hawkin.md) | Entered Borley via the cellars with Knox February 1938 |
+| [B. Nisbet](wiki/people/b-nisbet.md) | SPR Journal contributor (February 1948) who identified Mrs Foyster's distinctive downward-dash 'i' dot in the wall-writings |
+| [P. H. Lord](wiki/people/ph-lord.md) | Cambridge undergraduate who staged a successful fake poltergeist and nun-apparition 22 July 1944; also an inside witness at the "Light in the Bedroom" incident |
+| [E. N. J. Angelbeck](wiki/people/enj-angelbeck.md) | Cambridge Commission member; 20 December 1941; heard pump-like knocking at 12:35 a.m. |
+| [W. F. W. Southwood](wiki/people/wfw-southwood.md) | Cambridge Commission member; saw apparent horse skeleton in ruins June 1944; wrote to Price November 1946 though his Commission report noted nothing of interest |
+| [Mr and Mrs Mitchell (Foyster Period)](wiki/people/mr-and-mrs-mitchell-foyster.md) | Unnamed occupants of the rectory cottage at the start of the Foyster incumbency; acoustic effect made their domestic sounds audible inside the rectory |
+
+**Places**
+
+| Page | Description |
+|------|-------------|
+| [Amherst, Nova Scotia](wiki/places/amherst-nova-scotia.md) | Site of the Esther Cox poltergeist case 1878–79; five miles from Sackville where the Foysters lived 1928–30 |
+
+**Themes / Publications**
+
+| Page | Description |
+|------|-------------|
+| [*Confessions of a Ghost Hunter* (Price, 1936)](wiki/themes/confessions-of-a-ghost-hunter.md) | First edition contained the sentence "the supernormal played no part" — deleted from later editions before Price re-entered the Borley case in 1937 |
+| [*Fifty Years of Psychical Research* (Price, 1939)](wiki/themes/fifty-years-of-psychical-research.md) | Price's own statement that "evidence for apports is bad" contradicts his treatment of the Borley medals; also cites dubious nun sighting as genuine |
+
+---
+
+### New pages (from deep-dive of widow-of-borley)
+
+**People**
+
+| Page | Description |
+|------|-------------|
+| [William Steele Shaw](wiki/people/william-steele-shaw.md) | Marianne's father; schoolmaster (Grafton House), failed publican (Woodman Inn Hyde), private tutor; time-keeper for British Portland Cement Co NI; his failures shaped Marianne's lifelong fantasy-building |
+| [Annie Elizabeth Shaw (née Woodyatt)](wiki/people/annie-shaw.md) | Marianne's mother; colluded with husband in concealing Marianne's first marriage and son from Foyster |
+| [Geoffrey Shaw](wiki/people/geoffrey-shaw.md) | Marianne's older brother, born 1897; visited her at Salmonhurst before Ian did |
+| [Rev. Edmund Peel Wethered](wiki/people/rev-edmund-wethered.md) | Lionel's brother-in-law; curate of Oughtrington; Wood's "watchful eye" placed over Lionel after early career scandal |
+| [Adelaide Foyster (Mrs Wethered)](wiki/people/adelaide-wethered.md) | Lionel's sister; married Rev. Wethered; one of two Foyster sisters |
+| [Adelaide Julia Tillard](wiki/people/adelaide-julia-tillard.md) | Lionel's mother; daughter of Philip Tillard JP; gave Lionel influential maternal relations he never appealed to |
+| [Philip Tillard JP, of Stukely Hall](wiki/people/philip-tillard-jp.md) | Lionel's maternal grandfather; JP; family of "considerable social standing and influence" |
+| [Rev. Henry Brereton Foyster](wiki/people/rev-henry-brereton-foyster.md) | Lionel's uncle; rector of St Clement's Hastings; the family living Lionel was denied — key evidence of his early scandal |
+| [Rev. Henry Charles Brereton Foyster](wiki/people/rev-henry-charles-brereton-foyster.md) | Lionel's cousin; inherited St Clement's from his father in 1906, bypassing Lionel |
+| [Rev. Henry Samuel Foyster](wiki/people/rev-henry-samuel-foyster.md) | Lionel's paternal grandfather; Queen's College Cambridge 1811; Rector All Saints' Hastings 1849–1862; founder of Foyster clerical dynasty |
+| [Father du Parc](wiki/people/father-du-parc.md) | Roman Catholic priest at Salmonhurst NB; Ian Shaw alleged affair with Marianne — uncorroborated |
+| [Major Forbes-Mitchell](wiki/people/major-forbes-mitchell.md) | Government Survey Office, St John NB; deceived by Marianne posing as "Mrs von Kiergraff"; exposed by Ian's jacket |
+| [Bishop Richardson (of Fredericton)](wiki/people/bishop-richardson.md) | Anglican bishop whose registers document Foyster's Canadian postings; Ian Shaw alleged he forced Foyster out of diocese |
+| [Willy Palmer](wiki/people/willy-palmer.md) | Borley village boy; Marianne's confederate; rigged string-operated collapsing shelf in pantry; distinct from Johnnie Palmer |
+| [Mr and Mrs Fenton](wiki/people/mr-and-mrs-fenton.md) | Wimbledon chemist shop owners; received Marianne's most elaborate false biography — the "Santiago Monk / Countess von Kiergraff" soap opera |
+| [Dr Davies](wiki/people/dr-davies.md) | Unnamed Midlands doctor; wife died of cancer; exploited at Grosvenor Hotel Victoria autumn 1941–March 1942; fake trances; blackmail threat persisted for years |
+| [Mabel Davies](wiki/people/mabel-davies.md) | Dr Davies's deceased wife; died of cancer; Marianne impersonated her spirit in hotel lounge |
+| [Mrs Amy Saunders](wiki/people/mrs-amy-saunders.md) | Marianne's Ipswich landlady from mid-1930s to 1946; properties at Gyppeswyck Road and Ranelagh Road |
+| [K.J.T. Keer MRCS](wiki/people/kjt-keer.md) | Wickham Market doctor; signed Foyster's death certificate (April 1945) with causes Wood considers "insufficient" — possible complicity |
+| [C.J. Parry](wiki/people/cj-parry.md) | Wickham Market solicitor; proved Foyster's will 1946, then (unsuccessfully) hired to trace Marianne when she abandoned John Fisher |
+| [Beverly St Jacques](wiki/people/beverly-st-jacques.md) | Woman Robert O'Neil left Hokah with; precipitated their first American separation |
+| [Esther O'Neil](wiki/people/esther-oneil.md) | Robert O'Neil's mother; lived with grandmother on O'Neil family farm, Hokah, Minnesota |
+| [Sergeant Downing](wiki/people/sergeant-downing.md) | Bromley, Kent; evacuee sons David and Stewart at Dairy Cottage; "seemed much taken with Mrs Fisher" per John Fisher |
+| [Sauer (Hokah)](wiki/people/sauer-hokah.md) | Nephew of Hokah barber; driver when O'Neil fractured his jaw on Highway 44; subject of Marianne's pointless false letter to Mrs Fenton |
+
+**Places**
+
+| Page | Description |
+|------|-------------|
+| [Dairy Cottage, Rendlesham](wiki/places/dairy-cottage-rendlesham.md) | Most significant post-Borley location; Fisher-Foyster household 1941–45; where Foyster died 18 April 1945; O'Neil visited; Marianne planned GI-bride escape here |
+| [Hill Farm House, Chillesford](wiki/places/hill-farm-house-chillesford.md) | Remote farmhouse near Tunstall Forest; Fishers 1938–1940; resembles Borley Rectory; children neglected; Foyster rarely seen |
+| [The Whin, Snape](wiki/places/the-whin-snape.md) | Snape village; Fishers May 1940–June 1941; Fisher absent; Marianne reverted to "Mrs Foyster"; no visitors; Price's book published during this period |
+| [Gyppeswyck Road, Ipswich](wiki/places/gyppeswyck-road-ipswich.md) | No. 12; Marianne's first Ipswich lodgings from Mrs Saunders; base for single-woman masquerade; where Fisher was met |
+| [Grosvenor Hotel, Victoria](wiki/places/grosvenor-hotel-victoria.md) | Where Dr Davies lived; setting for fake seances and Marianne's six-month exploitation of the grieving doctor |
+| [Michaelchurch Court, Herefordshire](wiki/places/michaelchurch-court.md) | Henry Fisher's family home near Ross-on-Wye; Fisher born here; Marianne visited with Foyster posing as her father |
+| [Hokah, Minnesota](wiki/places/hokah-minnesota.md) | O'Neil family town on Highway 44; Marianne's first American home; disillusionment; Hokah Chief newspaper; Sauer accident |
+| [Jamestown, North Dakota](wiki/places/jamestown-north-dakota.md) | Where Swanson found Marianne in February 1958; Gladstone Hotel interviews; she worked at Jamestown Sun |
+| [Fargo, North Dakota](wiki/places/fargo-north-dakota.md) | Where Marianne moved autumn 1958; ND Agricultural College; street directories 1959–1963; listed as O'Neil's "widow" |
+| [La Crosse, Wisconsin](wiki/places/la-crosse-wisconsin.md) | Marianne's final American home from 1963; social welfare career receiving state recognition; died here 1992 aged 93 |
+
+**Themes**
+
+| Page | Description |
+|------|-------------|
+| [The Dr Davies Episode (1941–42)](wiki/themes/dr-davies-episode.md) | Six-month exploitation of grieving Midlands doctor; fake trances impersonating his dead wife; cabbalistic cursed clothes sent after break-up; blackmail threat |
+| [Death of Lionel Foyster (18 April 1945)](wiki/themes/death-of-lionel-foyster.md) | Suspicious death at Dairy Cottage; death certificate with "insufficient" causes; murder allegations by Hall, Swanson, Fisher's sister, Foyster relatives; Garrett interview in which Marianne says killing "had often been in her mind" |
