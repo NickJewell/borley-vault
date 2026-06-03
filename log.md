@@ -831,3 +831,13 @@ Systematic enrichment pass across all non-source wiki pages using NotebookLM cor
 Scope: `wiki/people/` (444), `wiki/places/` (49), `wiki/phenomena/` (24), `wiki/themes/` (52). Excluded: `wiki/sources/` (126), `overview.md`, `timeline.md`.
 
 Citations in Research Notes use vault slug prefixes (e.g. `brc`, `enbr`, `spr`). Failed pages can be retried in a future session when NLM quota resets.
+
+## [2026-06-03] housekeeping | integrated Research Notes into 90 pages (themes, places, people batches)
+
+Second housekeeping pass. 90 pages that received NLM enrichment in the 2026-06-03 session had their `## Research Notes` sections integrated into the main body by parallel Claude subagents (14 batches).
+
+**Scope:** 14 people (`wiki/people/`), 24 places (`wiki/places/`), 52 themes (`wiki/themes/`).
+
+**Rules applied:** Research Notes content merged into appropriate H2 sections; `## Research Notes` heading removed; `*Sourced via NotebookLM…*` attribution removed; `**Sources:**` line relocated to last line; `updated:` stamped `2026-06-03`; wikilinks improved from vault slug list; contradictions flagged with `> **Contradiction:** …` blocks.
+
+**Result:** `grep -rl "## Research Notes" wiki/` returns 0 matches across all 697 pages.

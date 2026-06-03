@@ -3,7 +3,7 @@ title: "Sudbury Dominican Friary (St. Saviour's)"
 type: place
 tags: [monastery, dominican, sudbury, monastery-controversy]
 sources: [enbr-ch17]
-updated: 2026-05-30
+updated: 2026-06-03
 ---
 
 # Sudbury Dominican Friary (St. Saviour's)
@@ -19,11 +19,13 @@ A Dominican friary founded in Sudbury, Suffolk, approximately one mile from Borl
 - **Known for:** Theological studies
 - **Suppressed:** 1538
 
+The friary was founded more than a century after the Benedictine [[st-bartholomews-priory|St. Bartholomew's Priory]] nearby (established 1115). Throughout its history it was chiefly known for theological studies, and it remained an active monastic community until dissolved in 1538 [1].
+
 ## Borley Relevance
 
 Ivan Banks examines Sudbury Dominican Friary in his investigation of the monastery controversy (Chapter 17). Unlike [[st-bartholomews-priory|St. Bartholomew's Priory]] (which is Benedictine and has documented Borley land rights), Sudbury Dominican Friary is of less direct relevance to the Borley haunting tradition, for two reasons:
 
-1. It is Dominican, not Benedictine — the Waldegraves and the ghost-nun tradition are associated with Benedictine orders
+1. It is Dominican, not Benedictine — the [[waldegrave-family|Waldegraves]] and the ghost-nun tradition are associated with Benedictine orders
 2. Banks finds no documented evidence of Dominican land rights in Borley
 
 The friary is nevertheless relevant because:
@@ -39,9 +41,14 @@ Banks notes that the Dominican Friary, like all monastic communities, was devast
 
 > **Note:** Banks uses "Sudbury Priory" loosely in this passage to refer to the Dominican Friary; elsewhere he distinguishes it from the Benedictine [[st-bartholomews-priory|St. Bartholomew's Priory]].
 
+## Surviving Architecture
+
+The friary's original remains are partially extant. Its site is close to the present-day Sudbury Cricket Ground, and surviving fabric has been built into premises now occupied by a Masonic lodge [1].
+
 ## Cross-links
 
 - [[st-bartholomews-priory]] — the Benedictine priory Banks identifies as the more direct source of the Borley monastery legend
 - [[borley-legends]] — monastery controversy overview
-- [[georgina-dawson]] — identified the priory on the opposite bank of the Stour
 - [[waldegrave-family]] — Lords of the Manor who succeeded the Canterbury monks
+
+**Sources:** brc · enbr
